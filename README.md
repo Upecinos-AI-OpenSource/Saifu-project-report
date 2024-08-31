@@ -229,41 +229,36 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 | :--------| :--------: |
 | Mi nombre es **Jessica Elizabeth Comettant Rubiños** y tengo 20 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a las asignaturas correspondientes a la malla curricular de mi carrera, cuento con las habilidades intelectuales propicias para el desarrollo del proyecto. Asimismo, mi personalidad se encuentra basada en la autonomía. Por lo tanto, he sido capaz de extender mis conocimientos de programación con mayor material de estudio. Finalmente, destaco de mi personalidad la empatía, la responsabilidad, la amabilidad y la capacidad de trabajar en equipo.|![](https://github.com/user-attachments/assets/b3c1d064-1dbd-471d-a87c-fdfced051bb1)|
 
-<div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
-<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
+<div id='12'><h3> 1.2. Solution Profile.</h3></div>
+<div id='121'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
 
 ###### What (Qué)
-###### ¿Cuál es el problema?
+El problema que hemos detectado radica en la baja capacidad financiera de la población peruana, enfocado en cómo manejan sus gastos mensuales y la falta de proyección a futuro. Teniendo como evidencia que solos el 21% de los peruanos puede realizar un cálculo de interés simple o que solo el 42% pudo ahorrar en un plazo de 12 meses en el año 2022, según la "Encuesta Nacional de Capacidades Financieras 2022" del SBS.
 
 ###### When (Cuando)
 
-###### ¿Cuándo sucede el problema?
-###### ¿Cuándo utiliza el cliente el producto?
+El problema viene sucediendo durante los últimos años pero se evidenció más posterior a la pandemia del COVID-19. Aquello debido al impacto socio-económico que dejó la cuarentena de más de 1 año por el temor al contagio; generando el cierre de negocios y grandes pérdidas de empleo. Según Hellen Gibbons, “La caída inmediata de los valores de los activos (incluidas las pensiones, las viviendas y las acciones) socava todas las proyecciones de ingresos futuros, lo que hace que sea extremadamente difícil para las personas planificar el futuro”. En este escenario planteado es donde actuaría la nuestra aplicación, para apoyar a las personas y familias con la administración de su dinero y con la educación financiera.
 
 
 ###### Where (Dónde)
-###### ¿Dónde está el cliente cuando usa el producto?
-###### ¿A dónde se dirige?
+El cliente que usará nuestro producto se encontraría, principalmente, en las ciudades urbanas, con acceso a internet y a tecnologías móviles. El enfoque de la aplicación es dirigido a personas o familias que reciban ingresos mensuales, semanales o diarios y puedan así administrarlos.
 
-###### ¿Dónde surge el problema?
 
 
 ###### Who (Quién)
-###### ¿Quiénes están involucrados? 
-###### ¿Quién lo utilizará?
+Los principales clientes de la aplicación serían las cabezas de familia, padre y/o madre, y las personas independientes que cuenten con una fuente de ingresos. Esto debido a que se manejaría un patrón de ingresos y egresos
 
 
 ###### Why (Por qué)
-###### ¿Cuál es la causa del problema?
-
+La principal causa del problema financiero entre la población peruana radica en la falta de educación financiera en las escuelas o universidades, en especial cuando no se estudia una carrera relacionada a las finanzas o ingenieria; y es peor para las personas que no contaron con eduación superior o técnica.
 
 ##### ¿Cuáles son las 2H?
 ###### How (Cómo)
-###### ¿Cómo se utilizará el producto?
-###### ¿Cómo lograremos desarrollar la correcta gestión de finanzas?
+El producto se utilizaría de manera diaria o mensual para realizar el registro de gastos generales y gastos rutinarios, además de ello el usuario podrá acceder a un análisis y resumen de los datos ingresados; también podrá acceder a una plataforma educativa y de consultas financieras
+
 
 ###### How much (Cuánto)
-###### ¿Qué porcentaje de los jefes de hogar se verán beneficiados por nuestro producto?
+Se estima que los beneficiados de nuestro producto se mida en función a la importancia que den los usuarios a las funcionalidades de Saifu, esto debido a que el objetivo de Saifu es trabajar en función a los datos que pueda brinar el usuario
 
 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
