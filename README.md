@@ -205,17 +205,21 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
 
-<div id='1.'><h2>Capítulo I: Introducción</h2></div>
+<div id='1'><h2>Capítulo I: Introducción</h2></div>
 
-<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
+<div id='11'><h3> 1.1 Startup Profile.</h3></div>
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 
-<div id='1.1.1.'><h4> 1.1.1. Descripción del startup.</h4></div>
+<div id='111'><h4> 1.1.1. Descripción del startup.</h4></div>
  
+Upecinos.AI somos un grupo de jóvenes quienes buscan impulsar la educación financiera en el Perú. Para ello, se confronta uno de los principales dilemas que se sugestiona como agravante de la pobreza en los estratos socioeconómicos bajos (niveles económicos A, B y C). Este problema es el analbetismo financiero y el desconocimiento del consumo responsable en los hogares peruanos. Upecinos.AI , busca cambiar el paradigma a través de la implementación de Saifu, cuya finalidad se centraliza en la planificación financiera y el hábito de ahorro en los jefes del hogar lo que evita el sobreendeudamiento y el déficit en las necesidades primarias que garantizan el concepto de buena calidad de vida. Para ello, se toma en cuenta la volatilidad económica y las proyecciones macroeconómicas nacionales, otorgadas por el Banco de la Nación.
+
 
 **Misión:** 
+La misión que tenemos como equipo al desarrollar Saifu es poder llegar a la mayor cantidad de personas posibles para lograr ser un soporte para el manejo económico del hogar, además de lograr una interacción amigable entre las familias y el uso de la aplicación para el planeamiento futuro de sus finanzas.
 
 **Visión:** 
+Como visión nos proyectamos a ver el resultado de la aplicación beneficiando el ahorro y premiando, indirectamente, la responsabilidad financiera; generando que familias que estén en la pobreza puedan salir de los problemas que les genere ese estado.
 
 ##### Logotipo de la Startup:
 (insertar imagen)
@@ -223,11 +227,14 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 (insertar imagen)
 
 
-<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
+<div id='112'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
 |Descripción del integrante|Perfil del integrante del equipo|
 | :--------| :--------: |
 | Mi nombre es **Jessica Elizabeth Comettant Rubiños** y tengo 20 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a las asignaturas correspondientes a la malla curricular de mi carrera, cuento con las habilidades intelectuales propicias para el desarrollo del proyecto. Asimismo, mi personalidad se encuentra basada en la autonomía. Por lo tanto, he sido capaz de extender mis conocimientos de programación con mayor material de estudio. Finalmente, destaco de mi personalidad la empatía, la responsabilidad, la amabilidad y la capacidad de trabajar en equipo.|![](https://github.com/user-attachments/assets/b3c1d064-1dbd-471d-a87c-fdfced051bb1)|
+| Mi nombre es **Renato German Reyes Valenzuela** y tengo 23 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a los cursos que estuve llevando los últimos ciclos, más el aprendizaje extracurricular, cuento con la capacidad y conocimientos para desarrollarme correctamente con los avances y desarrollo de la propuesta de trabajo que ofrecemos. Por último, destaco mi capacidad de empatía y compañerismo para poder avancar de manera grupal los sprint correspondientes y apoyarme en lo necesario con mis compañeros.|![]*Inserte Imagen*
+|Mi nombre es **Luis Angel Cisneros Salas** y tengo 20 años. Soy estudiante de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas), y actualmente estoy en el quinto ciclo. Gracias a los cursos que he llevado en los últimos ciclos, así como al aprendizaje extracurricular, he adquirido los conocimientos y habilidades necesarios para desarrollarme eficazmente en los proyectos y propuestas de trabajo que ofrecemos. Además, destaco por mi capacidad de empatía, compañerismo y mi rápida adaptación a los cambios, lo cual me permite avanzar de manera colaborativa en los sprints y apoyar a mis compañeros en lo que sea necesario.|![]*Inserte Imagen*
+|Mi nombre es **Marco Antonio Góngora Sánchez** y tengo 20 años. Soy estudiante de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas), y actualmente estoy en sexto ciclo. Gracias a los cursos que he llevado en estos últimos ciclos, tengo conocimientos de lenguajes cómo C++, Python, SQL, HTML y CSS y conceptos básicos de C#. Además, puedo aportar mucho en temás de diseño y creatividad. Por último, destaco mi perspectiva frente a adversidades y mi compañerismo.|![]*Inserte Imagen*
 
 <div id='12'><h3> 1.2. Solution Profile.</h3></div>
 <div id='121'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
