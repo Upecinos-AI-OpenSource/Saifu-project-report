@@ -27,6 +27,7 @@ width=50%"/>
 |Reyes Valenzuela, Renato German|U20221B471|
 |Cisneros Salas,Luis Angel|U20211B198|
 |Góngora Sánchez,Marco Antonio|U20211A085|
+|Rojas Ccama, Carlos Andres|U202114657|
 
 <h5 style="text-align: center"> Ciclo 2024-02 </h5>
 
