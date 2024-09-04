@@ -206,6 +206,13 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
 
+# Student Outcome
+
+| Criterio Específico | AccionesRealizadas | Conclusiones |
+|---------------------|--------------------|--------------|
+|  | <br>**TB1**<br> | **TB1**|
+|  | <br>**TB1**<br> | **TB1** |
+
 <div id='1'><h2>Capítulo I: Introducción</h2></div>
 
 <div id='11'><h3> 1.1 Startup Profile.</h3></div>
