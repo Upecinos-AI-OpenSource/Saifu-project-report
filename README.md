@@ -1222,3 +1222,171 @@ Registro de Transacciones:
 
 ![WhatsApp Image 2024-09-06 at 5 59 24 AM](https://github.com/user-attachments/assets/4cd7fd8c-337d-4a12-af9f-83564d1f7f4e)
 
+<div id='47'><h4> 4.7 Software Object-Oriented Design.</h4></div>
+
+<div id='471'><h4> 4.7.1 Class Diagrams.</h4></div>
+
+![](assets/Class-diagram-saifu.JPG)
+
+<div id='472'><h4> 4.7.2 Class Dictionary.</h4></div>
+
+1. Usuario
+Atributos:
+
+•	username: Nombre de usuario para acceso al sistema.
+
+•	password: Contraseña para la seguridad del acceso.
+
+•	nombres: Nombres del usuario.
+
+•	apellidos: Apellidos del usuario.
+
+•	edad: Edad del usuario.
+
+•	grupoFamiliar: Identificador del grupo familiar al que pertenece el usuario.
+
+Métodos:
+
+•	registrar(): Registra un nuevo usuario en el sistema.
+
+•	agregarCodFamilia(): Asocia un usuario a un código de familia específico.
+
+3. ControlUsuario
+   
+Atributos:
+
+•	username: Nombre de usuario.
+
+•	password: Contraseña del usuario.
+
+•	codigoFamiliar: Código que identifica al grupo familiar.
+
+Métodos:
+
+•	determinarAcceso(): Verifica las credenciales para determinar si el usuario tiene acceso al sistema.
+
+5. RedirigirAcceso
+
+Métodos:
+
+•	redireccion(): Redirige al usuario a diferentes partes del sistema basado en su rol y permisos.
+
+6. Saifu
+   
+Atributos:
+
+•	seleccionOp: Opción seleccionada por el usuario.
+
+•	presentacion: Datos que se presentarán al usuario.
+
+•	username: Nombre de usuario.
+
+•	codigoFamiliar: Código de familia del usuario.
+
+Métodos:
+
+•	imprimirPresentacion(): Muestra información relevante al usuario basada en la opción seleccionada.
+
+•	ejecutarSeleccion(): Ejecuta la función seleccionada por el usuario.
+
+7. SignUp
+
+Herencia: Hereda de Usuario.
+
+Métodos:
+
+•	registrar(): Método específico para registrar usuarios nuevos desde la interfaz de inscripción.
+
+8. Login
+
+Atributos:
+
+•	username: Nombre de usuario.
+
+•	password: Contraseña.
+
+Métodos:
+
+•	loggeo(): Método para autenticar usuarios.
+
+9. BalanceEconomico
+
+Atributos:
+
+•	ingresos: Total de ingresos registrados.
+
+•	egresos: Total de egresos registrados.
+
+Métodos:
+
+•	registrarIngresos(): Registra ingresos en el balance.
+
+•	registrarEgresos(): Registra egresos en el balance.
+
+•	mostrarBalance(): Muestra el balance económico actual.
+
+10. EducacionFinanciera
+
+Atributos:
+
+•	topico: Tópico de la educación financiera.
+
+•	duracion: Duración del contenido educativo.
+
+Métodos:
+
+•	mostrarTexto(): Muestra contenido educativo.
+
+•	ejecutarOperacion(): Ejecuta operaciones financieras educativas.
+
+11. PlanificacionFinanciera
+
+Atributos:
+
+•	textoPlan: Descripción del plan financiero.
+
+Métodos:
+
+•	mostrarTexto(): Muestra el plan financiero a seguir.
+
+12. ConsejosPresupuestos
+    
+Atributos:
+
+•	textoConsejo: Consejos para manejar el presupuesto.
+
+Métodos:
+
+•	mostrarTexto(): Muestra consejos presupuestarios.
+
+13. MetodosAhorro
+
+Atributos:
+
+•	textoAhorro: Texto con métodos de ahorro.
+
+Métodos:
+
+•	mostrarTexto(): Muestra métodos de ahorro.
+
+14. Servidor
+    
+Atributos:
+
+•	idServidor: Identificador del servidor.
+
+Métodos:
+
+•	realizarTripConsulta(): Realiza una consulta tripartita.
+
+•	registrarDatos(): Registra datos en el sistema.
+
+•	obtenerDatos(): Obtiene datos almacenados.
+
+
+<div id='48'><h4> 4.8 Database Design.</h4></div>
+<div id='481'><h4> 4.8.1 Database Diagram.</h4></div>
+
+![Base de Datos](assets/Database-design-saifu.JPG).
+
+
