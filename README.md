@@ -687,6 +687,12 @@ ___
 |Screenshot|![](https://github.com/LuisCS341/ImagenProyecto/raw/main/EntrevistaOpenSource.png)|
 |Timing: 0:00-6:06 |URL:https://drive.google.com/file/d/1LjHWG3TrSpVIZG70o6qmyyH8S_Ja5W31/view?usp=sharing
 
+|Entevistado 2|Jose Carlos|
+|-|-|
+|Edad|23 años|
+|Distrito|San Juan de Miraflores|
+|Screenshot|![](assets/Entrevista_2-S2.jpg)|
+|Timing: 0:00-4:38 |URL:https://drive.google.com/file/d/1y22qqGlsQCkAOAjaprv_jddntPExWOcj/view?usp=sharing
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas.</h4></div>
 
