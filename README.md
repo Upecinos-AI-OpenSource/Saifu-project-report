@@ -700,12 +700,12 @@ ___
 
 * User persona jefe de hogar del sector económico D o E
 
-![María Rodríguez](https://hackmd.io/_uploads/r1pB0T13A.png)
+![María Rodríguez](assets/UP-1.png)
 
 * User persona joven de 18 a 24 años en inicios de independencia
 **(insertar imagen)**
 
-![_Luis Gómez](https://hackmd.io/_uploads/H1v460J30.png)
+![_Luis Gómez](assets/UP-2.png)
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
 
