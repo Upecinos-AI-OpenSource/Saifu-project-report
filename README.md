@@ -777,36 +777,36 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 
 | # Orden | User Story ID | Título | Descripción| Story Points |
 |:-:|:-:|-|:-|:-:|
-|1|--|---|--|--|
-|2|--|---|--|--|
-|3|--|---|--|--|
-|4|--|---|--|--|
-|5|--|---|--|--|
-|6|--|---|--|--|
-|7|--|---|--|--|
-|8|--|---|--|--|
-|9|--|---|--|--|
-|10|--|---|--|--|
-|11|--|---|--|--|
-|12|--|---|--|--|
-|13|--|---|--|--|
-|14|--|---|--|--|
-|15|--|---|--|--|
-|16|--|---|--|--|
-|17|--|---|--|--|
-|18|--|---|--|--|
-|19|--|---|--|--|
-|20|--|---|--|--|
-|21|--|---|--|--|
-|22|--|---|--|--|
-|23|--|---|--|--|
-|24|--|---|--|--|
-|25|--|---|--|--|
-|26|--|---|--|--|
-|27|--|---|--|--|
-|28|--|---|--|--|
-|29|--|---|--|--|
-|30|--|---|--|--|
+|1|--|---|Como usuario, quiero poder registrarme desde el landing page para recibir información y acceder a la aplicación de Saifu.|--|
+|2|--|---|Como joven independiente, quiero registrarme en la aplicación para acceder a las funcionalidades de control de mis finanzas.|--|
+|3|--|---|Como jefe de hogar, quiero poder crear un perfil en la aplicación desde el landing page, para que mis datos se sincronicen automáticamente.|--|
+|4|--|---|Como usuario, quiero poder iniciar sesión desde la aplicación en cualquier dispositivo para acceder a mi información financiera personal.|--|
+|5|--|---|Como usuario potencial, quiero ver información clara en el landing page sobre las ventajas de usar Saifu para mejorar mi gestión financiera.|--|
+|6|--|---|Como usuario, quiero ver ejemplos de cómo la aplicación puede ayudarme a ahorrar y gestionar mis ingresos antes de registrarme.|--|
+|7|--|---|Como usuario potencial, quiero leer testimonios de otros usuarios en el landing page para sentirme seguro al usar Saifu.|--|
+|8|--|---|Como usuario potencial, quiero una interfaz simple y atractiva en el landing page que explique las funcionalidades de Saifu, para entender mejor cómo me puede ayudar.|--|
+|9|--|---|Como usuario potencial, quiero tener acceso rápido a una opción de registro desde el landing page, para comenzar a usar la aplicación de manera fácil.|--|
+|10|--|---|Como jefe de hogar, quiero registrar mis ingresos y egresos mensuales en la aplicación para obtener una visión clara de la economía de mi familia.|--|
+|11|--|---|Como joven independiente, quiero ver mi balance económico actualizado en la aplicación para ajustar mis gastos de manera responsable.|--|
+|12|--|---|Como usuario, quiero poder elegir entre ver un balance diario, mensual o anual en la aplicación, para evaluar mi situación financiera en diferentes periodos.|--|
+|13|--|---|Como usuario, quiero recibir alertas en la aplicación cuando mis egresos superen mis ingresos, para poder ajustar mi presupuesto.|--|
+|14|--|---|Como usuario, quiero registrar mis gastos diarios en la aplicación desde cualquier dispositivo para tener un control preciso de mi consumo.|--|
+|15|--|---|Como joven independiente, quiero poder categorizar mis gastos diarios en la aplicación para ver en qué áreas estoy gastando más dinero.|--|
+|16|--|---|Como jefe de hogar, quiero ver un resumen en la aplicación de los gastos diarios de mi familia para identificar áreas donde podamos reducir el consumo.|--|
+|17|--|---|Como usuario, quiero acceder a material educativo sobre planificación financiera en la aplicación, para mejorar mi capacidad de ahorro.|--|
+|18|--|---|Como jefe de hogar, quiero recibir consejos personalizados basados en los gastos registrados, que se muestren en la aplicación, para mejorar mi presupuesto familiar.|--|
+|19|--|---|Como joven independiente, quiero aprender cómo crear y mantener un presupuesto en la aplicación, para mejorar la gestión de mis finanzas.|--|
+|20|--|---|Como usuario, quiero tener acceso a guías y videos interactivos en la sección de educación financiera de la aplicación, para aprender sobre métodos de ahorro.|--|
+|21|--|---|Como usuario, quiero generar un reporte de mis gastos mensuales desde la aplicación para entender mis patrones de consumo.|--|
+|22|--|---|Como jefe de hogar, quiero generar un reporte anual de ingresos y egresos en la aplicación para planificar las finanzas del próximo año.|--|
+|23|--|---|Como joven independiente, quiero ver un reporte de inflación anual en la aplicación, para entender cómo afecta mi capacidad de ahorro.|--|
+|24|--|---|Como usuario, quiero generar un reporte de balance económico en la aplicación que compare mis ingresos y egresos, para identificar oportunidades de ahorro.|--|
+|25|--|---|Como usuario, quiero configurar una meta de ahorro en la aplicación y recibir recordatorios periódicos sobre cuánto debo ahorrar para cumplirla.|--|
+|26|--|---|Como usuario, quiero poder editar mi propio perfil dentro de la página para no preocuparme al ingresar mis datos erróneamente|--|
+|27|--|---|Como usuario, quiero poder iniciar sesion con mi cuenta creada en la aplicación para acceder a mi cuenta y gestionar mis datos y configuraciones|--|
+|28|--|---|Como usuario, quiero ver todos los planes de suscripción disponibles para poder determinar cuál es el más conveniente para mí.|--|
+|29|--|---|Como usuario quiero poder comunicarme con un asesor desde la landing page para consultar dudas sobre la aplicación y sus funcionalidades|--|
+|30|--|---|Como usuario, quiero recibir un correo de confirmación después de registrarte para verificar que mi cuenta ha sido creada correctamente.|--|
 
 <div id='4.'><h2> Capítulo IV: Product Design.</h2></div>
 
