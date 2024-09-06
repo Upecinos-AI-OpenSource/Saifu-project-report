@@ -790,23 +790,108 @@ Joven de 18 a 24 años en inicios de independencia:
 
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping.</h4></div>
 
-**(pequeña descripcion)**
 
-Jefe de Hogar del sector ecómico D o E:
-![as-isv2_Jefes de hogar ](https://github.com/user-attachments/assets/0edc449f-52b6-49e9-ad85-1a8ff4667eeb)
+As-is del segmento Jefes de hogar del nivel económico D y E
 
-Joven de 18 a 24 años en inicios de independencia:
-![as-is2_jovenes](https://github.com/user-attachments/assets/5a17ca46-afa5-4f29-9397-9ac0782c1c15)
+Preparación de la actividad
+
+Diseñamos el cuadro y la dividimos en secciones: Phases, Doing, Thinking y Feeling para el As - Is Scenario Mapping
+
+![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is.jpg)
+
+Brainstorming
+
+Luego de realizar las entrevistas al segmento objetivo, realizamos una lluvia de ideas
+
+![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-isv1_Jefes%20de%20hogar%20.jpg)
+
+Identificación de Fases
+
+Por último, organizamos las ideas realizadas anteriormente y los colocamos en sus fases correspondientes
+
+![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-isv2_Jefes%20de%20hogar%20.jpg)
+
+As-is del segmento Jóvenes en inicios de independencia
+
+Diseñamos el cuadro y la dividimos en secciones: Phases, Doing, Thinking y Feeling.
+
+![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is.jpg)
+
+Brainstorming
+
+Luego de realizar las entrevistas al segmento objetivo, realizamos una lluvia de ideas
+
+![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is1_jovenes.jpg)
+
+Identificación de Fases
+
+Por último, organizamos las ideas realizadas anteriormente y los colocamos en sus fases correspondientes
+
+![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is2_jovenes.jpg)
+
+**2.4 Ubiquitous Language**
+
+- Presupuesto Familiar: Plan financiero que detalla los ingresos y gastos esperados de una familia.  El presupuesto familiar es personalizado con base en los datos financieros ingresados 
+
+- Consumo Responsable: Gastar dinero de manera consciente y equilibrada, teniendo en cuenta las proyecciones económicas y el presupuesto personal para evitar gastos innecesarios y promover el ahorro.
+
+- Consejo Financiero: Conjunto de conocimientos y habilidades que permiten a las usuarios tomar decisiones informadas sobre su dinero, incluyendo la gestión de presupuestos, ahorro, y planificación financiera.
+
+- Alertas y Recomendaciones: Notificaciones enviadas por la aplicación "Saifu" que informan a los usuarios sobre cambios en las proyecciones macroeconómicas y ofrecen consejos para ajustar su presupuesto y mejorar su gestión financiera.
+
+- Transacciones de Compra: Registros detallados de las compras realizadas por los usuarios, que se utilizan para analizar el gasto y proporcionar recomendaciones financieras.
+
+- Seguridad y Privacidad: Medidas implementadas en "Saifu" para proteger los datos personales y financieros de los usuarios, garantizando que la información esté segura y que el uso de la misma cumpla con las normativas de privacidad.
+
+- Registro de Gastos: Función de "Saifu" que permite a los usuarios ingresar y categorizar sus gastos diarios para facilitar el seguimiento y la gestión de su presupuesto.
+
+- Recomendaciones Personalizadas: Sugerencias específicas generadas por "Saifu" basadas en el análisis de los datos de gastos y las proyecciones económicas, con el objetivo de ayudar a los usuarios a optimizar su gestión financiera.
+
+- Interfaz de Usuario: Diseño y disposición de elementos visuales en la aplicación "Saifu" que permiten a los usuarios interactuar de manera intuitiva con el sistema, tanto en la versión web como en la móvil.
 
 <div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
 
 <div id='3.1.'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
 
-Jefe de Hogar del sector ecómico D o E:
-![to-be2_Jefes de hogar](https://github.com/user-attachments/assets/17fec39f-6717-4972-a8ca-31485522f999)
 
-Joven de 18 a 24 años en inicios de independencia:
-![to-be4_jovenes](https://github.com/user-attachments/assets/eb8df40c-c861-40a7-a02c-2ac9e7fa9dd2)
+To-be del segmento Jefes de hogar del nivel económico D y E
+
+Preparación de la actividad
+
+Diseñamos el cuadro y la dividimos en secciones: Phases, Doing, Thinking y Feeling para el To-Be Scenario Mapping
+
+![foto_to-be](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is.jpg)
+
+Brainstorming
+
+Luego de realizar las entrevistas al segmento objetivo, realizamos una lluvia de ideas 
+
+![foto_to-be](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/to-be1_Jefes%20de%20hogar.jpg)
+
+Identificación de Fases
+
+Por último, Por último, organizamos las ideas realizadas anteriormente y los colocamos en sus fases correspondientes para nuestro proyecto
+
+![foto_to-be](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/to-be2_Jefes%20de%20hogar.jpg)
+
+To-be del segmento Jóvenes en inicios de independencia-----
+
+Preparación de la actividad
+
+Diseñamos el cuadro y la dividimos en secciones: Phases, Doing, Thinking y Feeling para el To-Be Scenario Mapping
+
+![foto_to-be](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is.jpg)
+
+Brainstorming
+
+Luego de realizar las entrevistas al segmento objetivo, realizamos una lluvia de ideas 
+
+![foto_to-be](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/to-be3_jovenes.jpg)
+
+Identificación de Fases
+Por último, Por último, organizamos las ideas realizadas anteriormente y los colocamos en sus fases correspondientes para nuestro proyecto
+
+![foto_to-be](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/to-be4_jovenes.jpg)
 
 <div id='3.2.'><h3> 3.2. User Stories.</h3></div>
 
@@ -860,13 +945,22 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 | TS-006 | Generación de Reportes (API RESTful) | Como Developer, quiero implementar un endpoint GET para generar reportes en formato PDF o Excel de las transacciones del usuario para que pueda descargar sus reportes financieros. | **Dado** que el cliente envía una solicitud GET a `/api/v1/reports`, **Cuando** los parámetros son correctos (formato PDF o Excel), **Entonces** se debe generar el reporte en el formato seleccionado y retornar un status 200 con el archivo.<br>**Dado** que los parámetros son incorrectos o faltan, **Cuando** se envía la solicitud, **Entonces** debe devolver un error 400 indicando qué parámetros son inválidos. | EP-004 (Generación de Reportes) |
 | TS-007 | Configuración de Metas de Ahorro (API RESTful) | Como Developer, quiero implementar un endpoint POST para que los usuarios puedan configurar sus metas de ahorro en la plataforma, de manera que puedan recibir recordatorios y hacer un seguimiento de sus objetivos financieros. | **Dado** que el cliente envía una solicitud POST a `/api/v1/savings-goals`, **Cuando** los datos son válidos (meta, monto, fecha límite), **Entonces** se debe crear la meta con un status 201 y retornar la información registrada.<br>**Dado** que los datos son inválidos, **Cuando** se envía la solicitud, **Entonces** debe devolver un error 400 con los detalles de los errores. | EP-005 (Metas de Ahorro) |
 | TS-008 | Edición del Perfil de Usuario (API RESTful) | Como Developer, quiero implementar un endpoint PUT para que los usuarios puedan editar su perfil, de manera que puedan actualizar su información personal en la plataforma. | **Dado** que el cliente envía una solicitud PUT a `/api/v1/users/{id}`, **Cuando** los datos son válidos (nombre, dirección, número de teléfono), **Entonces** se debe actualizar el perfil del usuario y retornar un status 200 con los cambios guardados.<br>**Dado** que los datos son inválidos o faltan, **Cuando** se envía la solicitud, **Entonces** debe devolver un error 400 con los detalles de los errores. | EP-006 (Gestión del Perfil) |
+
 <div id='3.3.'><h3> 3.3. Impact Mapping.</h3></div>
 
-Jefe de Hogar del sector ecómico D o E:
-![Impact map-Saifu_jefedehogar](https://github.com/user-attachments/assets/6e4c7462-7164-4427-931d-7664a4d13801)
+## Jefes de hogar de los sectores económicos D y E
 
-Joven de 18 a 24 años en inicios de independencia:
-![Impactmap-Saifu_jovenes](https://github.com/user-attachments/assets/db7ee38b-4858-482e-8560-ba5b692b08a5)
+![foto_impact1]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/Impact%20map-Saifu_jefedehogar.png)
+
+![foto_impact2]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/Impactmap-Saifu_jefedehogar.png)
+
+## Jóvenes adultos recién independientes
+
+![foto_impact1]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/Impact%20map-Saifu_jovenes.png)
+
+![foto_impact2]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/Impactmap-Saifu_jovenes.png)
+
+
 
 <div id='3.4.'><h3> 3.4. Product Backlog.</h3></div>
 
@@ -1270,6 +1364,17 @@ Registro de Transacciones:
 ![WhatsApp Image 2024-09-06 at 5 59 13 AM](https://github.com/user-attachments/assets/7e731046-7c22-4fd0-947f-eee264771dd7)
 
 ![WhatsApp Image 2024-09-06 at 5 59 24 AM](https://github.com/user-attachments/assets/4cd7fd8c-337d-4a12-af9f-83564d1f7f4e)
+
+**4.6. Domain-Driven Software Architecture.**
+
+## 4.6.1. Software Architecture Context Diagram.
+![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/SystemContext.png)
+
+## 4.6.2. Software Architecture Container Diagrams.
+![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/Container_saifu.png)
+
+## 4.6.3. Software Architecture Components Diagrams.
+![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/Component_saifu.png)
 
 <div id='47'><h4> 4.7 Software Object-Oriented Design.</h4></div>
 
