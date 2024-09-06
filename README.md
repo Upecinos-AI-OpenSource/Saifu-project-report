@@ -2865,6 +2865,14 @@ Registro de Transacciones:
 
 ![WhatsApp Image 2024-09-06 at 5 59 24 AM](https://github.com/user-attachments/assets/4cd7fd8c-337d-4a12-af9f-83564d1f7f4e)
 
+4.6. Domain-Driven Software Architecture. (Andres)
+4.6.1. Software Architecture Context Diagram.
+![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/SystemContext.png)
+4.6.2. Software Architecture Container Diagrams.
+![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/Container_saifu.png)
+4.6.3. Software Architecture Components Diagrams.
+![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/Component_saifu.png)
+
 <div id='47'><h4> 4.7 Software Object-Oriented Design.</h4></div>
 
 <div id='471'><h4> 4.7.1 Class Diagrams.</h4></div>
