@@ -678,12 +678,13 @@ ___
 
 **Entrevista a jóvenes de 18 a 24 años en inicios de independencia**
 
-|Entevistado 1|wii|
+|Entevistado 1|Paulo Paucar|
 |-|-|
-|Edad|wuii|
-|Distrito|isdds|
-|<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src=(**imagen** )>|--|
-|Timing: 0:07-15:15 |URL:--
+|Edad|19 años|
+|Distrito|San miguel|
+|Screenshot|![](https://github.com/LuisCS341/ImagenProyecto/raw/main/EntrevistaOpenSource.png)|
+|Timing: 0:00-6:06 |URL:https://drive.google.com/file/d/1LjHWG3TrSpVIZG70o6qmyyH8S_Ja5W31/view?usp=sharing
+
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas.</h4></div>
 
