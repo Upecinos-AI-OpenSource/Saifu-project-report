@@ -694,6 +694,50 @@ ___
 |Screenshot|![](assets/Entrevista_2-S2.jpg)|
 |Timing: 0:00-4:38 |URL:https://drive.google.com/file/d/1y22qqGlsQCkAOAjaprv_jddntPExWOcj/view?usp=sharing
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Viviana</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Caballero</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>32 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lince</td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/c468a39b39aea6a63ebf3e3529e76860d50c42f1/assets/entrevista_jovenes.png" alt="Andres Rojas" width="700"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114657_upc_edu_pe/EdUtJn-OdNlIm5OA_JadsTkBEclGSraLWXgEfc3SuQ_9WQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aILG0x" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 - 05:48</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;"> Viviana Caballero, residente en Lince, aborda su independencia financiera con un conocimiento intermedio, adquirido en parte gracias a la convivencia con sus padres. Al comenzar su vida independiente, su prioridad fue asegurar el alquiler, seguido de los gastos básicos como luz y agua, dejando los gastos variables como alimentación y movilidad para el final. Su principal meta fue evitar el uso de tarjetas de crédito y establecer un ahorro fijo para asegurar el pago del alquiler. Para gestionar sus finanzas, utiliza un Excel para planificar y controlar sus gastos mensuales. Si surgía un problema, tenía que buscar soluciones adicionales. Los meses más ajustados para ella fueron mayo y junio, posiblemente debido a gastos. Considera valioso obtener un historial financiero de meses anteriores para mejorar su planificación en una aplicación. Ella recomienda tener un plan de ahorro básico antes de mudarse y estar preparado para imprevistos.
+</td>
+  </tr>
+</tbody>
+</table>
+
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas.</h4></div>
 
 ##### Análisis del segmento jefes de hogar de los sectores económicos D y E
