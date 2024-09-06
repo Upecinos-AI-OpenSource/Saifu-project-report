@@ -3125,7 +3125,7 @@ Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io
 
 |Sprint 1 Goal|Sprint 1 Velocity|Sum of Story Points|
 |-|-|-|
-|Elaborar y diseñar una landing page atractiva e informativa para la aplicación Saifu|19|19|
+|Elaborar y diseñar una landing page atractiva e informativa para la aplicación Saifu|9|9|
 
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
 
