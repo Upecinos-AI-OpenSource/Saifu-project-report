@@ -230,9 +230,10 @@ La misión que tenemos como equipo al desarrollar Saifu es poder llegar a la may
 Como visión nos proyectamos a ver el resultado de la aplicación beneficiando el ahorro y premiando, indirectamente, la responsabilidad financiera; generando que familias que estén en la pobreza puedan salir de los problemas que les genere ese estado.
 
 ##### Logotipo de la Startup:
-(insertar imagen)
+![logotipo_startup 1](https://github.com/user-attachments/assets/9dda7e79-9b78-46ad-9569-f8c936f95b32)
+
 ##### Logotipo del servicio
-(insertar imagen)
+![logotipo_DPS 1](https://github.com/user-attachments/assets/ccdab840-29f7-4ee1-8d0b-98cd7f94938a)
 
 
 <div id='112'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
@@ -709,11 +710,13 @@ ___
 
 Se presentan los User Task Matrix, diagramas que contienen las tareas realizadas por los segmentos objetivos: 
 
-* **(Nombre del user persona del primer segmento):**
+* **María Rodríguez (Jefe de Hogar del Sector Económico D o E):**
 
-<table> <tr> <th></th> <td colspan="2"> Jefe de Hogar del sector ecómico D o E </td> <td colspan="2"> Joven de 18 a 24 años en inicios de independencia</td> </tr> <tr> <td>TASK</td> <td>FREQUENCY</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> <td>IMPORTANCE</td> </tr> <tr> <td>Monitorear los procesos</td> <td>Always </td> <td>High</td> <td>Often</td> <td>Medium</td></tr> </table>
+<table> <tr> <th></th> <td colspan="2"> Jefe de Hogar del sector ecómico D o E (María Rodríguez) </td> </tr> <tr> <td>TASK</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> </tr> <td>Registrar gastos diarios</td> <td>Alta</td> <td>Siempre</td> </tr> <td>Planificar el presupuesto semanal/mensual</td> <td>Alta</td> <td>Mensual</td> </tr><td>Buscar ofertas y precios bajos</td> <td>Media</td> <td>Semanal</td> </tr> <td>Ahorrar para emergencias</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Controlar el gasto en servicios básicos</td> <td>Media</td> <td>Mensual</td></tr></table>
 
-**(ANALISIS DEL CUADRO)**
+* **Luis Gómez (Joven de 18 a 24 años en inicios de independencia):**
+
+<table> <tr> <th></th> <td colspan="2"> Joven de 18 a 24 años en inicios de independencia (Luis Gómez) </td> </tr> <tr> <td>TASK</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> </tr> <tr> <td>Crear un presupuesto mensual</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Seguir su gasto en tiempo real</td> <td>Alta</td> <td>Siempre</td> </tr> <td>Ahorrar para proyectos personales</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Buscar formas de reducir gastos</td> <td>Media</td> <td>Mensual</td> </tr> <td>Manejar gastos compartidos (con su compañero de cuarto)</td> <td>Media</td> <td>Mensual</td> </tr></table>
     
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
 
