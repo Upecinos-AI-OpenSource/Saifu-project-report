@@ -822,36 +822,36 @@ Joven de 18 a 24 años en inicios de independencia:
 
 | # Orden | User Story ID | Título | Descripción| Story Points |
 |:-:|:-:|-|:-|:-:|
-|1|US01|Registro desde el landing page|Como usuario, quiero poder registrarme desde el landing page para recibir información y acceder a la aplicación de Saifu.|3|
-|2|US02|Registro joven independiente|Como joven independiente, quiero registrarme en la aplicación para acceder a las funcionalidades de control de mis finanzas.|2|
-|3|US03|Registro jefe de hogar|Como jefe de hogar, quiero poder crear un perfil en la aplicación desde el landing page, para que mis datos se sincronicen automáticamente.|3|
-|4|US04|Inicio de sesión multiplataforma|Como usuario, quiero poder iniciar sesión desde la aplicación en cualquier dispositivo para acceder a mi información financiera personal.|5|
-|5|US05|Información clara en landing page|Como usuario potencial, quiero ver información clara en el landing page sobre las ventajas de usar Saifu para mejorar mi gestión financiera.|2|
-|6|US06|Ejemplos en landing page|Como usuario, quiero ver ejemplos de cómo la aplicación puede ayudarme a ahorrar y gestionar mis ingresos antes de registrarme.|2|
-|7|US07|Testimonios en landing page|Como usuario potencial, quiero leer testimonios de otros usuarios en el landing page para sentirme seguro al usar Saifu.|2|
-|8|US08|Interfaz atractiva en landing page|Como usuario potencial, quiero una interfaz simple y atractiva en el landing page que explique las funcionalidades de Saifu, para entender mejor cómo me puede ayudar.|3|
-|9|US09|Opción de registro rápida|Como usuario potencial, quiero tener acceso rápido a una opción de registro desde el landing page, para comenzar a usar la aplicación de manera fácil.|2|
-|10|US10|Registro de ingresos y egresos|Como jefe de hogar, quiero registrar mis ingresos y egresos mensuales en la aplicación para obtener una visión clara de la economía de mi familia.|5|
-|11|US11|Balance económico actualizado|Como joven independiente, quiero ver mi balance económico actualizado en la aplicación para ajustar mis gastos de manera responsable.|3|
-|12|US12|Balance flexible|Como usuario, quiero poder elegir entre ver un balance diario, mensual o anual en la aplicación, para evaluar mi situación financiera en diferentes periodos.|4|
-|13|US13|Alertas de egresos|Como usuario, quiero recibir alertas en la aplicación cuando mis egresos superen mis ingresos, para poder ajustar mi presupuesto.|4|
-|14|US14|Registro de gastos diarios|Como usuario, quiero registrar mis gastos diarios en la aplicación desde cualquier dispositivo para tener un control preciso de mi consumo.|4|
-|15|US15|Categorías de gastos|Como joven independiente, quiero poder categorizar mis gastos diarios en la aplicación para ver en qué áreas estoy gastando más dinero.|3|
-|16|US16|Resumen de gastos familiares|Como jefe de hogar, quiero ver un resumen en la aplicación de los gastos diarios de mi familia para identificar áreas donde podamos reducir el consumo.|5|
-|17|US17|Material educativo|Como usuario, quiero acceder a material educativo sobre planificación financiera en la aplicación, para mejorar mi capacidad de ahorro.|3|
-|18|US18|Consejos personalizados|Como jefe de hogar, quiero recibir consejos personalizados basados en los gastos registrados, que se muestren en la aplicación, para mejorar mi presupuesto familiar.|4|
-|19|US19|Aprender a crear un presupuesto|Como joven independiente, quiero aprender cómo crear y mantener un presupuesto en la aplicación, para mejorar la gestión de mis finanzas.|3|
-|20|US20|	Guías y videos interactivos|Como usuario, quiero tener acceso a guías y videos interactivos en la sección de educación financiera de la aplicación, para aprender sobre métodos de ahorro.|4|
-|21|US21|Reporte de gastos mensuales|Como usuario, quiero generar un reporte de mis gastos mensuales desde la aplicación para entender mis patrones de consumo.|4|
-|22|US22|Reporte anual de finanzas familiares|Como jefe de hogar, quiero generar un reporte anual de ingresos y egresos en la aplicación para planificar las finanzas del próximo año.|5|
-|23|US23|Reporte de inflación anual|Como joven independiente, quiero ver un reporte de inflación anual en la aplicación, para entender cómo afecta mi capacidad de ahorro.|3|
-|24|US24|Reporte de balance económico|Como usuario, quiero generar un reporte de balance económico en la aplicación que compare mis ingresos y egresos, para identificar oportunidades de ahorro.|4|
-|25|US25|Configurar meta de ahorro|Como usuario, quiero configurar una meta de ahorro en la aplicación y recibir recordatorios periódicos sobre cuánto debo ahorrar para cumplirla.|3|
-|26|US26|Edición de perfil|Como usuario, quiero poder editar mi propio perfil dentro de la página para no preocuparme al ingresar mis datos erróneamente|2|
-|27|US27|	Iniciar sesión con cuenta creada|Como usuario, quiero poder iniciar sesion con mi cuenta creada en la aplicación para acceder a mi cuenta y gestionar mis datos y configuraciones|3|
-|28|US28|Ver planes de suscripción|Como usuario, quiero ver todos los planes de suscripción disponibles para poder determinar cuál es el más conveniente para mí.|2|
-|29|US29|Comunicación con asesor|Como usuario quiero poder comunicarme con un asesor desde la landing page para consultar dudas sobre la aplicación y sus funcionalidades|3|
-|30|US30|Confirmación de registro|Como usuario, quiero recibir un correo de confirmación después de registrarte para verificar que mi cuenta ha sido creada correctamente.|2|
+|1|US05|Información y Ventajas Clave en Landing Page | Como usuario potencial, quiero ver información clara en el landing page sobre las ventajas de usar Saifu para mejorar mi gestión financiera.|3|
+|2|US06|Ejemplos de Ahorro y Gestión de Ingresos | Como usuario, quiero ver ejemplos de cómo la aplicación puede ayudarme a ahorrar y gestionar mis ingresos antes de registrarme.|2|
+|3|US07|Testimonios de Usuarios | Como usuario potencial, quiero leer testimonios de otros usuarios en el landing page para sentirme seguro al usar Saifu.|3|
+|4|US08|Interfaz Simple y Atractiva | Como usuario potencial, quiero una interfaz simple y atractiva en el landing page que explique las funcionalidades de Saifu, para entender mejor cómo me puede ayudar.|5|
+|5|US09|Opción de Registro Rápido | Como usuario potencial, quiero tener acceso rápido a una opción de registro desde el landing page, para comenzar a usar la aplicación de manera fácil.|2|
+|6|US10|Registro de Ingresos y Egresos | Como jefe de hogar, quiero registrar mis ingresos y egresos mensuales en la aplicación para obtener una visión clara de la economía de mi familia.|2|
+|7|US11|Balance Económico Actualizado | Como joven independiente, quiero ver mi balance económico actualizado en la aplicación para ajustar mis gastos de manera responsable. |2|
+|8|US12|Visualización de Balance por Período | Como usuario, quiero poder elegir entre ver un balance diario, mensual o anual en la aplicación, para evaluar mi situación financiera en diferentes periodos.|3|
+|9|US13|Alertas de Exceso de Egresos | Como usuario, quiero recibir alertas en la aplicación cuando mis egresos superen mis ingresos, para poder ajustar mi presupuesto. |2|
+|10|US14|Registro de Gastos Diarios | Como usuario, quiero registrar mis gastos diarios en la aplicación desde cualquier dispositivo para tener un control preciso de mi consumo.|5|
+|11|US15|Categorización de Gastos Diarios | Como joven independiente, quiero poder categorizar mis gastos diarios en la aplicación para ver en qué áreas estoy gastando más dinero.|3|
+|12|US16|Resumen de Gastos Diarios Familiares | Como jefe de hogar, quiero ver un resumen en la aplicación de los gastos diarios de mi familia para identificar áreas donde podamos reducir el consumo. |4|
+|13|US17|Acceso a Material Educativo | Como usuario, quiero acceder a material educativo sobre planificación financiera en la aplicación, para mejorar mi capacidad de ahorro. |4|
+|14|US18|Consejos Personalizados para el Presupuesto | Como jefe de hogar, quiero recibir consejos personalizados basados en los gastos registrados, que se muestren en la aplicación, para mejorar mi presupuesto familiar.|4|
+|15|US19|Generación de Reportes Mensuales | Como usuario, quiero generar un reporte de mis gastos mensuales desde la aplicación para entender mis patrones de consumo.|3|
+|16|US20|Generación de Reporte Anual | Como jefe de hogar, quiero generar un reporte anual de ingresos y egresos en la aplicación para planificar las finanzas del próximo año.|5|
+|17|US21|Reporte de Inflación Anual | Como joven independiente, quiero ver un reporte de inflación anual en la aplicación, para entender cómo afecta mi capacidad de ahorro. |3|
+|18|US22|Meta de Ahorro | Como usuario, quiero configurar una meta de ahorro en la aplicación y recibir recordatorios periódicos sobre cuánto debo ahorrar para cumplirla.|4|
+|19|US23|Edición de Perfil | Como usuario, quiero poder editar mi propio perfil dentro de la página para no preocuparme al ingresar mis datos erróneamente.|3|
+|20|US24|Inicio de Sesión | Como usuario, quiero poder iniciar sesión con mi cuenta creada en la aplicación para acceder a mi cuenta y gestionar mis datos y configuraciones. |4|
+|21|US01|Registro de Usuario desde Landing Page | Como usuario, quiero poder registrarme desde el landing page para recibir información y acceder a la aplicación de Saifu. |4|
+|22|US02|Registro de Joven Independiente | Como joven independiente, quiero registrarme en la aplicación para acceder a las funcionalidades de control de mis finanzas.|5|
+|23|US03|Sincronización de Perfil desde el Landing Page | Como jefe de hogar, quiero crear un perfil en la aplicación desde el landing page, para que mis datos se sincronicen automáticamente. |3|
+|24|US04|Inicio de Sesión en Múltiples Dispositivos | Como usuario, quiero poder iniciar sesión desde la aplicación en cualquier dispositivo para acceder a mi información financiera personal.|4|
+|25|US27|Perfil del Usuario | Como usuario, quiero poder editar mi perfil en la aplicación para actualizar mi información personal.|3|
+|26|US28|Comparación de Planes de Suscripción | Como usuario, quiero ver y comparar planes de suscripción para elegir el más conveniente.|2|
+|27|US25|Verificación de Cuenta | Como usuario, quiero recibir un correo de confirmación después de registrarme para verificar que mi cuenta ha sido creada correctamente.|3|
+|28|US26|Comunicación con Asesor | Como usuario, quiero poder comunicarme con un asesor desde la landing page para consultar dudas sobre la aplicación y sus funcionalidades.|2|
+|29|US29|Contacto con Asesor | Como usuario, quiero contactar a un asesor desde el landing page para aclarar mis dudas sobre la aplicación.|3|
+|30|US30|Notificaciones de Gastos Elevados | Como usuario, quiero recibir notificaciones cuando mis egresos superen un umbral predefinido para ajustar mi presupuesto.|2|
 
 <div id='4.'><h2> Capítulo IV: Product Design.</h2></div>
 
