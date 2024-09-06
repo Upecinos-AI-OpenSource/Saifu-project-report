@@ -241,7 +241,7 @@ Como visión nos proyectamos a ver el resultado de la aplicación beneficiando e
 | :--------| :--------: |
 | Mi nombre es **Jessica Elizabeth Comettant Rubiños** y tengo 20 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a las asignaturas correspondientes a la malla curricular de mi carrera, cuento con las habilidades intelectuales propicias para el desarrollo del proyecto. Asimismo, mi personalidad se encuentra basada en la autonomía. Por lo tanto, he sido capaz de extender mis conocimientos de programación con mayor material de estudio. Finalmente, destaco de mi personalidad la empatía, la responsabilidad, la amabilidad y la capacidad de trabajar en equipo.|![](https://github.com/user-attachments/assets/b3c1d064-1dbd-471d-a87c-fdfced051bb1)|
 | Mi nombre es **Renato German Reyes Valenzuela** y tengo 23 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a los cursos que estuve llevando los últimos ciclos, más el aprendizaje extracurricular, cuento con la capacidad y conocimientos para desarrollarme correctamente con los avances y desarrollo de la propuesta de trabajo que ofrecemos. Por último, destaco mi capacidad de empatía y compañerismo para poder avancar de manera grupal los sprint correspondientes y apoyarme en lo necesario con mis compañeros.|![](assets/Foto_Renato.png)
-|Mi nombre es **Luis Angel Cisneros Salas** y tengo 20 años. Soy estudiante de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas), y actualmente estoy en el quinto ciclo. Gracias a los cursos que he llevado en los últimos ciclos, así como al aprendizaje extracurricular, he adquirido los conocimientos y habilidades necesarios para desarrollarme eficazmente en los proyectos y propuestas de trabajo que ofrecemos. Además, destaco por mi capacidad de empatía, compañerismo y mi rápida adaptación a los cambios, lo cual me permite avanzar de manera colaborativa en los sprints y apoyar a mis compañeros en lo que sea necesario.|![]*Inserte Imagen*
+|Mi nombre es **Luis Angel Cisneros Salas** y tengo 20 años. Soy estudiante de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas), y actualmente estoy en el quinto ciclo. Gracias a los cursos que he llevado en los últimos ciclos, así como al aprendizaje extracurricular, he adquirido los conocimientos y habilidades necesarios para desarrollarme eficazmente en los proyectos y propuestas de trabajo que ofrecemos. Además, destaco por mi capacidad de empatía, compañerismo y mi rápida adaptación a los cambios, lo cual me permite avanzar de manera colaborativa en los sprints y apoyar a mis compañeros en lo que sea necesario.|![](https://github.com/LuisCS341/ImagenProyecto/raw/main/FotoPerfil.jpg)
 |Mi nombre es **Marco Antonio Góngora Sánchez** y tengo 20 años. Soy estudiante de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas), y actualmente estoy en sexto ciclo. Gracias a los cursos que he llevado en estos últimos ciclos, tengo conocimientos de lenguajes cómo C++, Python, SQL, HTML y CSS y conceptos básicos de C#. Además, puedo aportar mucho en temás de diseño y creatividad. Por último, destaco mi perspectiva frente a adversidades y mi compañerismo.|![]*Inserte Imagen*
 |Mi nombre es Carlos Rojas, estudio la carrera de Ingeniería de Software. Mi carrera consiste en crear softwares inteligentes y sistemas informáticos usando un lenguaje de programación con lógica. Me considero una persona responsable y colaborativo como ayudar a las personas y dar ideas, especialmente en grupos. En este trabajo en equipo se requiere dar una buena comunicación, por ello, siempre daré mi opinión. | ![Foto Carlos andres](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/6da34639091457f8ab2f3b29ddd253a817cdfd49/assets/Andres_Rojas.png)
 
@@ -446,98 +446,98 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
            <td colspan="6" class="sub">  <h1>Competitive Analysis Landscape</h1></td>
         </tr>
         <tr>
-            <td colspan="2" rowspan="2" class="sub">---</td>
-            <td colspan="4" class="sub"><h3>---</h3></td>
+            <td colspan="2" rowspan="2" class="sub">¿Por qué llevar a cabo este análisis? </td>
+            <td colspan="4" class="sub"><h3>Es necesario realizar este análisis, ya que de esta manera sabremos qué aplicaciones compiten con la nuestra, lo que nos permitirá tomar decisiones para que los usuarios elijan nuestra aplicación</h3></td>
         </tr>
         <tr>
-            <td colspan="4">---</td>
+            <td colspan="4">SAIFU |Monefy|Fintonic|Spendee</td>
         </tr>
         <tr>
             <td rowspan="3" class="sub">PERFIL</td>
             <td rowspan="2" class="sub">Overview</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td> 
+            <td>SAIFU cuenta con información financiera y tiene una inteligencia artificial  que ayuda a los usuarios a poder administrar sus recursos económicos</td>
+            <td>Aplicación sencilla para el control de gastos e ingresos</td>
+            <td>Aplicación integral de gestión financiera personal con integración bancaria</td>
+            <td>Aplicación de gestión financiera con herramientas de ahorro y gestión compartida</td> 
         </tr>
         <tr>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>      
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>      
         </tr>
         <tr>
             <td class="sub">Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>      
+            <td>Ofrece información financiera y una inteligencia artificial que ayuda a los clientes a gestionar sus recursos</td>
+            <td>Facilidad de uso y diseño intuitivo</td>
+            <td>Integración bancaria y alertas personalizadas</td>
+            <td>Herramientas avanzadas de ahorro y gestión compartida</td>      
         </tr>
         <tr>
             <td rowspan="2" class="sub">PERFIL DEL MARKETING</td>
             <td class="sub">Mercado Objetivo</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
+            <td>Los jóvenes adultos independientes  y los jefes de hogar del sector económico D y E</td>
+            <td>Usuarios que buscan simplicidad en la gestión de sus finanzas</td>
+            <td>Usuarios con múltiples cuentas bancarias que desean un control completo</td>
+            <td>Usuarios que buscan herramientas avanzadas para ahorrar y gestionar finanzas compartidas</td>
         </tr>
         <tr>
             <td class="sub">Estrategias de Marketing</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
+            <td>Se realizan campañas para que a las personas les interese en mayor medida tener una cultura financiera y publicidad en redes sociales</td>
+            <td>Enfocarse en la simplicidad y facilidad de uso</td>
+            <td>Promover la centralización de la información financiera</td>
+            <td>Destacar las herramientas de ahorro y la capacidad de gestión compartida</td>
         </tr>
         <tr>
             <td rowspan="3" class="sub">PERFIL DEL PRODUCTO</td>
             <td class="sub">Productos & Servicios</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
+            <td>Información financiera de calidad y una inteligencia artificial que ayuda a administrar los recursos de los usuarios</td>
+            <td>Control básico de finanzas personales</td>
+            <td>Gestión financiera integral con recomendaciones y alertas</td>
+            <td>Gestión avanzada del presupuesto y ahorro</td>
         </tr>
         <tr>
             <td class="sub">Precios & Costos</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
+            <td>La aplicación es gratuita. Sin embargo, tiene opciones que van a estar disponibles con una suscripción mensual de 15 soles, se llamará SAIFU unlimited. Los costos de la aplicación son los derechos de autor de la información incluida, el mantenimiento de la inteligencia artificial, mantenimiento de los servidores y la publicidad en redes sociales y campañas</td>
+            <td>Aplicación gratuita con opciones de pago para funciones avanzadas</td>
+            <td>Gratuita con opciones premium</td>
+            <td>Gratuita con planes de pago para funciones avanzadas</td>
         </tr>
         <tr>
             <td class="sub">Canales de distribución (web/móvil)</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>        
+            <td>Será distribuido como página web y como aplicación móvil para google play</td>
+            <td>Solo está distribuida en móvil, disponible en app store y google play</td>
+            <td>Solo está distribuida en móvil, disponible en app store y google play</td>
+            <td>Está disponible como página web y como aplicación móvil en app store y google play</td>        
         </tr>
         <tr>
             <td rowspan="4" class="sub">ANÁLISIS SWOT</td>
             <td class="sub">Fortalezas</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
+            <td>La aplicación tiene servicio a los clientes lo que nos ayuda a saber lo que quieren y los que les molesta de la aplicación. Además, tiene  una inteligencia artificial que ayuda a los usuarios a administrar sus recursos</td>
+            <td>Interfaz simple y fácil de usar</td>
+            <td>Amplia integración bancaria y recomendaciones</td>
+            <td>Herramientas inteligentes de ahorro y gestión compartida</td>
         </tr>
         <tr>
             <td class="sub">Debilidades</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>  
+            <td>La inteligencia artificial a veces puede llegar a fallar si no está correctamente testeado</td>
+            <td>Sin integración bancaria ni funciones avanzadas</td>
+            <td>Puede ser complejo para usuarios que buscan simplicidad</td>
+            <td>Interfaz menos intuitiva para algunos usuarios</td>  
         </tr>
         <tr>
             <td class="sub">Oportunidades</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td> 
+            <td>Se puede mejorar la inteligencia artificial de la aplicación. También, se puede ir actualizando la información financiera</td>
+            <td>Expansión a mercados que buscan simplicidad en la gestión financiera</td>
+            <td>Expandir las capacidades de integración con más bancos y servicios financieros</td>
+            <td>Mejorar la interfaz para mayor usabilidad</td> 
         </tr>
         <tr>
             <td class="sub">Amenazas</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>
-            <td>---</td>          
+            <td>Que algunos clientes de nuestros segmentos objetivos no están dispuestos a pagar una suscripción</td>
+            <td>Competencia creciente con productos similares</td>
+            <td>Cambios regulatorios en la banca digital</td>
+            <td>Evolución tecnológica que cambia las expectativas de los usuarios</td>          
         </tr>
     </table>
 </body>
@@ -558,38 +558,88 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 **Tácticas**
 
 
+**Afrontando las fortalezas de nuestros competidores:**
+
+**Comprendemos que las fortalezas de nuestros competidores son:**
+
+-Integración bancaria avanzada (Fintonic, Spendee).
+-Herramientas inteligentes de ahorro (Spendee).
+-Alertas y recomendaciones personalizadas (Fintonic).
+**Estrategias**
+
+-Diferenciar nuestro producto mediante la simplicidad y la facilidad de uso, evitando la complejidad innecesaria.
+
+-Desarrollar una función de integración bancaria básica que se pueda expandir en el futuro.
+**Tácticas**
+
+-Ofrecer un tutorial interactivo al inicio que simplifique el uso de las funciones más avanzadas.
+
+-Lanzar versiones beta de la integración bancaria, recopilando feedback directo de los usuarios para mejorarla continuamente.
+
 **Afrontando las debilidades de nuestros competidores:**
 
-**Comprendemos que nuestras debilidades son:**
+**Comprendemos que la debilidades de nuestros competidores son:**
 
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
+Complejidad para usuarios que buscan simplicidad (Fintonic).
+Interfaz menos intuitiva para algunos usuarios (Spendee).
+Falta de funciones avanzadas en la versión básica (Monefy).
 
 **Estrategias**
 
+-Enfocarnos en una experiencia de usuario excepcionalmente simple e intuitiva.
+
+-Ofrecer una versión gratuita con suficientes funciones atractivas, pero con incentivos claros para suscribirse a una versión premium.
+
 **Tácticas**
+
+-Realizar pruebas de usabilidad con diferentes perfiles de usuarios para optimizar la interfaz.
+
+-Implementar un sistema de recompensas para los usuarios que refieran a nuevos clientes, motivándolos a optar por versiones premium.
 
 **Afrontando las oportunidades de nuestros competidores:**
 
-**Comprendemos que nuestras oportunidades son:**
+**Comprendemos que las oportunidades de nuestros competidores son:**
 
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
+-Expansión a nuevos mercados con alta demanda de gestión financiera personal.
+
+-Mejora continua de la integración bancaria y servicios financieros adicionales.
+
+-Crecimiento en la adopción de herramientas de ahorro.
 
 **Estrategias**
 
+-Identificar y penetrar nichos de mercado aún no explotados.
+
+-Explorar nuevas funcionalidades centradas en el ahorro automatizado y personalizado.
 
 **Tácticas**
+
+-Realiza estudios de mercado para identificar segmentos desatendidos, como jóvenes profesionales o personas mayores.
+
+-Desarrollar una función que sugiera acciones de ahorro automático basadas en los hábitos de gasto del usuario.
 
 **Afrontando las amenazas de nuestros competidores:**
 
 
-**Comprendemos que nuestras amenazas son:**
+**Comprendemos que las amenazas de nuestros competidores son:**
 
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
+-Competencia creciente con productos similares en el mercado.
+
+-Cambios regulatorios en la banca digital que podrían afectar las integraciones bancarias.
+
+-Evolución tecnológica que podría cambiar rápidamente las expectativas de los usuarios.
 
 **Estrategias**
 
+-Innovar continuamente para mantenernos competitivos y adelantarnos a los cambios del mercado.
+
+-Establecer un equipo dedicado al cumplimiento normativo y adaptarse rápidamente a los cambios regulatorios.
+
 **Tácticas**
 
+-Fomentar una cultura de innovación interna, alentando la creación de nuevas características y mejoras.
+
+-Colaborar con expertos en regulación para asegurar el cumplimiento y la rápida adaptación a nuevas leyes.
 
 <div id='2.2.'><h3> 2.2. Entrevistas.</h3></div>
 
