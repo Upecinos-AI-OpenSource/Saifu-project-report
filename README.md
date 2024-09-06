@@ -36,15 +36,15 @@ width=50%"/>
 
 |Versión|Fecha|Autor|Descripción de modificación|
 |:-:|:-:|:-:|-|
-|1.0|13/08/2023|Comettant, Reyes|Creación del documento de trabajo en formato markdown|
-|1.1|20/08/2023|Comettant, Reyes|Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
-|1.2|23/08/2023|Comettant, Reyes|Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas|
-|1.3|25/08/2023|Comettant, Reyes|Elaboración de user personas, impact mapping, as-is y to-be|
-|1.4|26/08/2023|Comettant, Reyes|Elaboración de user stories, product backlog|
-|1.5|28/08/2023|Comettant, Reyes|Elaboración de prototipos de wireframes y mockups|
-|1.6|31/08/2023|Comettant, Reyes|Redacción de style guidelines e information architecture|
-|1.7|03/09/2023|Comettant,Reyes|Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes|
-|1.8|03/09/2023|Comettant, Reyes|Registro de evidencias y entrega del TB1|
+|1.0|13/08/2024|Comettant|Creación del documento de trabajo en formato markdown|
+|1.1|20/08/2024|Reyes|Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
+|1.2|23/08/2024|Cisneros|Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas|
+|1.3|25/08/2024|Góngora|Elaboración de user personas, impact mapping, as-is y to-be|
+|1.4|26/08/2024|Rojas|Elaboración de user stories, product backlog|
+|1.5|28/08/2024|Reyes|Elaboración de prototipos de wireframes y mockups|
+|1.6|31/08/2024|Góngora|Redacción de style guidelines e information architecture|
+|1.7|03/09/2024|Rojas|Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes|
+|1.8|03/09/2024|Comettant, Cisneros|Registro de evidencias y entrega del TB1|
 
 ## Project Report Collaboration Insights
 
@@ -58,8 +58,8 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 |-|-|
 |Jessica Comettant|Diseño de mockups y wireframes,Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Landing Page Product Backlog|
 |Renato Reyes|Capitulo I,Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores, Information Architecture. User Stories. Diagrama de base de datos.|
-|----|Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.|
-|---|Antecedentes y problemática 5W y 2H, Segmentos Objetivos, Análisis de competidores, User Stories, Product Backlog, Conclusiones.|
+|Jessica Cometant|Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.|
+|Marco Góngora y Andres Rojas|Antecedentes y problemática 5W y 2H, Segmentos Objetivos, Análisis de competidores, User Stories, Product Backlog, Conclusiones.|
 |Luis Cisneros |Competidores,Análisis competitivo,Estrategias y tácticas frente a competidores,Entrevistas,Diseño de entrevistas.
 |
 
@@ -74,7 +74,9 @@ Los integrantes son:
 
 * Jessica Comettant (Mei0202)
 * Renato German Reyes Valenzuela (Nato0211)
-* Luis Angel Cisneros Salas
+* Luis Angel Cisneros Salas (luics341)
+* Marco Antonio Góngora Sanchez (m4rcous)
+* Carlos Andres Rojas Ccama (andres2580)
 
 Se explican las ramas más prominentes:
 
@@ -82,9 +84,6 @@ Se explican las ramas más prominentes:
 
 **develop:** Representada por el color azul, es la rama principal para el desarrollo continuo del proyecto.
 
-**feature-product-design:** Representada por el color verde, incluye el contenido relacionado con los user flows y wireframes.
-
-**feature-sprint1**: Representada por el color amarillo, contiene los artefactos relacionados con el sprint 1 del informe.
 
 ![WhatsApp Image 2024-09-06 at 11 43 41 AM](https://github.com/user-attachments/assets/76e457c6-403e-45a4-a456-510110dd8097)
 
