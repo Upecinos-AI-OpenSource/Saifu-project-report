@@ -210,8 +210,12 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 
 | Criterio Específico | AccionesRealizadas | Conclusiones |
 |---------------------|--------------------|--------------|
-|  | <br>**TB1**<br> | **TB1**|
-|  | <br>**TB1**<br> | **TB1** |
+|  Comunicación oralmente con efectividad a diferentes rangos de audiencia| Jessica Comettant<br>**TB1**<br> : Diseño de mockups y wireframes, Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Landing Page Product Backlog.
+Impact Mapping, registro y análisis de entrevistas, User Task Matrix, As-Is To-be Scenarios, Empathy Mapping, Technical User Stories, User Stories, Product Backlog, Bibliografía. | **TB1**:Concluye que la correcta planificación y el diseño enfocado en el usuario permiten una experiencia fluida y eficiente en el desarrollo de productos digitales, mejorando la usabilidad.|
+| Comunicación oralmente con efectividad a diferentes rangos de audiencia |Renato Reyes <br>**TB1**<br>:Capítulo I, Diseño de entrevistas, Diagrama de clases, Diagrama de contexto, componentes y contenedores, Information Architecture, User Stories, Diagrama de base de datos. | **TB1** :Concluye que la arquitectura sólida y bien definida es fundamental para el éxito del proyecto, ya que facilita la escalabilidad y el mantenimiento de las aplicaciones.|
+|  Comunicación oralmente con efectividad a diferentes rangos de audiencia| Marco Góngora<br>**TB1**<br>:Antecedentes y problemática 5W y 2H, Segmentos Objetivos, Análisis de competidores, User Stories, Product Backlog, Conclusiones. | **TB1**: Concluye que un buen análisis de competidores y una clara identificación de los segmentos objetivos permiten posicionar el producto de manera efectiva en el mercado.|
+| Comunicación oralmente con efectividad a diferentes rangos de audiencia |Andres Rojas <br>**TB1**<br> :Antecedentes y problemática 5W y 2H, Segmentos Objetivos, Análisis de competidores, User Stories, Product Backlog, Conclusiones.| **TB1**:Concluye que identificar la problemática desde el inicio del proyecto es clave para definir estrategias y soluciones adecuadas a las necesidades del usuario final.|
+|  Comunicación oralmente con efectividad a diferentes rangos de audiencia| Luis Cisneros<br>**TB1**<br>:Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Entrevistas, Diseño de entrevistas. | **TB1**:Concluye que la recopilación de datos a través de entrevistas bien estructuradas proporciona información valiosa que ayuda a definir mejores estrategias frente a la competencia.|
 
 <div id='1'><h2>Capítulo I: Introducción</h2></div>
 
