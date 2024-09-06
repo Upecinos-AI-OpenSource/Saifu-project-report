@@ -721,14 +721,11 @@ Se presentan los User Task Matrix, diagramas que contienen las tareas realizadas
     
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
 
-**(pequeña descripcion)**
-
 Jefe de Hogar del sector ecómico D o E:
-**(insertar imagen y enlace)**
+![EMS1](assets/EM-S1.png)
 
 Joven de 18 a 24 años en inicios de independencia:
-**(insertar imagen y enlace)**
-
+![EMS1](assets/EM-S2.png)
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
 
