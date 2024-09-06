@@ -978,4 +978,88 @@ El wireframe de la vista desktop web browser de la landing page resultó de util
 ##### Pricing Plan:
 ![Pricing plan -mock](https://github.com/user-attachments/assets/7b900bda-86ab-4158-a027-c68fcd6138a8)
 
+<div id='4.4.'><h3> 4.4. Web Applications UX/UI Design.</h3></div>
+
+<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes.</h4></div>
+
+Enlace para acceder al [Figma](https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRAMES%7CMOCKUPS----SAIFU?node-id=1-2&t=q6KwYYAAh63asgnC-1)
+##### Web Application para Desktop Web Browser
+
+Crear Cuenta:
+![Crear cuenta - wireframeW](https://github.com/user-attachments/assets/80c81514-58be-4b0f-a526-6795a4bdd610)
+
+Eliminar perfil:
+![Eliminar perfil- wireframeW](https://github.com/user-attachments/assets/32416b33-3392-47c1-bd06-8ee6779aa80b)
+
+Iniciar sesión:
+![Iniciar sesión - wireframeW](https://github.com/user-attachments/assets/7915def4-b3a2-4a03-a955-a5b6366262d0)
+
+Pasarela de pagos:
+![Pasarela de pagos - wireframeW](https://github.com/user-attachments/assets/41b34cf0-fb50-48e4-912a-7ca2563dad75)
+
+![Pasarela de pagos- wireframeW](https://github.com/user-attachments/assets/999cbac6-3af1-4411-89ae-14bb0075478c)
+
+Planes de Suscripción:
+![Planes de Subscripción- wireframeW](https://github.com/user-attachments/assets/1216e3ba-73b2-488c-a98b-771e4d78b9aa)
+
+Edición de Perfil:
+![Edición perfil- wireframeW](https://github.com/user-attachments/assets/8e8b25df-c570-4a4e-9d28-fbf578ca9621)
+
+Mi Perfil:
+![Mi perfil- wireframeW](https://github.com/user-attachments/assets/f9d2f77b-ed3c-482d-b7f8-35fa6cb3aba2)
+
+Página principal:
+![Pagina principal- wireframeW](https://github.com/user-attachments/assets/2599bb70-aaa1-4625-81c3-c7d12f0183e4)
+
+Información de la Aplicación:
+![WhatsApp Image 2024-09-06 at 5 11 38 AM](https://github.com/user-attachments/assets/695c12e0-c420-447b-92c6-397bcf59845e)
+
+Recomendar aplicación:
+![WhatsApp Image 2024-09-06 at 5 11 53 AM](https://github.com/user-attachments/assets/bd2509d6-1111-4afd-b7fb-1cd36989e6c0)
+
+Invitar amigos:
+![WhatsApp Image 2024-09-06 at 5 14 11 AM](https://github.com/user-attachments/assets/12412d79-7a4a-4597-9421-b196a0d9695e)
+
+Servicio al cliente:
+![WhatsApp Image 2024-09-06 at 5 14 25 AM](https://github.com/user-attachments/assets/9eae3576-dc5a-4d74-9fb4-1d86b3c08e41)
+
+Notificaciones:
+![WhatsApp Image 2024-09-06 at 5 15 25 AM](https://github.com/user-attachments/assets/be70bb6a-dbb2-4767-a0e8-d06f94087ef1)
+
+Búsqueda de temas financieros:
+![Busqueda de temas financieros- wireframeW](https://github.com/user-attachments/assets/9f6a5abe-81a5-4090-8cf0-d59c7a861cb0)
+
+Desafíos Financieros:
+![Desafíos Financieros- wireframeW](https://github.com/user-attachments/assets/1de4e79f-e8bd-4523-8404-bcbb6aac3d0b)
+
+Elección de un tema financiero:
+![Elección de un tema financiero- wireframeW](https://github.com/user-attachments/assets/61d3678d-235b-49c2-b771-a5714af050f3)
+
+Agregar transacción:
+![Agregar transacción- wireframeW](https://github.com/user-attachments/assets/cb0e7e34-9919-40ef-9439-deea67295998)
+
+Educación Financiera:
+![Educación Financiera- wireframeW](https://github.com/user-attachments/assets/4f2e1f2b-9700-4206-b078-fb2d1a080612)
+
+Registro de Datos:
+![Registro de datos- wireframeW](https://github.com/user-attachments/assets/66cc3289-274e-4018-a817-3bb57a65b343)
+
+Registro de Transacciones:
+![Registro de transacciones- wireframeW](https://github.com/user-attachments/assets/dc51b2ec-42e9-4a46-a93d-ebf21c50b9be)
+
+##### Web Application para Mobile Web Browser
+
+![WhatsApp Image 2024-09-06 at 5 41 55 AM](https://github.com/user-attachments/assets/eb6ff938-e3a8-48c2-8ce8-7ac6ef74e399)
+
+![WhatsApp Image 2024-09-06 at 5 42 13 AM](https://github.com/user-attachments/assets/63addeef-c8ac-4da5-af78-7a2dbb018ef1)
+
+![WhatsApp Image 2024-09-06 at 5 42 25 AM](https://github.com/user-attachments/assets/46c83733-5f48-494e-94a9-ec23b3e21233)
+
+![WhatsApp Image 2024-09-06 at 5 42 33 AM](https://github.com/user-attachments/assets/271e9a59-2fcb-4eda-a4e4-030ef4ebbc01)
+
+![WhatsApp Image 2024-09-06 at 5 42 48 AM](https://github.com/user-attachments/assets/de39b896-f96c-47e7-9f5a-05db5ed61977)
+
+![WhatsApp Image 2024-09-06 at 5 42 59 AM](https://github.com/user-attachments/assets/fd6f6050-8fff-425e-8011-f31782081e98)
+
+
 
