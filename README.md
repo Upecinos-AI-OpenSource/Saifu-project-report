@@ -744,23 +744,20 @@ Joven de 18 a 24 años en inicios de independencia:
 **(pequeña descripcion)**
 
 Jefe de Hogar del sector ecómico D o E:
-**(insertar imagen y enlace)**
+![as-isv2_Jefes de hogar ](https://github.com/user-attachments/assets/0edc449f-52b6-49e9-ad85-1a8ff4667eeb)
 
 Joven de 18 a 24 años en inicios de independencia:
-**(insertar imagen y enlace)**
-
+![as-is2_jovenes](https://github.com/user-attachments/assets/5a17ca46-afa5-4f29-9397-9ac0782c1c15)
 
 <div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
 
 <div id='3.1.'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
 
-**(pequeña descripcion)**
-
 Jefe de Hogar del sector ecómico D o E:
-**(insertar imagen y enlace)**
+![to-be2_Jefes de hogar](https://github.com/user-attachments/assets/17fec39f-6717-4972-a8ca-31485522f999)
 
 Joven de 18 a 24 años en inicios de independencia:
-**(insertar imagen y enlace)**
+![to-be4_jovenes](https://github.com/user-attachments/assets/eb8df40c-c861-40a7-a02c-2ac9e7fa9dd2)
 
 <div id='3.2.'><h3> 3.2. User Stories.</h3></div>
 
@@ -773,8 +770,12 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 |TS01|--|**Como** ....**Quiero** ... **Para** ... |--|--|
 
 <div id='3.3.'><h3> 3.3. Impact Mapping.</h3></div>
-**(insertar imagen y enlace)**
 
+Jefe de Hogar del sector ecómico D o E:
+![Impact map-Saifu_jefedehogar](https://github.com/user-attachments/assets/6e4c7462-7164-4427-931d-7664a4d13801)
+
+Joven de 18 a 24 años en inicios de independencia:
+![Impactmap-Saifu_jovenes](https://github.com/user-attachments/assets/db7ee38b-4858-482e-8560-ba5b692b08a5)
 
 <div id='3.4.'><h3> 3.4. Product Backlog.</h3></div>
 
