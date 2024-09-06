@@ -729,13 +729,11 @@ Joven de 18 a 24 años en inicios de independencia:
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
 
-**(pequeña descripcion)**
-
 Jefe de Hogar del sector ecómico D o E:
-**(insertar imagen y enlace)**
+![EmMaS1](assets/EmMa-S1.jpg)
 
 Joven de 18 a 24 años en inicios de independencia:
-**(insertar imagen y enlace)**
+![EmMaS2](assets/EmMa-S2.jpg)
 
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping.</h4></div>
 
