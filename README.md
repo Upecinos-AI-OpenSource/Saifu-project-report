@@ -5,7 +5,7 @@
 style="display: block; 
 margin-left:auto; 
 margin-right: auto; 
-width=50%"/>
+width=50%"/> 
 
 <h5 style="text-align: center"> Ingeniería de Software </h5>
 
@@ -1388,4 +1388,331 @@ Métodos:
 
 ![Base de Datos](assets/Database-design-saifu.JPG).
 
+<div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment.</h2></div>
 
+<div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
+
+<div id='5.1.1.'><h4> 5.1.1. Software Development Environment Configuration.</h4></div>
+
+**Requirements Management**
+1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario pertenecientes al sprint a desarrollar. Ruta de referencia [https://trello.com/es](https://trello.com/es)
+
+**Product UX/UI Design**
+1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser. Ruta de referencia [https://www.figma.com/login](https://www.figma.com/login)
+2. Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de clases asociado a la aplicación. Ruta de referencia [https://www.lucidchart.com/](https://www.lucidchart.com/)
+
+**Software Testing**
+1. Gherkin: Es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story. Ruta de referencia [https://cucumber.io/docs/gherkin/](https://cucumber.io/docs/gherkin/)
+
+**Software Development**
+1. Visual Studio Code: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios. Ruta de referencia [https://code.visualstudio.com/](https://code.visualstudio.com/)
+2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación. Ruta de referencia [https://www.w3schools.com/html/html5_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp)
+3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML. Ruta de referencia [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)
+4. JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz de usuario dentro de la aplicación. Ruta de referencia [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+**Software Deployment**
+1. Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Se utilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederán a través de la línea de comandos en sus sistemas locales. Ruta de referencia [https://git-scm.com/](https://git-scm.com/)
+
+**Software Documentation and Project Management**
+1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través de sus navegadores web. Ruta de referencia [https://github.com/](https://github.com/)
+
+<div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
+
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
+
+**Repositorio de GitHub:**
+Enlace para acceder a la [organización en GitHub](https://github.com/Integradis-OpenSource)
+Enlace para acceder al repositorio de la [Landing Page](https://github.com/Integradis-OpenSource/LandingPage)
+Enlace para acceder al repositorio del [Frontend Web
+Application](https://github.com/Integradis-OpenSource/TFDocOpenSource)
+
+**Flujo de trabajo GitFlow:**
+El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
+
+![GitFlow](https://i0.wp.com/select2web.com/wp-content/uploads/git-workflow-release-cycle-4maintenance.png?fit=614%2C380&ssl=1)
+
+**Estructura de branches (Ramas):**
+1. **Master branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras ramas de prueba.
+
+2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es llevar a cabo los avances del proyecto en equipo y de mantener los archivos centrales del desarrollo continuo.
+
+3. **Feature branches (Ramas de funcionalidad):** Cada funcionalidad desarrollada por el equipo o separada del enfoque actual del desarrollo tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/nombre-de-la-funcionalidad".
+
+4. **Release branches (Ramas de lanzamiento):** Estas ramas se utilizarán para mantener una instancia de la rama develop que esté próxima a ser incluida en la rama principal. Se seguirá el sistema de versionamiento semántico (Semantic Versioning) para nombrar las Releases.
+
+5. **Hotfix branches (Ramas de corrección):** Se crearán para abordar de manera puntual y eficiente la corrección de errores identificados en la rama principal que afecten significativamente la experiencia de los usuarios.
+
+**Versionamiento Semántico:**
+Para nombrar las Releases, se aplicará el sistema de versionamiento semántico (Semantic Versioning 2.0.0).
+
+**Convenciones de Commits:**
+Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits basada en Angular Commit Guidelines. La estructura a seguir será la siguiente:
+
+ `git commit -m "<type>[optional scope]:<title>" -m"<description">`
+
+<div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
+
+**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
+
+1. Cerrar todos los elementos HTML: Por ejemplo, `<p>Esto es un párrafo.</p>`
+2. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombrs de los elementos y atributos, se limitará al uso de minúsculas para mantener el orden y garantizar la legibilidad.
+3. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
+4. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la disponibilidad del contenido. Por ejemplo: `<img src="abc.img" alt="image name" style="width:128px;height:128px">`
+
+**CSS:** Entre las prácticas empleadas se mencionan:
+
+1. Los nombres de las clases deben de ser breves y autodescriptivos.
+2. Separar los nombres de las clases y ID con un guión, por ejemplo: `#video-id` y `.hero-shadow{}`
+3. Evitar especificar la unidad de medida luego de usar el valor 0.
+4. Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+
+**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima. Adicionalmente, se utilizaron las palabras clave "Given", "When", "Then" y "And" para estructurar los escenarios.
+
+
+
+<div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
+
+**Landing page deployment:**
+
+Para poder desplegar la landing page resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+1. Crear una carpeta llamada "docs" para alojar el Landing Page.
+2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para la landing page; "style.css" para los estilos y una carpeta llamada "img" que contenga las imágenes.
+3. Cargar los archivos al repositorio mediante un commit.
+4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto, generalmente se trata de "main" o "master".
+5. Especificar la carpeta "docs" como la fuente de la página.
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
+
+![Github_pages](assets/Deploy-LandingPage.JPG)
+
+Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io/Saifu-LandingPage/)
+
+|Sprint #|Date|Time|Location|Prepared By|Attendees|
+|-|-|-|-|-|-|
+|1|30/08/2023|09:00 AM|Reunión virtual mediante la aplicación Google Meet|Renato Reyes|Renato Reyes, Jessica Comettant, Luis Cisneros, Marco Góngora, Andrés Rojas|
+
+|Sprint 1 Goal|Sprint 1 Velocity|Sum of Story Points|
+|-|-|-|
+|Elaborar y diseñar una landing page atractiva e informativa para la aplicación Saifu|19|19|
+
+<div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
+
+
+En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retrasó el proceso de creación llevándolo a tener en su mayoria el aspecto visual de la landing page.
+
+
+![Trello Sprint 1](assets/trello-upecionosAi.JPG)
+
+Link del Trello: https://trello.com/invite/b/66db1e3982afd3f358db5117/ATTI1911fa5f5853d1403d644d087bb9b44f079EC395/upecinos-ai-open
+
+<table>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="7">Sprint 1</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">WorkItem / Task</th>
+        </tr>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Hours)</th>
+            <th>Assigned To</th>
+            <th>Status(To-do/In-Process/To-Review/Done)</th>
+        </tr>
+        <tr>
+            <td>US01</td>
+            <td>Contacto-Llenar Formulario</td>
+            <td>UT01</td>
+            <td>Editar cajas de texto</td>
+            <td>Permitir al usuario interactuar con las cajas de texto</td>
+            <td>1</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Enlaces relacionados</td>
+            <td>UT02</td>
+            <td>Enlaces de contacto</td>
+            <td>Añadir funcionalidad a los enlaces de la sección contacto</td>
+            <td>1</td>
+            <td>Carlo Seminario</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Preguntas frecuentes</td>
+            <td>UT03</td>
+            <td>Funcionalidad "desplegar y contraer pregunta"</td>
+            <td>Añadir la funcionalidad de desplegar y contraer la respuesta a la pregunta</td>
+            <td>2</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Sección "Header"</td>
+            <td>UT04</td>
+            <td>Interacción barra de navegación</td>
+            <td>Permitir a los usuarios interactuar con la barra de navegación</td>
+            <td>1</td>
+            <td>Andrés Soto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Sección "Header"</td>
+            <td>UT05</td>
+            <td>Funcionalidad "Sticky"</td>
+            <td>Añadir la funcionalidad para que la barra de navegación se desplace junto a la vista del usuario</td>
+            <td>2</td>
+            <td>Andrés Soto</td>
+            <td>In-process</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Sección "Learn"</td>
+            <td>UT06</td>
+            <td>botón "Read more"</td>
+            <td>Añadir botón para desplegar texto restante</td>
+            <td>1</td>
+            <td>Nicolas Espinoza</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Sección "Learn"</td>
+            <td>UT07</td>
+            <td>Ampliar texto</td>
+            <td>Permitir ampliar texto al interactuar con botón "Read more"</td>
+            <td>1</td>
+            <td>Nicolas Espinoza</td>
+            <td>In-process</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Sección "Footer"</td>
+            <td>UT08</td>
+            <td>Funcionalidad botones y links</td>
+            <td>Permitir al usuario interactuar con los botones y links</td>
+            <td>1</td>
+            <td>Jessica Commetant</td>
+            <td>In-process</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Acceso a la creación de cuenta de la aplicación web</td>
+            <td>UT09</td>
+            <td>Crear cuenta</td>
+            <td>Desplegar menú de creación de cuenta al interactuar con botón de creación de cuenta</td>
+            <td>1</td>
+            <td>Andrés Soto</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Sección "Plans"</td>
+            <td>UT10</td>
+            <td>Mostrar planes</td>
+            <td>Mostrar los planes establecidos y sus descripciones</td>
+            <td>1</td>
+            <td>Carlo Seminario</td>
+            <td>In-process</td>
+        </tr>
+    </table>
+
+<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/docs|ea62a6|chore:added header|chore:added header|02/09/2023|
+||LandingPage/docs|85a1098|chore:added language option and dropdown menu|chore:added language option and dropdown menu|04/09/2023|
+||LandingPage/docs|6aeeaeb|feature: added language change option|feature: added language change option|04/09/2023|
+||LandingPage/docs|b8311b2|feat(hero): added section hero|feat(hero): added section hero|06/09/2023|
+||LandingPage/docs|c0f8827|feat(values): Added startup and application values|feat(values): Added startup and application values|06/09/2023|
+||LandingPage/docs|1cf12f1|fix: directories organization|fix: directories organization|07/09/2023|
+||LandingPage/docs|1c0ac72|chore: added all images|chore: added all images|07/09/2023|
+||LandingPage/docs|38f1b0d|chore: modifying hero section to use bootstrap|chore: modifying hero section to use bootstrap|07/09/2023|
+||LandingPage/docs|6da2c84|feat(benefits): added section Our Benefits|feat(benefits): added section Our Benefits|07/09/2023|
+||LandingPage/docs|27c202c|feat: added FAQ and Visions|feat: added FAQ and Visions|07/09/2023|
+||LandingPage/docs|44ad7df|feat(prices): added pricing section|feat(prices): added pricing section|07/09/2023|
+||LandingPage/docs|44572ce|feat(contact): added section contact with about|feat(contact): added section contact with about|07/09/2023|
+||LandingPage/docs|50ccd1d|feat: added footer|feat: added footer|07/09/2023|
+||LandingPage/docs|11e4bbb|feat:added collaborators section|feat:added collaborators section|07/09/2023|
+||LandingPage/docs|ed0a933|feat(Learn): added learn section of the landing page|chore(head): added SEO meta tags for search engine optimization|07/09/2023|
+||LandingPage/docs|d70bf9c|feat(Learn): added learn section of the landing page|chore(head): added SEO meta tags for search engine optimization|07/09/2023|
+||LandingPage/docs|6debdb3|chore: updated organization for deployment|chore: updated organization for deployment|07/09/2023|
+||LandingPage/docs|ecbe71d|fix(collaborators): fix positing on html file|fix(collaborators): fix positing on html file|07/09/2023|
+
+<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div>
+
+Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios que planeamos desarrollar.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/Features|7387d5e|chore: added aceptance test|chore: added aceptance test|07/09/2023|
+
+<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review.</h5></div>
+
+En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones sobre información de la aplicación para los usuarios
+1. Sección Beneficios
+
+    En la sección planes, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
+
+    ![Planes_evidencia_sprint_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/5824d5ed-aa2f-4e88-bc4c-3b0a9d82c6ae)
+
+2. Sección Saber más
+
+    En la sección contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos, o en su defecto, ingresar a los medio de comunicación de la empresa.
+
+    ![contacto_evidencia_sprnt_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/e5039b46-2ade-492c-b2b6-7ca16dd87f57)
+
+3. Sección planes
+
+    En la sección FAQ los usuarios pueden visualizar una serie de preguntas usuales y la respuesta de la misma. 
+
+    ![FAQ_evidencia_sprint_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/fa813024-cbf6-4a1a-9e2b-e7f4fbd1fa24)
+
+3. Sección Ayuda
+4. Sección Contactanos
+5. Sección FAQs
+
+
+<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
+
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
+
+<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+
+Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. Teniendo ciertos errores y bugs que seran solucionados en posteriores entregas.
+
+![evidence_landing_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/be648854-f4f2-46b1-bd1d-b42994976afb)
+
+![evidence_landing_2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/dee5a041-185c-4192-a33d-dabdb2f1f2b5)
+
+![evidence_landing_3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/56380040-ad49-4b7d-a0e6-66eb9053e208)
+
+![evidence_landing_4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/35092a52-5cd8-40fe-a2c1-675929729c54)
+
+![evidence_landing_5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/aac28476-8aca-4c65-9b0e-b7df9dedb35d)
+
+Enlace para acceder a la landing page: [https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/](https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/)
+
+<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
+
+|Alumno|Actividad|
+|-|-|
+|Soto Kong Requena, Andres Eduardo|Implementación de la sección header de la landing page|
+|Galavis Du Bois, Alan Enrique|Implementación de la sección FAQ y valores de la empresa|
+|Seminario Garvín, Carlo Luca|Implementación de la sección hero, benefits y contact|
+|Espinoza Rodriguez, Nicolas Antonio|Implementación de la sección learn|
+|Comettant Rubiños, Jessica Elizabeth|Implementación de la sección footer y colaboradores|
+
+![evidencia_grupal_github_sprint_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/30489a86-6695-4361-b54f-f778458c3e80)
+
+![evidencia_individual_github_sprint_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/6446f195-3716-4573-aab6-e3721c2e19eb)
