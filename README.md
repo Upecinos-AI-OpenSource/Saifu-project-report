@@ -60,7 +60,8 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 |Renato Reyes|Capitulo I,Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores, Information Architecture. User Stories. Diagrama de base de datos.|
 |----|Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.|
 |---|Antecedentes y problemática 5W y 2H, Segmentos Objetivos, Análisis de competidores, User Stories, Product Backlog, Conclusiones.|
-|---|Services & Applications implementation, Software Deployment Configuration, User Stories, Product Backlog.|
+|Luis Cisneros |Competidores,Análisis competitivo,Estrategias y tácticas frente a competidores,Entrevistas,Diseño de entrevistas.
+|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
@@ -73,6 +74,7 @@ Los integrantes son:
 
 * Jessica Comettant (Mei0202)
 * Renato German Reyes Valenzuela (Mei0202)
+* Luis Angel Cisneros Salas
 
 Se explican las ramas más prominentes:
 
