@@ -852,3 +852,58 @@ Es importante que los jefes de hogar tengan la posibilidad de distinguir y filtr
 
 Los sistemas de navegación principales de la Landing Page son los menús de navegación superior e inferior. El sistema de labeling desplaza a los usuarios a las secciones que desean visualizar dentro de la página. En el caso no se haga uso de estos enlaces, el usuario verá la página de forma descendente.
 En la aplicación, los usuarios podrán saltar de una fase a otra o seguir un camino secuencial. Los botones, de igual manera, representan la apertura, confirmación o finalización de un registro y permiten el seguimiento del proceso en una nueva pantalla.
+
+<div id='4.3.'><h4> 4.3. Landing Page UI Design.</h4></div>
+
+<div id='4.3.1.'><h5> 4.3.1. Landing Page Wireframe.</h5></div>
+
+##### Landing Page para Desktop Web Browser
+
+En primer lugar, se presenta la landing page vista desde el desktop web browser. Esta incluye secciones de relevancia para el usuario, las cuales presentan información relacionada con los beneficios que obtendrá mediante el producto, los planes de pago disponibles, los perfiles de los integrantes del equipo y la misión, visión y valores de la startup. Adicionalmente, en esta sección podrá encontrar un apartado que responde las preguntas frecuentes de los usuarios, y un formulario a través del cual los usuarios tendrán la posibilidad de contactarse con los developers de la aplicación a través de un mensaje por correo electrónico.
+
+##### Homepage:
+![Homepage](https://github.com/user-attachments/assets/2b2b8b80-38ed-4ff6-ac08-be547d57bf48)
+
+##### HelpCenter:
+![Help center](https://github.com/user-attachments/assets/d4128fc2-70cb-4880-a667-1218abfbb845)
+
+##### Contact us:
+![Contact us](https://github.com/user-attachments/assets/d695d1b9-1431-40ca-b81b-d8278420b279)
+
+##### FAQs:
+![FAQs](https://github.com/user-attachments/assets/1d5aa802-f01c-44d4-9e23-8b58e61bdfbc)
+
+##### Pricing Plan:
+![Pricing plan](https://github.com/user-attachments/assets/3cddf11b-32f9-45a2-a15f-3c1eae19f051)
+
+##### Features:
+![Features](https://github.com/user-attachments/assets/f7e3a904-a041-4e1d-939b-27ac22c633b3)
+
+##### About Us:
+![About us](https://github.com/user-attachments/assets/378431df-cac6-429d-9483-e6e6e94dfd64)
+
+<div id='4.3.2.'><h5> 4.3.2. Landing Page Mock-up.</h5></div>
+El wireframe de la vista desktop web browser de la landing page resultó de utilidad para diagramar la organización de los elementos. A partir del esquema definido, se procedió a elaborar la landing page mock-up, la cual cuenta con los mismos contenidos explicados anteriormente. En la siguiente imagen se evidencia cómo se aplicó la paleta de colores primarios y secundarios, al igual que la tipografía definida anteriormente. 
+
+##### About Us:
+![About us -mock](https://github.com/user-attachments/assets/4bc2ff03-d3f2-4293-8bd4-43f1c135c1fe)
+
+##### Contact us:
+![Contact us -mock](https://github.com/user-attachments/assets/be1b7163-02c9-465e-b9b6-cd5e0877fb40)
+
+##### FAQs:
+![FAQs -moc](https://github.com/user-attachments/assets/81762ef1-9a9e-4ea5-a772-1cae91187e65)
+
+##### Features:
+![Features -mock](https://github.com/user-attachments/assets/deb3e970-2cf8-4864-8066-88ccfabcc7ed)
+
+##### HelpCenter:
+![Help center -mock](https://github.com/user-attachments/assets/e678be3a-9218-4384-a9d6-ba99a868de72)
+
+##### Homepage:
+![Homepage -mock](https://github.com/user-attachments/assets/3af72145-6ab4-438a-93b7-36ea7ccb620e)
+
+##### Pricing Plan:
+![Pricing plan -mock](https://github.com/user-attachments/assets/7b900bda-86ab-4158-a027-c68fcd6138a8)
+
+
