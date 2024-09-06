@@ -549,17 +549,6 @@ En base al análisis competitivo efectuado anticipadamente, se logró identifica
 
 **Afrontando las fortalezas de nuestros competidores:**
 
-**Comprendemos que nuestras fortalezas son:**
-
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
-
-**Estrategias**
-
-**Tácticas**
-
-
-**Afrontando las fortalezas de nuestros competidores:**
-
 **Comprendemos que las fortalezas de nuestros competidores son:**
 
 -Integración bancaria avanzada (Fintonic, Spendee).
@@ -647,29 +636,33 @@ La sección cubre el proceso de investigación de nuestros segmentos objetivo a 
 
 <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas.</h4></div>
 
-_Preguntas dirigidas a los Jefes de hogar de los sectores económicos D y E._
+_Preguntas dirigidas a los jefes de hogar de los sectores económicos D y E, y a estudiantes o personas naturales._
 ___
 - Preguntas principales:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. ¿Cuál es tu nivel de conocimiento en relación a la economía doméstica?
+
+  2. ¿Has enfrentado dificultades financieras en el pasado? ¿Podrías compartir alguna experiencia al respecto?
+  3. A medida que la cantidad de miembros en tu hogar creció, ¿qué cambios implementaste en tu enfoque financiero?
+  4. ¿Cómo controlas tus gastos en la actualidad?
    
 - Preguntas complementarias:
-  1. 
-  2. 
+  1. ¿Te sientes preparado para manejar imprevistos financieros que puedan surgir en cualquier momento?
+  2. ¿En qué momentos del mes o año consideras que tu presupuesto se vuelve más ajustado?
+  3. ¿Con qué frecuencia te has visto sorprendido por incrementos en los precios de productos?
 
 _Preguntas dirigidas a los jóvenes de 18 a 24 años en inicios de independencia_
 ___
 - Preguntas principales:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. ¿Cuál fue tu nivel de conocimiento sobre finanzas en el hogar al momento de comenzar tu independencia?
+  2. En tu primer mes de independencia, ¿cómo organizaste y distribuiste tu presupuesto?
+  3. Al dar inicio a tu vida independiente, ¿qué metas financieras te planteaste y cuál es tu plan para lograrlas?
+  4. ¿Has notado alguna diferencia en tus hábitos de gasto desde que te independizaste? ¿Qué factores crees que han contribuido a estos cambios?
    
 - Preguntas complementarias:
-  1. 
-  2. 
+  1. ¿Qué métodos emplean actualmente para monitorear y controlar tus gastos?
+  2. ¿Te sientes confiado en enfrentar situaciones financieras imprevistas que puedan surgir?
+  3. ¿En qué momentos del mes o del año notas que tu presupuesto se vuelve más ajustado?
+
 
 <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas.</h4></div>
 
