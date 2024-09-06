@@ -735,3 +735,120 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 | # Orden | User Story ID | Título | Descripción| Story Points |
 |:-:|:-:|-|:-|:-:|
 |1|--|---|--|--|
+
+<div id='4.'><h2> Capítulo IV: Product Design.</h2></div>
+
+<div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
+<div id='4.1.1.'><h4> 4.1.1. General Style Guidelines.</h4></div>
+Un "style guideline" o guía de estilo es un conjunto de reglas y pautas que establecen la forma en que se deben escribir, diseñar o presentar documentos, contenido web, software, o cualquier otro tipo de trabajo creativo. A continuación, se otorga especificación a los parámetros implementados en la estructura del proyecto:
+
+**Colores:**
+El color primario escogido para el diseño del producto y para el logotipo es una serie de matices cercanos al verde olivo. Este tono de verde olivo evoca sentimientos de serenidad, solidez, conexión con la naturaleza y autenticidad. Su conexión con la naturaleza también sugiere una gestión financiera sostenible y equilibrada. Estas características hacen que la interfaz transmita seguridad y profesionalismo en el ámbito financiero, donde el fondo se integra sutilmente, dando mayor relevancia al contenido relacionado con las finanzas.
+
+![colores](https://github.com/user-attachments/assets/02744ad5-0fb1-4f9f-9a47-a9223cb0ad4b)
+
+**Tipografía:**
+El equipo ha elegido la fuente Nunito, un tipo de letra contemporáneo y de fácil lectura. Esta fuente se presenta en diversos estilos, incluyendo Normal, y se ha definido una serie de características específicas para su uso en los prototipos. Las especificaciones clave abarcan tamaños de fuente que varían desde 14 px hasta 24 px, con interlineados que oscilan entre 19 px y 33 px, adaptándose a diferentes propósitos textuales. Estos parámetros aseguran legibilidad y coherencia en la presentación del contenido.
+
+![tipografia](https://github.com/user-attachments/assets/d7e8fe6b-1794-4cbc-8fd2-808db5bced8f)
+
+![tipo](https://github.com/user-attachments/assets/456e74fc-1e3d-456c-ab06-b2b9f158bb8e)
+
+**Iconografía**
+El ícono distintivo de "Saifu" es un cerdo, símbolo universal de ahorro, con la particularidad de que tiene una moneda ingresando en él. Ello respresenta la acción de guardar y proteger los recursos financieros. La imagen encapsula la esencia de la aplicación: ser una herramienta confiable y educativa en el ámbito financiero.
+
+![logo_saifu](https://github.com/user-attachments/assets/c8e4469a-7544-43da-ab6b-781bf8b61e46)
+
+<div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines.</h4></div>
+
+El enfoque de "Saifu" para la aplicación web es de elegancia, sencillez y eficiencia para realizar los procesos. Las etapas del proceso y los formularios que deben llenarse están representados en formularios y secciones que abarcan la mayoría de la pantalla. 
+##### Tarjetas:
+Se hace uso del componente "mat-card" de la colección de Angular Material para representar los avisos y las notificaciones importantes de la aplicación. Los avisos deberán de ser acompañados de una imagen representativa, la cual será asignada por defecto en el caso que el emisor decida no seleccionar una imagen. Las tarjetas incluyen un título, un subtítulo, un párrafo descriptivo y representarán un hipervínculo para la obtención de más información.
+##### Imágenes:
+
+En el diseño web se incluirán imágenes descriptivas y con un objetivo puntual. En primer lugar, la imagen de perfil del usuario y de la empresa en la cual está registrado dentro de la aplicación se encontrarán en todo momento en la parte superior izquierda, esto con el objetivo de ayudar al usuario a identicar la sesión en la que se encuentra y ayudarlo a navegar rápidamente a sus datos personales. 
+
+Adicionalmente, se contará con imágenes representativas para cada una de las cuatro secciones que representan el núcleo principal de nuestra aplicación. Dado que las aplicaciones de escritorio se muestran en una alta resolución de pantalla, resulta de suma importancia que el usuario cuente con guías visuales fácilmente identificables para acceder a las secciones con el flujo funcional de la aplicación. Por esta misma razón no se hace uso de imágenes de fondo en la aplicación con excepción del log-in, la startup cree que el estilo del diseño web y móvil debe atenerse a la sobriedad en el entorno empresarial del segmento objetivo.
+
+Finalmente, como se explicó anteriormente, se hace uso de una imagen de fondo para la pantalla de inicio de la aplicación web. Debería transmitirse, desde la primera pantalla de la interfaz de la app, que el usuario se encuentra en el sitio web de Greenhouse. Esta imagen, además, tiene la posibilidad de ser cambiada en el caso de eventos y promociones cuyo objetivo sea promocionar al negocio.
+
+![imagen](https://github.com/user-attachments/assets/a7d2e1f6-190f-4596-80d0-b9cd0b0b9ee2)
+
+##### Botones:
+Se utilizan los botones según lo especificado en el apartado de General Style Guidelines. En la aplicación web, se suelen encontrar en la parte inferior de la sección principal de la pantalla. Estos botones permiten al usuario realizar acciones que añadan, eliminen y modifiquen los registros que se muestran en la vista del usuario en la parte superior. Por otro lado, se deben mostrar botones de confirmación para las acciones que creen nuevos procesos y que involucren al funcionamiento de toda la fábrica. Todos los botones cuentan con un estilo distintivo y un alto contraste con los colores del resto de la aplicación. Se utiliza la teoría del color en los botones de color rojo para representar acciones que eliminen procesos o los den por finalizados.
+
+![botones](https://github.com/user-attachments/assets/105cfdd7-1e1f-4925-a7ea-3a15ed2681a0)
+
+##### Tablas:
+Las tablas cuentan con los colores distintivos de la aplicación, verde y blanco, y cada fila representa una instancia de registro. Las tablas de registros son el elemento principal para mostrar los datos de la aplicación, por lo tanto, se utilizan como componente central y suelen ser el foco de las vistas en las cuales aparecen.
+
+![tabla](https://github.com/user-attachments/assets/ccd395d2-a7f8-4379-9516-0dcfc1325b8a)
+
+##### Pantallas Emergentes:
+Las pantallas emergentes tienen el objetivo de confirmar acciones clave para el funcionamiento del negocio y con gran repercusión en el mismo. Los _pop-ups_ cuentan con colores con un valor de matiz mayor que sus contrapartes pasteles del resto de la aplicación web. Además, su aparición oscurece el resto de la pantalla para generar un efecto de contraste. Este efecto busca transmitir la importancia de la resolución del asunto de la pantalla emergente antes de que el usuario continúe con la navegación en la app.
+
+<div id='4.2.'><h3> 4.2. Information Architecture.</h3></div>
+
+Al ser Greenhouse un software que optimiza un flujo funcional que es en gran medida núcleo del negocio, es importante que en todo momento el usuario esté consciente del proceso que está realizando y el lugar dónde se encuentra dentro de la aplicación. La información de las fases o los procesos que forman un todo se encuentra categorizada y ubicada de forma secuencial. El usuario sigue a una unidad que representa el proceso general, un cultivo, y progresivamente registra las fases que sigue el cultivo hasta su finalización vía diferentes pantallas de la solución web.
+Mediante la vista de "Panel de Control", se muestra una interfaz más generalizada de las funcionalidades de la aplicación que se involucran a un nivel superior con el desarrollo de los procesos. De esta manera, se logra una distinción notable entre el registro de procesos y el análisis que se realiza a partir de estos.
+
+<div id='4.2.1.'><h4> 4.2.1. Organization Systems.</h4></div>
+
+La organización visual de contenido se realizará de tres formas diferentes en las varias vistas de la aplicación. La **organización de forma jerárquica** presenta al usuario con un orden de importancia para los elementos que se muestran en pantalla. Se utilizó este orden para las pantallas de log-in y los perfiles de los jefes de hogar y los jóvenes estudiantes. Los títulos de los datos acaparan mayor parte de la pantalla en comparación a los datos ingresados o que deben ingresarse. Adicionalmente, las opciones de modificación de información para los perfiles se encuentran en un color azul  que armoniza con el color blanco de la aplicación y no causa una impresión fuerte, por lo que se espera que el usuario vea las opciones de modificación después de leer sus datos personales.
+
+Para el panel de control, es necesario ofrecer al cliente una vista general de la aplicación mediante una **organización matricial**. El panel de control se concentra en una vista general del uso de la aplicación Saifu por parte de la empresa. En esta vista, se mostrarán imágenes que lleven al usuario al historial de reportes, información de la empresa, educación financiera y metas y ahorro. Esta pantalla sigue una categorización de contenido **por tópicos**, dado que las tarjetas y los hipervínculos cuentan con diferentes tópicos debidamente representados visualmente.
+
+Por último, la pantalla de inicio de la aplicación sigue una **categorización por audiencia**, se entiende que cada uno de los segmentos objetivos tiene un propósito diferente al momento de acceder a la aplicación por primera vez en el día. 
+
+<div id='4.2.2.'><h4> 4.2.2. Labeling Systems.</h4></div>
+
+Los encabezados se encuentran presentes en las pantallas que no forman parte del proceso principal de la aplicación. Cada uno resume de forma adecuada al usuario todo el contenido de la vista actual.
+Además de imágenes, las secciones del panel de control están asociadas con labels que informan al usuario del contenido que puede visualizar si accede a estas secciones. Es por esta razón, además, que todas las tarjetas presentadas en esta vista cuentan con sus respectivos títulos.
+En la barra de navegación se evidencian en todo momento las etiquetas textuales para las vistas principales, panel de control y registro de transacciones.
+
+<div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags.</h4></div>
+
+Las metas etiquetas nos ayudan a indicar información codificada y especificar los metadatos. Estas no son visualizadas en los sitios web, estos son leídos por los navegadores o rastreadores web. Estas metas etiquetas facilitan el análisis de archivos HTML. y facilita el mantenimiento del contenido del archivo. Además, estas etiquetas nos ayudan en el posicionamiento de nuestra página web en los buscadores.
+
+Las metas etiquetas que usaremos:
+
+**Título:**
+
+Esta etiqueta es una de las más importantes y por lo general se pone antes que cualquier otra metaetiqueta. Esta etiqueta es utilizada o leida por todos los motores de búsqueda como encabezado en las páginas de resultados de los motores de búsqueda (SERP).
+
+    <title>Register your processes with Saifu</title>
+    
+**Codificación de carácteres:**
+
+Esta etiqueta ayudará a que muestre correctamente los caracteres especiales en la página.
+
+    <meta charset="utf-8">
+
+**Descripción:**
+
+Esta meta etiqueta nos sirve para proporcionar un resumen del contenido de la página web. Aquí debemos dar una breve información de lo que se puede visualizar en la página.
+
+    <meta name="description" content="Saifu is a web application focused on financial education"/>
+
+**Palabras clave:**
+
+En esta etiqueta se pone las palabras claves relacionadas con el tema o contenido de la página web.
+
+    <meta name="keywords" content="process, management, transaction, education, money, finantial"/>
+
+**Autor y Derechos de Autor:**
+
+Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
+
+    <meta name="author" content="Saifu"/>
+
+    <meta name="copyright" content="Copyright UpecinosAI team" />
+
+<div id='4.2.4.'><h4> 4.2.4. Searching Systems.</h4></div>
+
+Es importante que los jefes de hogar tengan la posibilidad de distinguir y filtrar la información de los registros almacenados en la aplicación web. Uno de los objetivos del sistema es representar de forma adecuada, fácil y rápida la gran cantidad de información que va a ser añadida por los usuarios. Es así que los segmentos objetivos podrán buscar las transacciones registradas por su fecha de registro y monto realizado. Asimismo, podrán filtrar en base a fecha y autor del registro en el histórico general.
+
+<div id='4.2.5.'><h4> 4.2.5. Navigation Systems.</h4></div>
+
+Los sistemas de navegación principales de la Landing Page son los menús de navegación superior e inferior. El sistema de labeling desplaza a los usuarios a las secciones que desean visualizar dentro de la página. En el caso no se haga uso de estos enlaces, el usuario verá la página de forma descendente.
+En la aplicación, los usuarios podrán saltar de una fase a otra o seguir un camino secuencial. Los botones, de igual manera, representan la apertura, confirmación o finalización de un registro y permiten el seguimiento del proceso en una nueva pantalla.
