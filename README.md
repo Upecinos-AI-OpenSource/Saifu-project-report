@@ -672,12 +672,20 @@ ___
 
 **Entrevista a jefes de hogar de los sectores económicos D y E **
 
-|Entevistado 1|wii|
+|Entevistado 1|Jorge Reyes Vivas|
 |-|-|
-|Edad|wuii|
-|Distrito|isdds|
-|<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src=(**imagen** )>|--|
-|Timing: 0:07-15:15 |URL:--|
+|Edad|55|
+|Distrito|La Molina|
+|Screenshot|![](assets/entrevistado-Jorge.JPG)|
+|Timing: 0:07-15:15 |URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b471_upc_edu_pe/EZE0KFiBow5LoYDsSd5O9JQByCgdRjTXsBLPmrGmeryc-A?e=JcwNhp|
+
+|Entevistado 2|Yenny Reyes Vivas|
+|-|-|
+|Edad|49|
+|Distrito|La Molina|
+|Screenshot|![](assets/entrevistada-yenny.JPG)|
+|Timing: 0:07-15:15 |URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b471_upc_edu_pe/EdxTSNPTLSxBuz991GFEnsQBMqI-r4VzA0jHUe3bfobKCA?e=eROese|
+
 
 **Entrevista a jóvenes de 18 a 24 años en inicios de independencia**
 
