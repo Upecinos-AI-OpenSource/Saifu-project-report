@@ -683,8 +683,7 @@ ___
 |Edad|19 años|
 |Distrito|San miguel|
 |Screenshot|![](https://github.com/LuisCS341/ImagenProyecto/raw/main/EntrevistaOpenSource.png)|
-|Timing: 0:00-6:06 |URL:https://drive.google.com/file/d/1LjHWG3TrSpVIZG70o6qmyyH8S_Ja5W31/view?usp=sharing
-
+|Timing: 0:00-6:06 |URL: https://drive.google.com/file/d/1zNKLesPzfrVsRJ03IVC2Uu_OM287sfS1/view?usp=sharing
 |Entevistado 2|Jose Carlos|
 |-|-|
 |Edad|23 años|
