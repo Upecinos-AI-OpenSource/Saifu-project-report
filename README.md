@@ -1743,6 +1743,7 @@ Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io
     </table>
 
 <div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
+
 Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle a cada uno de los miembros del grupo una tarea que debía cumplirla hasta cierta fecha para mayor organización
 
 <table>
@@ -1789,6 +1790,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
     <td>10 días</td>
   </tr>
 </table>
+
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
 
 
@@ -1857,8 +1859,8 @@ Link del Trello: https://trello.com/invite/b/66db1e3982afd3f358db5117/ATTI1911fa
 <div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
 
 
-|Repository|Branch| Commit ID| Commit Message |
-|----|----|----|----|
+|Repository|Branch| Commit ID |
+|----|----|----|
 |https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 0dc928745858b4e0a5c06575b075d499817c3598 | Update Development Evidence for Sprint Review |
 |https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 0b912d22277b657e55782a3291d3ae21fad4abf8 | Update Sprint Planning 1 |
 |https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | fa57166af02dfd923e453902ddd55f53173d3a73 | Add Sprint Backlog 1 |
@@ -1873,6 +1875,7 @@ Link del Trello: https://trello.com/invite/b/66db1e3982afd3f358db5117/ATTI1911fa
 |https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | dd854ac9f68067adb16904fcbe1d205c8fbe4422 | Update Content Diagrams |
 |https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 1fdc819e3d64f9c5cc2986e06b699f19bf052886 | Merge branch 'main' of https://github.com/Upecinos-AI-OpenSource/Saifu-project-report |
 |https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 1aa470c5709a52b7b2a6291dce88a203b39fdc40 | Merge pull request #2 from AppWeb-Grupo3/patch-1 |
+
 <div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div>
 
 Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios que planeamos desarrollar.
@@ -1981,11 +1984,11 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
   </tr>
   <tr>
     <td align="center">Sprint 2 – 1 Review Summary</td>
-    <td align="center">No aplica</td>
+    <td align="center">Se desplegó la Landing Page y se empezó la planificación del Front-End de la aplicación.</td>
   </tr>
   <tr>
     <td align="center">Sprint 2 – 1 Retrospective Summary</td>
-    <td align="center">No aplica</td>
+    <td align="center">Se implemento la Landing Page y se Inició el proceso de la creación del Front-End de Saifu. Priorizamos la creación de los componentes que definen a la aplicación</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
@@ -1996,16 +1999,15 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
   </tr>
   <tr>
     <td align="center">Sprint n Velocity</td>
-    <td align="center">5 días</td>
+    <td align="center">15 días</td>
   </tr>
   <tr>
     <td align="center">Sum of Story Points</td>
-    <td align="center">No aplica</td>
+    <td align="center">15 días</td>
   </tr>
 </table>
 
 <div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
-
 
 <table>
   <tr>
@@ -2027,8 +2029,8 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
   </tr>
   <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
     <td align="center">WI01</td>
     <td align="center">Login (Jefes de hogar del nivel económico D y E) y Jóvenes en inicios de independencia</td>
     <td align="center">Crear un login para los Jefes de hogar del nivel económico D y E y Jóvenes en inicios de independencia</td>
@@ -2037,8 +2039,8 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
     <td align="center">WI02</td>
     <td align="center">Signup (Jefes de hogar del nivel económico D y E)</td>
     <td align="center">Crear un registro para los Jefes de hogar del nivel económico D y E y Jóvenes en inicios de independencia</td>
@@ -2047,8 +2049,8 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
     <td align="center">WI03</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -2057,8 +2059,8 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
     <td align="center">WI04</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -2067,8 +2069,8 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
     <td align="center">WI05</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -2077,8 +2079,8 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
     <td align="center">WI06</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -2087,8 +2089,8 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
     <td align="center">WI07</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -2097,8 +2099,8 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">4</td>
@@ -2106,8 +2108,8 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
     <td align="center">WI09</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -2116,8 +2118,8 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
     <td align="center">WI09</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -2126,8 +2128,8 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
     <td align="center">WI09</td>
     <td align="center">Actualización del Informe</td>
     <td align="center"></td>
@@ -2165,7 +2167,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">22/04/2024</td>
   </tr>
   <tr>
-    <td align="center">-</td>
+    <td align="center">Repositorio del frontend</td>
     <td align="center">feature/main</td>
     <td align="center">-</td>
     <td align="center">Inclusión de toolbars</td>
