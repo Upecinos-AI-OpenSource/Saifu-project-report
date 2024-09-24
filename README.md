@@ -1946,7 +1946,7 @@ Enlace para acceder a la landing page: https://upecinos-ai-opensource.github.io/
 
 
 <div id='5.2.2'><h4> 5.2.2. Sprint 2</h4></div>
-- A continuacion se presenta el sprint 2, la implementacion del frontend
+- A continuacion se presenta el sprint 2 para la implementacion del frontend
 
 <div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
 Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
@@ -2216,7 +2216,7 @@ Para la creación de la plataforma,en esta caso para el desarrollo del Fronted s
 
 *Webstorm (IDE DE DESARROLLO):* Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend.
 
-*Vue.js (Frameworks):* Utilizamos vue.js como Frameworks de trabajo.
+*Angular (Frameworks):* Utilizamos angular como Framework de trabajo.
 
 *JavaScript:* Typescript se ha implementado para agregar interactividad y logica a los componentes de la plataforma.
 
