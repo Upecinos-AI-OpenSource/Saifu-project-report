@@ -1825,3 +1825,38 @@ Enlace para acceder a la landing page: https://upecinos-ai-opensource.github.io/
 **Bibliografia**
 
 **Anexos**
+
+
+<div id='5.2.2'><h4> 5.2.2. Sprint 2</h4></div>
+
+<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
+
+<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 1.</h5></div>
+
+<div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
+
+
+<div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review.</h5></div>
+
+<div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review.</h5></div>
+
+
+<div id='5.2.2.6.'><h5> 5.2.2.6. Services Documentation Evidence for Sprint Review.</h5></div>
+
+<div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review.</h5></div>
+
+
+<div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint.</h5></div>
+
+
+<div id='5.4.'><h5> 5.4. Video About-the-Product.</h5></div>
+
+<div id='6.'><h5> 6. Conclusiones</h5></div>
+
+<div id='6.1'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
+
+<div id='6.2'><h5> 6.2 Video About-the-Team</h5></div>
+
+**Bibliografia**
+
+**Anexos**  
