@@ -1676,7 +1676,7 @@ Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io
 |-|-|-|
 |Elaborar y diseñar una landing page atractiva e informativa para la aplicación Saifu|19|19|
 
-<div id='5.2.'><h4> 5.2. Landing Page, Services & Applications Implementation</h4></div>
+## 5.2 Landing Page, Services & Applications Implementation
 
 <div id='5.2.1'><h4> 5.2.1. Sprint 1</h4></div>
 
@@ -1743,12 +1743,111 @@ Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io
     </table>
 
 <div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
+Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle a cada uno de los miembros del grupo una tarea que debía cumplirla hasta cierta fecha para mayor organización
 
+<table>
+  
+  <tr>
+    <th colspan="2" style="text-align: center;">Sprint Planning</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Date</td>
+    <td>22/8/2024</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Time</td>
+    <td>05:00 P.M</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Point</td>
+    <td>Reunión por Google Meet</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Prepared By</td>
+    <td>Renato German Reyes Valenzuela,</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Assistants</td>
+    <td>
+      <ul>
+        <li>Comettant Rubiños, Jessica Elizabeth</li>
+        <li>Reyes Valenzuela, Renato German</li>
+        <li>Cisneros Salas,Luis Angel</li>
+        <li>Góngora Sánchez,Marco Antonio</li>
+        <li>Rojas Ccama, Carlos Andres</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" style="text-align: center;">Sprint Goal</th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">Implementar una landing page sobre Saifu a su vez completando el informe de acuerdo a lo que se nos solicita</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Sprint n Velocity</td>
+    <td>10 días</td>
+  </tr>
+</table>
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
 
 
 En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retrasó el proceso de creación llevándolo a tener en su mayoria el aspecto visual de la landing page.
 
+<table>
+        <thead>
+            <tr>
+                <th>US ID</th>
+                <th>US Title</th>
+                <th>Description</th>
+                <th>Estimation (Hours)</th>
+                <th>Assigned To</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> 01 </td>
+                <td>Diseñar layout de la landing page</td>
+                <td>Crear un diseño inicial para la página de inicio del sitio web de alquiler de autos</td>
+                <td>4</td>
+                <td>Reyes Valenzuela, Renato German </td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 02 </td>
+                <td>Crear sección de navegación</td>
+                <td>Implementar una barra de navegación para facilitar la exploración de la landing page</td>
+                <td>3</td>
+                <td>Comettant Rubiños, Jessica Elizabeth </td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 03 </td>
+                <td>Agregar imágenes y contenido</td>
+                <td>Incluir imágenes y texto relevante para mejorar la apariencia de la landing page</td>
+                <td>5</td>
+                <td>Cisneros Salas,Luis Angel </td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 04 </td>
+                <td>Implementar llamada a la acción</td>
+                <td>Agregar un botón o enlace que invite a los usuarios a realizar una acción específica como redirigir al usuario a la aplicación web</td>
+                <td>2</td>
+                <td>Góngora Sánchez,Marco Antonio </td>
+              <td>To-Do</td>
+          </tr>
+          <tr>
+                <td> 04 </td>
+                <td>Implementacion de participantes</td>
+                <td>Agregar una seccion de los participantes en el landing</td>
+                <td>2</td>
+                <td>Rojas Ccama, Carlos Andres </td>
+              <td>To-Do</td>
+          </tr>
+      </tbody>
+  </table>
 
 ![Trello Sprint 1](assets/trello-upecionosAi.JPG)
 
@@ -1758,6 +1857,22 @@ Link del Trello: https://trello.com/invite/b/66db1e3982afd3f358db5117/ATTI1911fa
 <div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
 
 
+|Repository|Branch| Commit ID| Commit Message |
+|----|----|----|----|
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 0dc928745858b4e0a5c06575b075d499817c3598 | Update Development Evidence for Sprint Review |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 0b912d22277b657e55782a3291d3ae21fad4abf8 | Update Sprint Planning 1 |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | fa57166af02dfd923e453902ddd55f53173d3a73 | Add Sprint Backlog 1 |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 0f12e60759ad08ff27faa11303219daf64e75573 | Update Spring Planning 1 |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | ade5da8678b864b888d18920f5bcec49d6fe09b7 | Add Sprint Planning 1 |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 01462f7ebc8d772902899fe68fcfd1453323aba9 | Update Project Report.md |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 57c74ad8872cffeca02c5c84a83660b264332d6e | Update README.md |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 06db01d225cee7b35f40fa9f1ba914d06aa4fa3d | Update Project Report.md |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 05ed8f34bb96d60407520ba644cfd2c23f2e22f0 | Add Architecture Component Diagram |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 935f937eca37489893bb8728e842bdd1be8b0843 | Add files via upload |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 9976d27f0e882082994c99a5fe44a904e4bc1265 | Update Domain Driven Software Architecture |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | dd854ac9f68067adb16904fcbe1d205c8fbe4422 | Update Content Diagrams |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 1fdc819e3d64f9c5cc2986e06b699f19bf052886 | Merge branch 'main' of https://github.com/Upecinos-AI-OpenSource/Saifu-project-report |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 1aa470c5709a52b7b2a6291dce88a203b39fdc40 | Merge pull request #2 from AppWeb-Grupo3/patch-1 |
 <div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div>
 
 Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios que planeamos desarrollar.
@@ -1795,7 +1910,11 @@ En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despli
 
 <div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
 
-Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
+Webstorm: Se optó por utilizar Webstorm como el Entorno Integrado de Desarrollo (IDE) principal para el desarrollo del landing page. Webstorm ofrece una amplia gama de características y funcionalidades que facilitan la escritura de código, la depuración y la gestión de proyectos.
+
+JavaScript:Se hizo uso de JavaScript, concretamente TypeScript, para dotar de interactividad y lógica a los diversos componentes del landing page.
+
+GitHub:Se decidió alojar el repositorio del landing page en GitHub, una plataforma de desarrollo colaborativo basada en Git. GitHub ofrece una serie de ventajas significativas, como la capacidad de colaborar de manera efectiva en equipo.
 
 <div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
 
@@ -1813,7 +1932,6 @@ Enlace para acceder a la landing page: https://upecinos-ai-opensource.github.io/
 |Reyes Valenzuela, Renato German|Implementación de la sección features|
 |Comettant Rubiños, Jessica Elizabeth|Implementación de la sección header,about-us y homepage|
 
-
 <div id='5.4.'><h5> 5.4. Video About-the-Product.</h5></div>
 
 <div id='6.'><h5> 6. Conclusiones</h5></div>
@@ -1828,23 +1946,304 @@ Enlace para acceder a la landing page: https://upecinos-ai-opensource.github.io/
 
 
 <div id='5.2.2'><h4> 5.2.2. Sprint 2</h4></div>
+- A continuacion se presenta el sprint 2 para la implementacion del frontend
 
 <div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
+Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
 
-<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 1.</h5></div>
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>2</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2024-04-20</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">11:30 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por meet</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Renato German Reyes Valenzuela,</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Comettant Rubiños, Jessica Elizabeth<br>Reyes Valenzuela, Renato German<br>Cisneros Salas,Luis Angel<br>Góngora Sánchez,Marco Antonio<br>Rojas Ccama, Carlos Andres</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Review Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Retrospective Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 Goal</td>
+    <td align="center">Se debe completar las vistas del Frontend en Webstorm y completar el Sprint 2</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">5 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table>
+
+<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
+
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI01</td>
+    <td align="center">Login (Jefes de hogar del nivel económico D y E) y Jóvenes en inicios de independencia</td>
+    <td align="center">Crear un login para los Jefes de hogar del nivel económico D y E y Jóvenes en inicios de independencia</td>
+    <td align="center">6</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI02</td>
+    <td align="center">Signup (Jefes de hogar del nivel económico D y E)</td>
+    <td align="center">Crear un registro para los Jefes de hogar del nivel económico D y E y Jóvenes en inicios de independencia</td>
+    <td align="center">4</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI03</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">Comettant Rubiños, Jessica Elizabeth</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI04</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">Comettant Rubiños, Jessica Elizabeth</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI05</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">Reyes Valenzuela, Renato German</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI06</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">7</td>
+    <td align="center">Reyes Valenzuela, Renato German</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI07</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">Cisneros Salas,Luis Angel</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">Cisneros Salas,Luis Angel</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">6</td>
+    <td align="center">Góngora Sánchez,Marco Antonio</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">Góngora Sánchez,Marco Antonio</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Actualización del Informe</td>
+    <td align="center"></td>
+    <td align="center">5</td>
+    <td align="center">Todo el grupo</td>
+    <td align="center">Done</td>
+  </tr>
+</table>
 
 <div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
 
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-project-report</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">24/04/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-project-report</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">Creación página de perfil</td>
+    <td align="center">Creado el componente profile-owner & profile-tenants</td>
+    <td align="center">22/04/2024</td>
+  </tr>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">Inclusión de toolbars</td>
+    <td align="center">-</td>
+    <td align="center">22/04/2024</td>
+  </tr>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">Merge pull request</td>
+    <td align="center">Merge pull request
+</td>
+    <td align="center">20/04/2024</td>
+  </tr>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">Merge remote-tracking branch</td>
+    <td align="center">-</td>
+  <td align="center">22/04/2024</td>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">Add Login component & Udate Login</td>
+    <td align="center">Add Login component & Udate Login</td>
+  <td align="center">21/04/2024</td>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">Merge pull request #15</td>
+    <td align="center">Merge pull request #15</td>
+  <td align="center">20/04/2024</td>
+</table>
 
 <div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review.</h5></div>
+En esta parte del trabajo aún no se desarrolla el backend, debido a eso no se pueden realizar Unit Test. Además, no se han agreagado nuevas user stories a las que realizarles Acepptan's Test's.
 
 <div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review.</h5></div>
-
+- Ejecucion del frontend
 
 <div id='5.2.2.6.'><h5> 5.2.2.6. Services Documentation Evidence for Sprint Review.</h5></div>
 
-<div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review.</h5></div>
+Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
 
+*Webstorm (IDE DE DESARROLLO):* Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend.
+
+*Angular (Frameworks):* Utilizamos angular como Framework de trabajo.
+
+*JavaScript:* Typescript se ha implementado para agregar interactividad y logica a los componentes de la plataforma.
+
+*GitHub:* Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
+
+<div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review.</h5></div>
+Para estra entrega se logró desplegar el front end de la aplicación en firebase. Para lograrlo este fue el proceso:
+
+Primero creamos un proyecto en firebase y le asignamos un nombre.
+
+
+Una vez creado el proyecto nos dirigimos al apartado de hosting.
+
+
+Seguimos las instrucciones de firebase para desplegar la aplicación.
+
+
+Ahora nos autenticamos con nuestra cuenta de google e inicializamos el proyecto
+
+
+Finalmente lo implementamos con el comando "firebase deploy"
+
+
+Esta es la prueba en la consola del proyecto:
+
+
+Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente enlace: 
 
 <div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint.</h5></div>
 
@@ -1860,3 +2259,4 @@ Enlace para acceder a la landing page: https://upecinos-ai-opensource.github.io/
 **Bibliografia**
 
 **Anexos**  
+
