@@ -2248,4 +2248,11 @@ Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente
 
 **Anexos**  
 
+Repositorio del Frontend: https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd
+
+Repositorio de la Landing Page:https://github.com/Upecinos-AI-OpenSource/Saifu-LandingPage
+
+Repositorio del Informe:https://github.com/Upecinos-AI-OpenSource/Saifu-project-report 
+
+Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRAMES%7CMOCKUPS----SAIFU?node-id=266-8838&t=CAUoERl93g5WrZ3d-1  
 
