@@ -1402,7 +1402,7 @@ Registro de Transacciones:
 
 <div id='4.6.3'><h4> 4.6.3. Software Architecture Components Diagrams.</h4></div>
 
-![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/Component_saifu.png)
+![foto_context](_https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/a628c666b9c080ea8a5c1689e19cb4e223f84b57/assets/SaifuComponent.png)
 
 <div id='4.7'><h4> 4.7 Software Object-Oriented Design.</h4></div>
 
@@ -2011,128 +2011,109 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
 
 <table>
   <tr>
-    <td align="center"><strong>Sprint</td>
-    <td colspan="7" align="center"><strong>1</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>User Story</strong></td>
-    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>ID</strong></td>
-    <td align="center"><strong>Title</strong></td>
-    <td align="center"><strong>ID</strong></td>
-    <td align="center"><strong>Title</strong></td>
-    <td align="center"><strong>Description</strong></td>
-    <td align="center"><strong>Estimation (Hours)</strong></td>
-    <td align="center"><strong>Assigned To</strong></td>
-    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">WI01</td>
-    <td align="center">Login (Jefes de hogar del nivel económico D y E) y Jóvenes en inicios de independencia</td>
-    <td align="center">Crear un login para los Jefes de hogar del nivel económico D y E y Jóvenes en inicios de independencia</td>
-    <td align="center">6</td>
-    <td align="center">Carlos Andres Rojas Ccama</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">WI02</td>
-    <td align="center">Signup (Jefes de hogar del nivel económico D y E)</td>
-    <td align="center">Crear un registro para los Jefes de hogar del nivel económico D y E y Jóvenes en inicios de independencia</td>
-    <td align="center">4</td>
-    <td align="center">Carlos Andres Rojas Ccama</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">WI03</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-    <td align="center">Comettant Rubiños, Jessica Elizabeth</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">WI04</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-    <td align="center">Comettant Rubiños, Jessica Elizabeth</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">WI05</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-    <td align="center">Reyes Valenzuela, Renato German</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">WI06</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">7</td>
-    <td align="center">Reyes Valenzuela, Renato German</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">WI07</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-    <td align="center">Cisneros Salas,Luis Angel</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-    <td align="center">Cisneros Salas,Luis Angel</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">WI09</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">6</td>
-    <td align="center">Góngora Sánchez,Marco Antonio</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">WI09</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-    <td align="center">Góngora Sánchez,Marco Antonio</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
+      <td align="center"><strong>Sprint</strong></td>
+      <td colspan="7" align="center"><strong>2</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>User Story</strong></td>
+      <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>ID</strong></td>
+      <td align="center"><strong>Title</strong></td>
+      <td align="center"><strong>ID</strong></td>
+      <td align="center"><strong>Title</strong></td>
+      <td align="center"><strong>Description</strong></td>
+      <td align="center"><strong>Estimation (Hours)</strong></td>
+      <td align="center"><strong>Assigned To</strong></td>
+      <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+    </tr>
+    <tr>
+      <td align="center">US-001</td>
+      <td align="center">Login User</td>
+      <td align="center">WI01</td>
+      <td align="center">Login (Jefes de hogar del nivel económico D y E) y Jóvenes en inicios de independencia</td>
+      <td align="center">Crear un login para los Jefes de hogar del nivel económico D y E y Jóvenes en inicios de independencia</td>
+      <td align="center">6</td>
+      <td align="center">Carlos Andres Rojas Ccama</td>
+      <td align="center">Done</td>
+    </tr>
+    <tr>
+      <td align="center">US-002</td>
+      <td align="center">RegisterUser</td>
+      <td align="center">WI02</td>
+      <td align="center">Signup (Jefes de hogar del nivel económico D y E)</td>
+      <td align="center">Crear un registro para los Jefes de hogar del nivel económico D y E y Jóvenes en inicios de independencia</td>
+      <td align="center">4</td>
+      <td align="center">Carlos Andres Rojas Ccama</td>
+      <td align="center">Done</td>
+    </tr>
+    <tr>
+      <td align="center">US-010</td>
+      <td align="center">Gestion de Ingresos</td>
+      <td align="center">TS-007</td>
+      <td align="center">Mostrar Ejemplos de Gestión de Ingresos</td>
+      <td align="center">Agregar ejemplos prácticos de cómo la aplicación categoriza los ingresos y gastos del usuario para facilitar la gestión financiera.</td>
+      <td align="center">4</td>
+      <td align="center">Developer 4</td>
+      <td align="center">In-Process</td>
+    </tr>
+    <tr>
+      <td align="center">US-010</td>
+      <td align="center">Registro de Ingresos y Egresos</td>
+      <td align="center">TS-009</td>
+      <td align="center">Registro de Ingresos y Egresos</td>
+      <td align="center">Crear la pantalla dentro de la aplicación para que los usuarios registren sus ingresos y egresos mensuales.</td>
+      <td align="center">6</td>
+      <td align="center">Developer 3</td>
+      <td align="center">In-Process</td>
+    </tr>
+    <tr>
+      <td align="center">US12</td>
+      <td align="center">Visualización del Balance Mensual</td>
+      <td align="center">TS-010</td>
+      <td align="center">Visualización del Balance Mensual</td>
+      <td align="center">Implementar una sección que muestre el balance mensual con un resumen de ingresos, egresos y balance final.</td>
+      <td align="center">5</td>
+      <td align="center">Developer 3</td>
+      <td align="center">To-do</td>
+    </tr>
+    <tr>
+      <td align="center">US-011</td>
+      <td align="center">Balance Económico Actualizado</td>
+      <td align="center">TS-011</td>
+      <td align="center">Visualización del Balance Actualizado</td>
+      <td align="center">Crear una pantalla que muestre el balance económico actualizado de forma gráfica, incluyendo alertas si los gastos superan los ingresos.</td>
+      <td align="center">5</td>
+      <td align="center">Developer 2</td>
+      <td align="center">To-do</td>
+    </tr>
+    <tr>
+      <td align="center">US-013</td>
+      <td align="center">Alertas de Exceso de Egresos</td>
+      <td align="center">TS-012</td>
+      <td align="center">Configuración de Alertas de Exceso de Egresos</td>
+      <td align="center">Permitir que el usuario configure alertas para cuando sus egresos superen sus ingresos. Mostrará sugerencias de ajuste presupuestario al superar el umbral.</td>
+      <td align="center">4</td>
+      <td align="center">Developer 4</td>
+      <td align="center">To-do</td>
+    </tr>
+    <tr>
+      <td align="center">US-023</td>
+      <td align="center">Edición de Perfil</td>
+      <td align="center">TS-013</td>
+      <td align="center">Edición del Perfil de Usuario (API RESTful)</td>
+      <td align="center">Implementar endpoint PUT para editar el perfil del usuario, actualizando datos como nombre, dirección y teléfono. Devuelve status 200 o error 400.</td>
+      <td align="center">6</td>
+      <td align="center">Developer 1</td>
+      <td align="center">In-Process</td>
+    </tr>
+   <tr>
+    <td align="center">US00</td>
+    <td align="center">TS-00</td>
     <td align="center">WI09</td>
     <td align="center">Actualización del Informe</td>
-    <td align="center"></td>
+    <td align="center">Actualización del Informe</td>
     <td align="center">5</td>
     <td align="center">Todo el grupo</td>
     <td align="center">Done</td>
@@ -2151,56 +2132,56 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-project-report</td>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
     <td align="center">feature/main</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center">24/04/2024</td>
   </tr>
   <tr>
-    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-project-report</td>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
     <td align="center">feature/main</td>
-    <td align="center">-</td>
+    <td align="center"></td>
     <td align="center">Creación página de perfil</td>
     <td align="center">Creado el componente profile-owner & profile-tenants</td>
     <td align="center">22/04/2024</td>
   </tr>
   <tr>
-    <td align="center">Repositorio del frontend</td>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
     <td align="center">feature/main</td>
-    <td align="center">-</td>
+    <td align="center"></td>
     <td align="center">Inclusión de toolbars</td>
-    <td align="center">-</td>
+    <td align="center"></td>
     <td align="center">22/04/2024</td>
   </tr>
   <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
     <td align="center">Merge pull request</td>
     <td align="center">Merge pull request
 </td>
     <td align="center">20/04/2024</td>
   </tr>
   <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
     <td align="center">Merge remote-tracking branch</td>
-    <td align="center">-</td>
+    <td align="center"></td>
   <td align="center">22/04/2024</td>
   <tr>
-    <td align="center">-</td>
-    <td align="center">feature/main</td>
-    <td align="center">-</td>
-    <td align="center">Add Login component & Udate Login</td>
-    <td align="center">Add Login component & Udate Login</td>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
+    <td align="center">feature/iam</td>
+    <td align="center"></td>
+    <td align="center">Add Login component & signup</td>
+    <td align="center">Add Login component & signup</td>
   <td align="center">21/04/2024</td>
   <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
     <td align="center">Merge pull request #15</td>
     <td align="center">Merge pull request #15</td>
   <td align="center">20/04/2024</td>
@@ -2255,9 +2236,16 @@ Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente
 <div id='6.'><h5> 6. Conclusiones</h5></div>
 
 <div id='6.1'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
+- En conclusion, se han implementado mejoras significativas en la experiencia del usuario, como la creación de la página de perfil y la inclusión de componentes de toolbar. Estas adiciones no solo enriquecen la interfaz, sino que también facilitan la navegación y la interacción de los usuarios con la aplicación.
+
+- La adición del componente de inicio de sesión y su actualización refuerzan la seguridad y la usabilidad de la aplicación. Estas mejoras son cruciales para fomentar la confianza del usuario y garantizar una experiencia fluida desde el primer acceso a la aplicación.
+
+- La realización de múltiples merges de pull requests indica un fuerte enfoque en la colaboración y la integración continua entre los miembros del equipo.
 
 <div id='6.2'><h5> 6.2 Video About-the-Team</h5></div>
 
 **Bibliografia**
 
 **Anexos**  
+
+
