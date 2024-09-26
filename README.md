@@ -1935,18 +1935,6 @@ Enlace para acceder a la landing page: https://upecinos-ai-opensource.github.io/
 |Reyes Valenzuela, Renato German|Implementación de la sección features|
 |Comettant Rubiños, Jessica Elizabeth|Implementación de la sección header,about-us y homepage|
 
-<div id='5.4.'><h5> 5.4. Video About-the-Product.</h5></div>
-
-<div id='6.'><h5> 6. Conclusiones</h5></div>
-
-<div id='6.1'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
-
-<div id='6.2'><h5> 6.2 Video About-the-Team</h5></div>
-
-**Bibliografia**
-
-**Anexos**
-
 
 <div id='5.2.2'><h4> 5.2.2. Sprint 2</h4></div>
 - A continuacion se presenta el sprint 2 para la implementacion del frontend
