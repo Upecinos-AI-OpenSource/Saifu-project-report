@@ -2332,10 +2332,10 @@ El objetivo del Sprint es realizar correcciones en el front-end para facilitar l
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI06</td>
-    <td align="center">Creación de responses</td>
-    <td align="center">Crear estructuras de respuesta estandarizadas para formatear y devolver resultados coherentes.</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
     <td align="center">7</td>
-    <td align="center">Salazar, Jhan Clinton Antonio</td>
+    <td align="center">-</td>
     <td align="center">In process</td>
   </tr>
   <tr>
