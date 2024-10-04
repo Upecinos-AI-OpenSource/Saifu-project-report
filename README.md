@@ -715,54 +715,6 @@ ___
 
 ##### Análisis del segmento jóvenes de 18 a 24 años en inicios de independencia
 
-Entrevista:
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #3<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Viviana</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Caballero</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>32 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Lince</td>
-  </tr>
-  <tr>
-   <td>Screenshot</td>
-    <td><div align="center"><img src="assets/entrevista_jovenes.png" alt="Andres Rojas" width="700"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114657_upc_edu_pe/EdUtJn-OdNlIm5OA_JadsTkBEclGSraLWXgEfc3SuQ_9WQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aILG0x" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>00:00 - 05:48</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td style="text-align: justify;"> Viviana Caballero, residente en Lince, aborda su independencia financiera con un conocimiento intermedio, adquirido en parte gracias a la convivencia con sus padres. Al comenzar su vida independiente, su prioridad fue asegurar el alquiler, seguido de los gastos básicos como luz y agua, dejando los gastos variables como alimentación y movilidad para el final. Su principal meta fue evitar el uso de tarjetas de crédito y establecer un ahorro fijo para asegurar el pago del alquiler. Para gestionar sus finanzas, utiliza un Excel para planificar y controlar sus gastos mensuales. Si surgía un problema, tenía que buscar soluciones adicionales. Los meses más ajustados para ella fueron mayo y junio, posiblemente debido a gastos. Considera valioso obtener un historial financiero de meses anteriores para mejorar su planificación en una aplicación. Ella recomienda tener un plan de ahorro básico antes de mudarse y estar preparado para imprevistos.
-</td>
-  </tr>
-</tbody>
-</table>
-
-
-
 <div id='2.3.'><h3> 2.3. Needfinding.</h3></div>
 
 <div id='2.3.1.'><h4> 2.3.1. User Personas.</h4></div>
@@ -2244,3 +2196,260 @@ Repositorio del Informe:https://github.com/Upecinos-AI-OpenSource/Saifu-project-
 
 Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRAMES%7CMOCKUPS----SAIFU?node-id=266-8838&t=CAUoERl93g5WrZ3d-1  
 
+
+<div id='5.2.3'><h4> 5.2.3. Sprint 3</h4></div>
+En el Sprint 3, que se llevó a cabo el 11 de octubre de 2024 a las 10:00 PM en una reunión virtual por Meet, se desplegó la Landing Page y se comenzó la planificación del front-end de la aplicación. Durante la retrospectiva, se propuso agregar la opción de cambiar de idioma en la Landing Page y realizar ajustes menores en el front-end. Además, se inició el desarrollo del back-end en Java, priorizando los elementos centrales del producto.
+
+El objetivo del Sprint es realizar correcciones en el front-end para facilitar la implementación del back-end. También se iniciará el desarrollo del back-end y se asegurará que los endpoints funcionen y sean visibles en Swagger. La velocidad del Sprint se estima en una semana, con un total de 20 puntos de historia.
+
+<div id='5.2.3.1.'><h5>5.2.3.1.Sprint Planning 3</h5></div>
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>3</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2024-10-11</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">10:00 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por Meet</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Reyes Valenzuela, Renato German
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Comettant Rubiños, Jessica Elizabeth<br>Reyes Valenzuela, Renato German<br>Cisneros Salas,Luis Angel<br>Góngora Sánchez,Marco Antonio<br>Rojas Ccama, Carlos Andres</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 - 2 – 1 Review Summary</td>
+    <td align="center">Se desplegó la Landing Page y se empezó la planificación del Front-End de la aplicación.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 -2 – 1 Retrospective Summary</td>
+    <td align="center">Se propuso incorporar la opción de cambiar de idioma en la Landing Page y realizar ajustes menores en el front-end. Además, se inició el desarrollo del back-end de la aplicación en Java, priorizando los aspectos centrales del producto</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 Goal</td>
+    <td align="center">Se debe realizar correcciones para el front-end para facilitar la implementación del back-end. Además, se debe iniciar el desarrollo del back-end y asegurar que los endpoints correspondientes funcionen y sean visibles en Swagger.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">1 semana</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">20</td>
+  </tr>
+</table><br>
+
+<div id='5.2.3.2.'><h5>5.2.3.2.Sprint Backlog 3</h5></div>
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">TS01</td>
+    <td align="center">Añadir un perfil con el uso del RESTful API</td>
+    <td align="center">WI01</td>
+    <td align="center">Crear endpoint para la creacion de un perfil</td>
+    <td align="center">Implementación de un método POST para el ingreso de datos</td>
+    <td align="center">5</td>
+    <td align="center">-</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS02</td>
+    <td align="center">Visualizar un perfil con el uso del RESTful API</td>
+    <td align="center">WI02</td>
+    <td align="center">Crear endpoint para la vizualizacion de un perfil</td>
+    <td align="center">Implementación de un método GET para la obtencion de datos</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS03</td>
+    <td align="center">Añadir un ... con el uso del RESTful API</td>
+    <td align="center">WI03</td>
+    <td align="center">Crear endpoint para la creacion de un ....</td>
+    <td align="center">Implementación de un método POST para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS04</td>
+    <td align="center">Editar un ... con el uso del RESTful API</td>
+    <td align="center">WI04</td>
+    <td align="center">Crear endpoint para la edicion de un ...</td>
+    <td align="center">Implementación de un método PUT para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS05</td>
+    <td align="center">Eliminar un ... con el uso del RESTful API</td>
+    <td align="center">WI05</td>
+    <td align="center">Crear endpoint para la eliminacion de un ... </td>
+    <td align="center">Implementación de un método DELETE para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI06</td>
+    <td align="center">Creación de responses</td>
+    <td align="center">Crear estructuras de respuesta estandarizadas para formatear y devolver resultados coherentes.</td>
+    <td align="center">7</td>
+    <td align="center">Salazar, Jhan Clinton Antonio</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">WI07</td>
+    <td align="center">Configuración de la base de datos</td>
+    <td align="center">Establecer la configuración y conexión con la base de datos, incluyendo credenciales y opciones.</td>
+    <td align="center">4</td>
+    <td align="center">Rojas Ccama, Carlos Andres</td>
+    <td align="center">In process</td>
+  </tr>
+</table>
+     
+<div id='5.2.3.3.'><h5>5.2.3.3.Development Evidence for Sprint Review</h5></div>
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">Add Backend</td>
+    <td align="center">Add Backend</td>
+  <td align="center">27/10/2024</td>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">28/10/2024</td>
+  </tr>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">30/10/2024</td>
+  </tr>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">feature/main</td>
+    <td align="center">8e3d170c49f229132cf1e73436a724e9255a6721</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">31/10/2024</td>
+</td>
+  </tr>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">05/10/2024</td>
+  </tr>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  <td align="center">05/10/2024</td>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  <td align="center">07/10/2024</td>
+</table>
+
+<div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.5.'><h5>5.2.3.5.Execution Evidence for Sprint Review</h5></div>
+
+
+<div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review</h5></div>
+
+
+<div id='5.2.3.8.'><h5>5.2.3.8.Team Collaboration Insights during Sprint</h5></div>
+
+<div id='5.3'><h5>5.3. Validation Interviews</h5></div>
+
+<div id='5.3.1'><h5>5.3.1. Diseño de Entrevistas</h5></div>
+
+<div id='5.3.1'><h5>5.3.2. Registro de Entrevistas</h5></div>
+
+<div id='5.3.2'><h5>6.1 Conclusiones y recomendaciones.</h5></div>
+
+<div id='5.3.3'><h5>5.3.3. Evaluaciones según heurísticas</h5></div>
+
+<div id='5.4'><h5>5.4. Video About-the-Product</h5></div>
+
+**Conclusiones**
+
+**Bibliografia**
+
+**Anexos**  
+
+Repositorio del Frontend: https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd
+
+Repositorio de la Landing Page:https://github.com/Upecinos-AI-OpenSource/Saifu-LandingPage
+
+Repositorio del Informe:https://github.com/Upecinos-AI-OpenSource/Saifu-project-report 
+
+Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRAMES%7CMOCKUPS----SAIFU?node-id=266-8838&t=CAUoERl93g5WrZ3d-1  
