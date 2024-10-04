@@ -715,53 +715,6 @@ ___
 
 ##### Análisis del segmento jóvenes de 18 a 24 años en inicios de independencia
 
-Entrevista:
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #3<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Viviana</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Caballero</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>32 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Lince</td>
-  </tr>
-  <tr>
-   <td>Screenshot</td>
-    <td><div align="center"><img src="assets/entrevista_jovenes.png" alt="Andres Rojas" width="700"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114657_upc_edu_pe/EdUtJn-OdNlIm5OA_JadsTkBEclGSraLWXgEfc3SuQ_9WQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aILG0x" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>00:00 - 05:48</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td style="text-align: justify;"> Viviana Caballero, residente en Lince, aborda su independencia financiera con un conocimiento intermedio, adquirido en parte gracias a la convivencia con sus padres. Al comenzar su vida independiente, su prioridad fue asegurar el alquiler, seguido de los gastos básicos como luz y agua, dejando los gastos variables como alimentación y movilidad para el final. Su principal meta fue evitar el uso de tarjetas de crédito y establecer un ahorro fijo para asegurar el pago del alquiler. Para gestionar sus finanzas, utiliza un Excel para planificar y controlar sus gastos mensuales. Si surgía un problema, tenía que buscar soluciones adicionales. Los meses más ajustados para ella fueron mayo y junio, posiblemente debido a gastos. Considera valioso obtener un historial financiero de meses anteriores para mejorar su planificación en una aplicación. Ella recomienda tener un plan de ahorro básico antes de mudarse y estar preparado para imprevistos.
-</td>
-  </tr>
-</tbody>
-</table>
-
-
 
 <div id='2.3.'><h3> 2.3. Needfinding.</h3></div>
 
