@@ -2448,36 +2448,11 @@ Para esta entrega se ha logrado implementar y desplegar la segunda version del L
 En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente: https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git
 Se adjunta el enlace del back end desplegado: 
 
-<table>
-  <tr>
-    <td align="center"><strong>Entity</strong></td>
-    <td align="center"><strong>EndPoint URL</strong></td>
-    <td align="center"><strong>Swagger</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Person</td>
-    <td align="center">/api/v1/Person</td>
-    <td align="center">![user_person](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/08b11fabfb0898f80d914458283e224007fcf399/assets/person.png)</td>
-  </tr>
-  <tr>
-    <td align="center">UserConsult</td>
-    <td align="center">/api/v1/user_consults</td>
-    <td align="center">![user_conults](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/08b11fabfb0898f80d914458283e224007fcf399/assets/userconsult.png)</td>
-  </tr>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-</td>
-  </tr>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-  </tr>
-</table>
+||||
+| :- | :- | :- |
+|Entity|EndPoint URL|Swagger|
+|Person|/api/v1/Person|!![foto_person_](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e8696d2a627b9d146cacb479c03450aa2ab72911/assets/person.png)|
+|User Consult|//api/v1/user_consults|![user_conults](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/08b11fabfb0898f80d914458283e224007fcf399/assets/userconsult.png)|
 
 <div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review</h5></div>
 
