@@ -2256,7 +2256,6 @@ El objetivo del Sprint es realizar correcciones en el front-end para facilitar l
     <td align="center">20</td>
   </tr>
 </table><br>
-
 <div id='5.2.3.2.'><h5>5.2.3.2.Sprint Backlog 3</h5></div>
 
 <table>
@@ -2329,23 +2328,53 @@ El objetivo del Sprint es realizar correcciones en el front-end para facilitar l
     <td align="center">In process</td>
   </tr>
   <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI06</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">7</td>
-    <td align="center">-</td>
+    <td align="center">TS06</td>
+    <td align="center">Añadir person con el uso del RESTful API</td>
+    <td align="center">WI01</td>
+    <td align="center">Crear endpoint para la creacion de un person</td>
+    <td align="center">Implementación de un método POST para el ingreso de datos</td>
+    <td align="center">5</td>
+    <td align="center">Carlos Rojas</td>
     <td align="center">In process</td>
   </tr>
   <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">WI07</td>
-    <td align="center">Configuración de la base de datos</td>
-    <td align="center">Establecer la configuración y conexión con la base de datos, incluyendo credenciales y opciones.</td>
+    <td align="center">TS07</td>
+    <td align="center">Visualizar el endpoint person con el uso del RESTful API</td>
+    <td align="center">WI02</td>
+    <td align="center">Crear endpoint para la vizualizacion de un persona</td>
+    <td align="center">Implementación de un método GET para la obtencion de datos</td>
     <td align="center">4</td>
-    <td align="center">Rojas Ccama, Carlos Andres</td>
+    <td align="center">Carlos Rojas</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS05</td>
+    <td align="center">Eliminar una persona con el uso del RESTful API</td>
+    <td align="center">WI05</td>
+    <td align="center">Crear endpoint para la eliminacion de un persona </td>
+    <td align="center">Implementación de un método DELETE para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">Carlos Rojas</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS05</td>
+    <td align="center">Eliminar una persona con el uso del RESTful API</td>
+    <td align="center">WI05</td>
+    <td align="center">Crear endpoint para la eliminacion de un persona </td>
+    <td align="center">Implementación de un método DELETE para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">Carlos Rojas</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS02</td>
+    <td align="center">Eliminacion de una persona con el uso del RESTful API con el id</td>
+    <td align="center">WI02</td>
+    <td align="center">Eliminar endpoint para la vizualizacion de una persona</td>
+    <td align="center">Implementación de un método GET para la obtencion de datos</td>
+    <td align="center">4</td>
+    <td align="center">Carlos Rojas</td>
     <td align="center">In process</td>
   </tr>
 </table>
@@ -2361,22 +2390,22 @@ El objetivo del Sprint es realizar correcciones en el front-end para facilitar l
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center">-</td>
-    <td align="center">feature/main</td>
-    <td align="center">-</td>
-    <td align="center">Add Backend</td>
-    <td align="center">Add Backend</td>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
+    <td align="center">feature/userContext</td>
+    <td align="center">8e3d170c49f229132cf1e73436a724e9255a6721</td>
+    <td align="center">feat(userContext): add bounded userContext</td>
+    <td align="center">add bounded userContext</td>
   <td align="center">27/10/2024</td>
   <tr>
-    <td align="center">-</td>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
     <td align="center">feature/main</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">28/10/2024</td>
+    <td align="center">2/10/2024</td>
   </tr>
   <tr>
-    <td align="center">-</td>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
     <td align="center">feature/main</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -2384,44 +2413,71 @@ El objetivo del Sprint es realizar correcciones en el front-end para facilitar l
     <td align="center">30/10/2024</td>
   </tr>
   <tr>
-    <td align="center">-</td>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
     <td align="center">feature/main</td>
-    <td align="center">8e3d170c49f229132cf1e73436a724e9255a6721</td>
+    <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">31/10/2024</td>
 </td>
   </tr>
   <tr>
-    <td align="center">-</td>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
     <td align="center">feature/main</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">05/10/2024</td>
   </tr>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">feature/main</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-  <td align="center">05/10/2024</td>
-  <tr>
-    <td align="center">-</td>
-    <td align="center">feature/main</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-  <td align="center">07/10/2024</td>
+
 </table>
 
 <div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review</h5></div>
+Para este sprint se contempló la realización funcionalidades referente al testing de los endpoints de nuestra API, por lo que se mostrarra todos los endpoints
 
+Sin embargo, la comprobación de los endpoints se realizó mediante la herramienta de Swagger:
 <div id='5.2.3.5.'><h5>5.2.3.5.Execution Evidence for Sprint Review</h5></div>
+Para esta entrega se ha logrado implementar y desplegar la segunda version del Landing Page, se implemento el metodo el cambio de ingles a español y primera version del backend.
 
+- Landing Page
+
+
+- Backend
 
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review</h5></div>
+En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente: https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git
+Se adjunta el enlace del back end desplegado: 
+
+<table>
+  <tr>
+    <td align="center"><strong>Entity</strong></td>
+    <td align="center"><strong>EndPoint URL</strong></td>
+    <td align="center"><strong>Swagger</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Person</td>
+    <td align="center">/api/v1/Person</td>
+    <td align="center">![user_person](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/08b11fabfb0898f80d914458283e224007fcf399/assets/person.png)</td>
+  </tr>
+  <tr>
+    <td align="center">UserConsult</td>
+    <td align="center">/api/v1/user_consults</td>
+    <td align="center">![user_conults](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/08b11fabfb0898f80d914458283e224007fcf399/assets/userconsult.png)</td>
+  </tr>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+</td>
+  </tr>
+  <tr>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+</table>
 
 <div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review</h5></div>
 
