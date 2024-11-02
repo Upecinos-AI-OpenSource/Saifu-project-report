@@ -1340,6 +1340,7 @@ Registro de Transacciones:
 
 <div id='4.5'><h4> 4.5. Web Applications Prototyping.</h4></div>
 
+
 <div id='4.6'><h4> 4.6. Domain-Driven Software Architecture</h4></div>
 - Es un enfoque para el diseño de software que se centra en comprender y modelar el núcleo del dominio de una aplicación. 
 
@@ -1354,7 +1355,9 @@ Registro de Transacciones:
 
 <div id='4.6.3'><h4> 4.6.3. Software Architecture Components Diagrams.</h4></div>
 
-![foto_context](_https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/a628c666b9c080ea8a5c1689e19cb4e223f84b57/assets/SaifuComponent.png)
+
+![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/a628c666b9c080ea8a5c1689e19cb4e223f84b57/assets/SaifuComponent.png)
+
 
 <div id='4.7'><h4> 4.7 Software Object-Oriented Design.</h4></div>
 
@@ -1887,6 +1890,368 @@ Enlace para acceder a la landing page: https://upecinos-ai-opensource.github.io/
 |Reyes Valenzuela, Renato German|Implementación de la sección features|
 |Comettant Rubiños, Jessica Elizabeth|Implementación de la sección header,about-us y homepage|
 
+<div id='5.2.2'><h4> 5.2.2. Sprint 2</h4></div>
+- A continuacion se presenta el sprint 2 para la implementacion del frontend
+
+<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
+Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>2</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2024-04-20</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">11:30 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por meet</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Renato German Reyes Valenzuela,</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Comettant Rubiños, Jessica Elizabeth<br>Reyes Valenzuela, Renato German<br>Cisneros Salas,Luis Angel<br>Góngora Sánchez,Marco Antonio<br>Rojas Ccama, Carlos Andres</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Review Summary</td>
+    <td align="center">Se desplegó la Landing Page y se empezó la planificación del Front-End de la aplicación.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Retrospective Summary</td>
+    <td align="center">Se implemento la Landing Page y se Inició el proceso de la creación del Front-End de Saifu. Priorizamos la creación de los componentes que definen a la aplicación</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 Goal</td>
+    <td align="center">Se debe completar las vistas del Frontend en Webstorm y completar el Sprint 2</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">15 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">15 días</td>
+  </tr>
+</table>
+
+<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
+
+  <table>
+  <tr>
+      <td align="center"><strong>Sprint</strong></td>
+      <td colspan="7" align="center"><strong>2</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>User Story</strong></td>
+      <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>ID</strong></td>
+      <td align="center"><strong>Title</strong></td>
+      <td align="center"><strong>ID</strong></td>
+      <td align="center"><strong>Title</strong></td>
+      <td align="center"><strong>Description</strong></td>
+      <td align="center"><strong>Estimation (Hours)</strong></td>
+      <td align="center"><strong>Assigned To</strong></td>
+      <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+    </tr>
+    <tr>
+      <td align="center">US-001</td>
+      <td align="center">Login User</td>
+      <td align="center">WI01</td>
+      <td align="center">Login (Jefes de hogar del nivel económico D y E) y Jóvenes en inicios de independencia</td>
+      <td align="center">Crear un login para los Jefes de hogar del nivel económico D y E y Jóvenes en inicios de independencia</td>
+      <td align="center">6</td>
+      <td align="center">Carlos Andres Rojas Ccama</td>
+      <td align="center">Done</td>
+    </tr>
+    <tr>
+      <td align="center">US-002</td>
+      <td align="center">RegisterUser</td>
+      <td align="center">WI02</td>
+      <td align="center">Signup (Jefes de hogar del nivel económico D y E)</td>
+      <td align="center">Crear un registro para los Jefes de hogar del nivel económico D y E y Jóvenes en inicios de independencia</td>
+      <td align="center">4</td>
+      <td align="center">Carlos Andres Rojas Ccama</td>
+      <td align="center">Done</td>
+    </tr>
+    <tr>
+      <td align="center">US-010</td>
+      <td align="center">Gestion de Ingresos</td>
+      <td align="center">TS-007</td>
+      <td align="center">Mostrar Ejemplos de Gestión de Ingresos</td>
+      <td align="center">Agregar ejemplos prácticos de cómo la aplicación categoriza los ingresos y gastos del usuario para facilitar la gestión financiera.</td>
+      <td align="center">4</td>
+      <td align="center">Developer 4</td>
+      <td align="center">In-Process</td>
+    </tr>
+    <tr>
+      <td align="center">US-010</td>
+      <td align="center">Registro de Ingresos y Egresos</td>
+      <td align="center">TS-009</td>
+      <td align="center">Registro de Ingresos y Egresos</td>
+      <td align="center">Crear la pantalla dentro de la aplicación para que los usuarios registren sus ingresos y egresos mensuales.</td>
+      <td align="center">6</td>
+      <td align="center">Developer 3</td>
+      <td align="center">In-Process</td>
+    </tr>
+    <tr>
+      <td align="center">US12</td>
+      <td align="center">Visualización del Balance Mensual</td>
+      <td align="center">TS-010</td>
+      <td align="center">Visualización del Balance Mensual</td>
+      <td align="center">Implementar una sección que muestre el balance mensual con un resumen de ingresos, egresos y balance final.</td>
+      <td align="center">5</td>
+      <td align="center">Developer 3</td>
+      <td align="center">To-do</td>
+    </tr>
+    <tr>
+      <td align="center">US-011</td>
+      <td align="center">Balance Económico Actualizado</td>
+      <td align="center">TS-011</td>
+      <td align="center">Visualización del Balance Actualizado</td>
+      <td align="center">Crear una pantalla que muestre el balance económico actualizado de forma gráfica, incluyendo alertas si los gastos superan los ingresos.</td>
+      <td align="center">5</td>
+      <td align="center">Developer 2</td>
+      <td align="center">To-do</td>
+    </tr>
+    <tr>
+      <td align="center">US-013</td>
+      <td align="center">Alertas de Exceso de Egresos</td>
+      <td align="center">TS-012</td>
+      <td align="center">Configuración de Alertas de Exceso de Egresos</td>
+      <td align="center">Permitir que el usuario configure alertas para cuando sus egresos superen sus ingresos. Mostrará sugerencias de ajuste presupuestario al superar el umbral.</td>
+      <td align="center">4</td>
+      <td align="center">Developer 4</td>
+      <td align="center">To-do</td>
+    </tr>
+    <tr>
+      <td align="center">US-023</td>
+      <td align="center">Edición de Perfil</td>
+      <td align="center">TS-013</td>
+      <td align="center">Edición del Perfil de Usuario (API RESTful)</td>
+      <td align="center">Implementar endpoint PUT para editar el perfil del usuario, actualizando datos como nombre, dirección y teléfono. Devuelve status 200 o error 400.</td>
+      <td align="center">6</td>
+      <td align="center">Developer 1</td>
+      <td align="center">In-Process</td>
+    </tr>
+   <tr>
+    <td align="center">US00</td>
+    <td align="center">TS-00</td>
+    <td align="center">WI09</td>
+    <td align="center">Actualización del Informe</td>
+    <td align="center">Actualización del Informe</td>
+    <td align="center">5</td>
+    <td align="center">Todo el grupo</td>
+    <td align="center">Done</td>
+  </tr>
+</table>
+
+<div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">24/04/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
+    <td align="center">Creación página de perfil</td>
+    <td align="center">Creado el componente profile-owner & profile-tenants</td>
+    <td align="center">22/04/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
+    <td align="center">Inclusión de toolbars</td>
+    <td align="center"></td>
+    <td align="center">22/04/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
+    <td align="center">Merge pull request</td>
+    <td align="center">Merge pull request
+</td>
+    <td align="center">20/04/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
+    <td align="center">Merge remote-tracking branch</td>
+    <td align="center"></td>
+  <td align="center">22/04/2024</td>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
+    <td align="center">feature/iam</td>
+    <td align="center"></td>
+    <td align="center">Add Login component & signup</td>
+    <td align="center">Add Login component & signup</td>
+  <td align="center">21/04/2024</td>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
+    <td align="center">Merge pull request #15</td>
+    <td align="center">Merge pull request #15</td>
+  <td align="center">20/04/2024</td>
+</table>
+
+<div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review.</h5></div>
+En esta parte del trabajo aún no se desarrolla el backend, debido a eso no se pueden realizar Unit Test. Además, no se han agreagado nuevas user stories a las que realizarles Acepptan's Test's.
+
+<div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review.</h5></div>
+- Ejecucion del frontend
+
+<div id='5.2.2.6.'><h5> 5.2.2.6. Services Documentation Evidence for Sprint Review.</h5></div>
+
+Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
+
+*Webstorm (IDE DE DESARROLLO):* Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend.
+
+*Angular (Frameworks):* Utilizamos angular como Framework de trabajo.
+
+*JavaScript:* Typescript se ha implementado para agregar interactividad y logica a los componentes de la plataforma.
+
+*GitHub:* Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
+
+<div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review.</h5></div>
+Para estra entrega se logró desplegar el front end de la aplicación en firebase. Para lograrlo este fue el proceso:
+
+Primero creamos un proyecto en firebase y le asignamos un nombre.
+
+
+Una vez creado el proyecto nos dirigimos al apartado de hosting.
+
+
+Seguimos las instrucciones de firebase para desplegar la aplicación.
+
+
+Ahora nos autenticamos con nuestra cuenta de google e inicializamos el proyecto
+
+
+Finalmente lo implementamos con el comando "firebase deploy"
+
+
+Esta es la prueba en la consola del proyecto:
+
+
+Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente enlace: 
+
+<div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint.</h5></di
+
+<div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
+
+##
+## <a name="_bsbm2lqnd4ue"></a><a name="_fjsfkllc63ok"></a>**SITE o APP A EVALUAR:**
+## <a name="_k1u2fyw1wr8p"></a>*GreenHouse* 
+
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web Saifu.
+
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+
+## <a name="_8g2881ripgs6"></a>**TAREAS A EVALUAR:**
+1. Desktop landing page
+   * Información y descripción de la aplicación y sus funcionalidades
+   * Visualización de planes de pago y precio de la aplicación
+   * Header y footer apropiado para la landing page
+   * Interacción del landing page con la aplicación
+1. <a name="_hlk149241366"></a>Web Application
+   * Inicio de sesión con usuario existente
+   * Indicadores claros de progreso o estado del proceso 
+   * Iconografía comprensible y consistente con el mundo real
+   * Mensajes de error que reflejen el registro de datos incorrectos
+   * Acciones de retroceso dentro de la aplicación
+   * Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
+   * Evaluar existencia de patrones de diseño o navegación 
+   * Elementos de la interfaz de usuario consistentes
+   * Pestañas de navegación dentro de la aplicación
+   * Botones interactivos y de uso intuitivo
+   * Búsqueda de datos financieros con registro previo
+   * Navegación y orientación dentro de la aplicación
+   * Apertura y visualización de ingresos registrados
+   * Visualización de perfil de usuario
+   * Mensajes que orienten al usuario sobre el estado del sistema
+   * Cambio de idioma de la aplicación
+   * Estética general de la interfaz atractiva y agradable visualmente.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Desktop landing page
+   * Redes sociales asociadas al startup
+   * Política de privacidad y condiciones de uso
+1. Web Application
+   * Registro de nuevo usuario
+   * Modificación y eliminación de datos registrados
+   * Notificaciones de la aplicación respecto a los cambios efectuados por cualquier empleado de la empresa
+   * Documentación y exportación de información registrada
+   * Flexibilidad de uso a través de atajos por teclado 
+   * Acceso a recursos de ayuda dentro de la aplicación
+   * Política de privacidad y condiciones de uso
+
+## <a name="_r3fgs33jfsg1"></a>**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Descripción|
+| :-: | :-: |
+|1|Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+
+<a name="_7ymimqm5hxs5"></a>**TABLA RESUMEN:**
+
+**Desktop landing page**
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/Principio violada(o)**|
+| :-: | :-: | :-: | :-: |
+|1|La sección de “About the Team”, aparte de no integrar información pertinente, está ubicada por encima del producto.|2|Usability: Coincidencia entre el sistema y el mundo real|
+|2|Al seleccionar el plan de suscripción, el usuario es redireccionado al dashboard de la aplicación y no a la pasarela de pago.|4|Usability: Control y libertad del usuario|
+|3|Al seleccionar los botones interactivos “Start” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión|3|Usability: Coincidencia entre el sistema y el mundo real|
+|4|La iconografía empleada en la sección “Benefits” resalta más que el contenido informativo.|2|Usability: Diseño estético y minimalista|
+|5|La información relacionada con el start up y utilidad del producto es inexacta e insuficiente|3|Inclusive Design: Diseño Centrado en el Usuario|
+|6|Resulta imposible encontrar información precisa respecto a las funcionalidades ofrecidas por cada plan de suscripción|3|Information Arquitecture: Jerarquía de Información|
+|7|El formulario de Contacto no muestra funcionalidad|4|Usability: Visibilidad del estado del sistema|
+|8|Tamaño inapropiado de botones “Start” del landing|2|Usability: Consistencia y estándares|
+|9|Espaciado inadecuado entre las secciones de la barra de navegación|1|Information Arquitecture: Jerarquía de información|
+|10|La sección que integra a la misión, visión y valores de la aplicación muestran un tamaño impreciso.|2|Information Arquitecture: Organaización y Estructura|
+|11|La iconografía e imágenes correspondientes a la sección “About the team” y “Benefits” sobresalen del margen de las tarjetas|2|Usability: Estética y diseño minimalista|
+|12|La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail.|1|Usability: Visibilidad del estado del sistema|
+|13|El título “About the team” no muestra internacionalización (cambio de idioma al inglés)|1|Usability: Flexibilidad y eficiencia de uso|
+=======
 
 <div id='5.2.2'><h4> 5.2.2. Sprint 2</h4></div>
 - A continuacion se presenta el sprint 2 para la implementacion del frontend
@@ -2160,6 +2525,487 @@ Seguimos las instrucciones de firebase para desplegar la aplicación.
 Ahora nos autenticamos con nuestra cuenta de google e inicializamos el proyecto
 
 
+<br>
+
+
+**PROBLEMA #01:** La sección de “About the Team”, aparte de no integrar información pertinente, está ubicada por encima del producto:
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability - Coincidencia entre el sistema y el mundo real
+
+**Descripción del problema:** La ubicación de la sección "About the Team" por encima del producto en un landing page puede ser problemática desde una perspectiva de arquitectura de la información y usabilidad. Por lo general, en un landing page, se espera que la información más relevante y crucial para los usuarios, como la descripción del producto o servicio, esté ubicada en la parte superior de la página. La sección "About the Team" generalmente no es la información más relevante para los visitantes que llegan a la página en busca de información sobre el producto o servicio.
+
+![WhatsApp Image 2024-10-31 at 9 20 56 AM](https://github.com/user-attachments/assets/a696da58-cff6-464b-80b9-a334be29c1a2)
+
+**Recomendación:** Para mejorar la usabilidad y la eficacia de la página, se recomienda reorganizar la página de manera que la información principal del producto esté en la parte superior y sea lo primero que los visitantes perciban. Luego, la información sobre el equipo podría estar ubicada más abajo en la página o en una sección separada. 
+
+<br>
+
+**Problema #02:** Al seleccionar el plan de suscripción, el usuario es redireccionado al dashboard de la aplicación y no a la pasarela de pago.
+
+**Escala de Severidad:** 04
+
+**Heurística relacionada:** Usability - Control y libertad del usuario
+
+**Descripción del problema:** Cuando un usuario decide seleccionar un plan de suscripción, es de suma importancia proporcionarle un control claro y libertad para completar el proceso de suscripción. Redirigir al usuario al dashboard de la aplicación en lugar de llevarlo directamente a la pasarela de pago puede generar confusión y una sensación de falta de control para el usuario. Esto podría hacer que los usuarios se pregunten si su selección se ha registrado correctamente o si han cometido un error.
+
+![image](https://github.com/user-attachments/assets/eaeda8ff-b890-48f5-8eab-2c1308f3aa8b)
+
+**Recomendación:** Para mejorar la experiencia del usuario y cumplir con la heurística de Control y libertad del usuario, se recomienda redirigir de manera clara y visible al usuario a la pasarela de pago una vez que haya seleccionado un plan de suscripción. Además, se puede proporcionar un proceso de confirmación visual o un mensaje de confirmación para asegurarse de que el usuario esté al tanto de que su selección de plan de suscripción se ha registrado correctamente.
+
+<br>
+
+**Problema #03:** Al seleccionar los botones interactivos “Start” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability - Coincidencia entre el sistema y el mundo real
+
+**Descripción del problema:** Cuando un usuario hace clic en un botón con etiqueta "Start", se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el inicio de un proceso, como el registro o el inicio de sesión. Si al hacer clic en "Start" no se direcciona al usuario a un formulario de registro o inicio de sesión, esto puede ser confuso y no coincide con la expectativa del usuario.
+
+![image (1)](https://github.com/user-attachments/assets/658eba60-6843-4d86-9451-10462059a8ce)
+
+**Recomendación:** Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que al seleccionar los botones "Start", el usuario sea redirigido de manera clara y visible al formulario de registro o inicio de sesión correspondiente. La etiqueta "Start" debe ser descriptiva y coincidir con la acción que el usuario está a punto de emprender. Este ajuste en la interacción del usuario mejorará la coherencia y la usabilidad del landing page al alinear las expectativas del usuario con las acciones reales que se pueden llevar a cabo al hacer clic en los botones "Start".
+
+<br>
+
+**PROBLEMA #04:** La iconografía empleada en la sección “Benefits” resalta más que el contenido informativo.
+
+**Escala de severidad:** 02
+
+**Principios violados:**
+
+**Heurística**: Usabilidad-Diseño estético y minimalista
+
+La iconografía y el contenido deberían equilibrarse de manera que el diseño sea atractivo y agradable visualmente sin que sugiera predominancia por parte de los iconos. Ello evita la distracción del contenido informativo.
+
+**Information Arquitecture:** Jerarquía de la información
+
+La información clave, en este caso, los beneficios del producto o servicio, debería destacarse más que la iconografía. La jerarquía de la información debe ser clara para que los usuarios puedan identificar fácilmente los beneficios.
+
+**Descripción del problema:** 
+
+El problema identificado es que en la sección "Benefits" de la página web, la iconografía utilizada destaca más que el contenido informativo. En otras palabras, la iconografía (como imágenes o gráficos) llama más la atención y ocupa un lugar más prominente que la información descriptiva sobre los beneficios del producto o servicio que se está presentando.
+
+Este problema puede resultar en una falta de equilibrio en la presentación de información en la página, lo que podría hacer que los visitantes tengan dificultades para comprender los beneficios del producto o servicio. La información escrita que detalla los beneficios es fundamental para que los usuarios tomen decisiones informadas, y si se ve opacada por la iconografía, la comunicación efectiva de estos beneficios se ve comprometida.
+
+![WhatsApp Image 2024-10-31 at 9 19 20 AM](https://github.com/user-attachments/assets/17a7cdb1-5033-4610-b01a-d215866cccb6)
+
+**Recomendación:**
+
+Para mejorar la página, se recomienda ajustar el equilibrio entre la iconografía y el contenido informativo en la sección "Benefits" de manera que la información relevante sea la que más destaque:
+
+- Utilizar tamaños de fuente más grandes o colores llamativos.
+- Utiliza la iconografía de manera complementaria para ilustrar visualmente los beneficios, pero no permitas que supere o eclipse la información escrita.
+- Realiza pruebas de usuario para obtener retroalimentación directa sobre la percepción de la sección "Benefits".
+
+<br>
+
+**Problema #05:** La información relacionada con el start up y utilidad del producto es inexacta e insuficiente
+
+**Escala de severidad:** 03
+
+**Principio Violado:** Inclusive Design: Diseño Centrado en el Usuario
+
+El diseño centrado en el usuario implica satisfacer las necesidades y expectativas del usuario. La información inexacta e insuficiente no cumple con este principio, ya que no aborda las necesidades del usuario de comprender y utilizar el producto de manera efectiva.
+
+**Descripción del problema:** 
+
+El problema identificado radica en la inexactitud y la insuficiencia de la información relacionada con el inicio y la utilidad del producto, lo que puede llevar a malentendidos, desinformación y dificultades en la comprensión por parte de los usuarios, impactando negativamente en su experiencia y en la percepción del producto o servicio.
+
+
+**Recomendación:**
+
+Para resolver este problema, se recomienda lo siguiente:
+
+- Verificar y corregir cualquier inexactitud en la información relacionada con el inicio y la utilidad del producto. 
+- Proporciona información más detallada y completa sobre el inicio y la utilidad del producto. 
+
+<br>
+
+**Problema #06:** Resulta imposible encontrar información precisa respecto a las funcionalidades ofrecidas por cada plan de la suscripción
+
+**Escala de severidad:** 03
+
+**Principio violado:** Information Arquitecture: Jerarquía de información: 
+
+La falta de información precisa sobre las funcionalidades de los planes de suscripción sugiere una deficiente jerarquía de información. Es probable que la información relevante no esté organizada de manera efectiva, lo que dificulta su acceso por parte de los usuarios.
+
+**Descripción del problema:**
+
+El problema identificado radica en la imposibilidad de encontrar información precisa sobre las funcionalidades ofrecidas por cada plan de suscripción en el sitio web. Esto se debe a una deficiente organización y presentación de la información, lo que dificulta que los usuarios accedan de manera efectiva a los detalles de cada plan y tomen decisiones informadas. La falta de claridad en la arquitectura de la información obstaculiza la navegación de los usuarios y puede resultar en una experiencia frustrante y confusa al intentar seleccionar el plan de suscripción adecuado.
+
+
+**Recomendación:**
+
+- Estructurar la información sobre los planes de suscripción de manera lógica y organizada. Utilizar una jerarquía clara para destacar las funcionalidades de cada plan 
+- Utilizar tablas comparativas u otros elementos visuales para presentar las funcionalidades de manera más clara y efectiva.
+- Asegurarse de que las etiquetas y la navegación relacionadas con los planes de suscripción sean consistentes.
+
+<br>
+
+**Problema #07:** El formulario de Contacto no muestra funcionalidad
+
+**Escala de severidad:** 04
+
+**Principio violado:** Usability- Visibilidad del estado del sistema:
+
+La falta de funcionalidad en el formulario de contacto va en contra de esta heurística. Los usuarios esperan que los elementos interactivos, como un formulario de contacto, les proporcionen retroalimentación sobre su estado. La ausencia de funcionalidad o la falta de respuesta por parte del formulario puede dejar a los usuarios en la incertidumbre sobre si el formulario está funcionando o si su mensaje se envió correctamente.
+
+**Descripción del problema:**
+
+El problema identificado consiste en que el formulario de contacto en el sitio web o aplicación no muestra funcionalidad. En otras palabras, los usuarios no pueden utilizar el formulario para enviar consultas, comentarios o mensajes, lo que limita su capacidad para comunicarse con el sitio o la empresa. Esta falta de funcionalidad en el formulario de contacto dificulta que los usuarios se comuniquen de manera efectiva, lo que puede resultar en una experiencia frustrante y en la incapacidad de completar tareas importantes, como realizar preguntas o proporcionar retroalimentación.
+
+![image (2)](https://github.com/user-attachments/assets/f459ea38-320e-4625-ba0f-2184f328c67d)
+
+**Recomendación:**
+
+Asegurarse de que el formulario de contacto funcione correctamente y que los usuarios reciban retroalimentación después de enviar su mensaje, como un mensaje de confirmación o un redireccionamiento a una página de agradecimiento.
+
+<br>
+
+**Problema #08:**  Tamaño inapropiado de botones “Start” del landing
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability- Consistencia y estándares
+
+El tamaño inapropiado y excesivamente amplio de los botones "Start" viola el principio de consistencia y estándares. Los usuarios esperan que los botones tengan un tamaño razonable y estén en línea con las convenciones de diseño comunes. Cuando un elemento es demasiado grande, puede romper la consistencia visual y dificultar la identificación de su función.
+
+**Descripción del problema:**
+
+El problema identificado se refiere al tamaño inapropiado y excesivamente amplio de los botones "Start" en la página web. Este tamaño desproporcionado viola las expectativas de los usuarios y las convenciones de diseño comunes. Los botones "Start" son elementos clave de interacción en la página y, al ser demasiado amplios, afectan negativamente la usabilidad al dificultar la identificación y selección de estos botones.
+
+
+**Recomendación:**
+
+La corrección de este problema implica ajustar el tamaño de los botones "Start" para que sean más apropiados y estén en línea con las expectativas de los usuarios y las convenciones de diseño, lo que mejorará la experiencia de usuario en términos de usabilidad y diseño. 
+
+<br>
+
+**Problema #09:**  Espaciado inadecuado entre las secciones de la barra de navegación
+
+**Escala de severidad:** 01
+
+**Principio violado:** Information Arquitecture – Jerarquía de Información
+
+El espaciado inadecuado entre las secciones de la barra de navegación puede afectar la jerarquía de información al no proporcionar una clara separación entre las secciones. Esto dificulta la identificación y la navegación de los usuarios.
+
+**Descripción del problema:**
+
+El problema identificado se refiere al tamaño inapropiado y excesivamente amplio de los botones "Start" en la página web. Este tamaño desproporcionado viola las expectativas de los usuarios y las convenciones de diseño comunes. Los botones "Start" son elementos clave de interacción en la página y, al ser demasiado amplios, afectan negativamente la usabilidad al dificultar la identificación y selección de estos botones.
+
+
+**Recomendación:**
+
+Para abordar el problema del espaciado inadecuado entre las secciones de la barra de navegación desde una perspectiva de arquitectura de la información, se recomienda ajustar el espaciado para proporcionar una separación clara entre las secciones y mejorar la jerarquía de la información. Esto permitirá a los usuarios identificar y navegar de manera más eficiente entre las opciones. Además, es importante asegurar una organización lógica de las secciones y realizar pruebas de usuario para evaluar la eficacia de los cambios y recopilar retroalimentación directa de los usuarios. Estas medidas mejorarán la experiencia de usuario y la usabilidad de la barra de navegación.
+
+<br>
+
+**Problema #10:** La sección que integra a la misión, visión y valores de la aplicación muestran un tamaño impreciso.
+
+**Escala de severidad:** 02
+
+**Principio violado:** Information Arquitecture – Organización y Estructura
+
+El tamaño impreciso de la sección que contiene la misión, visión y valores de la aplicación afecta la organización y la estructura de la información en la página. Es esencial que esta sección se presente de manera clara y equilibrada en relación con el resto del contenido.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con el tamaño impreciso de la sección que integra la misión, visión y valores en la página web. El tamaño inadecuado de esta sección afecta negativamente la organización y presentación de la información, lo que puede llevar a una experiencia de usuario confusa o desequilibrada
+
+
+**Recomendación:**
+
+Para abordar el problema del tamaño impreciso de la sección que integra la misión, visión y valores de la aplicación, se recomienda ajustar el tamaño de esta sección para que sea proporcionado y equilibrado en relación con el resto del contenido. Esto asegurará una organización coherente de la información y permitirá a los usuarios acceder y comprender la misión, visión y valores de la aplicación de manera más efectiva. Además, se deben mantener prácticas de diseño y arquitectura de la información coherentes en toda la página.
+
+<br>
+
+**Problema #11:** La iconografía e imágenes correspondientes a la sección “About the team” y “Benefits” sobresalen del margen de las tarjetas
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability - Estética y diseño minimalista
+
+La estética y el diseño minimalista son importantes para una buena usabilidad. El hecho de que las imágenes sobresalgan de las tarjetas podría violar la heurística de "Estética y diseño minimalista" al crear una apariencia visual confusa y poco organizada
+
+**Descripción del problema:**
+
+El problema identificado se refiere al hecho de que la iconografía e imágenes en las secciones "About the team" y "Benefits" sobresalen del margen de las tarjetas en la página web. Esta superposición afecta negativamente la presentación de la información al crear una apariencia visual desordenada y poco organizada.
+
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda ajustar la presentación de estas imágenes para que se ajusten adecuadamente al margen de las tarjetas, evitando la superposición. Esto mejorará la organización y la apariencia visual de la información, garantizando una experiencia más limpia y comprensible para los usuarios. Además, es esencial mantener un diseño limpio y organizado en toda la página, siguiendo principios de estética y diseño minimalista.
+
+<br>
+
+**Problema #12:**  La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail.
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability- Visibilidad del estado del sistema
+
+La falta de interacción en la sección "Contact" al redireccionar el correo con Gmail afecta la visibilidad del estado del sistema. Los usuarios esperan que al hacer clic en un enlace o botón, ocurra una acción que les proporcione retroalimentación visual para indicar que la acción se ha completado con éxito.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con la falta de interacción en la sección "Contact" ubicada en el footer de la página web. En particular, al hacer clic en esta sección, no se activa ninguna acción de redirección al correo del startup con Gmail, lo que impide a los usuarios contactar al startup de manera efectiva. La carencia de interacción y la ausencia de retroalimentación visual indicativa de que la acción se ha completado con éxito dificultan la usabilidad de la página en términos de acceso al correo de contacto.
+
+![image (3)](https://github.com/user-attachments/assets/280d0165-7ff7-4ffa-b8ca-57fb3af91a80)
+
+**Recomendación:**
+
+Para solucionar el problema de la falta de interacción en la sección "Contact" en el footer, se recomienda agregar funcionalidad de redirección al correo del startup con Gmail al hacer clic en esta sección. Además, es fundamental proporcionar indicadores visuales claros que confirmen el éxito de la acción de contacto. Esta mejora no solo facilitará a los usuarios la comunicación con el startup, sino que también brindará una experiencia más efectiva y satisfactoria en términos de usabilidad
+
+<br>
+
+**Problema #13:**  El título “About the team” no muestra internacionalización (cambio de idioma al inglés)
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability – Flexibilidad y eficiencia de uso
+
+La ausencia de la opción de cambiar el idioma al inglés en el título "About the team" puede dificultar la flexibilidad y la eficiencia de uso para usuarios que prefieren o necesitan el inglés como idioma de navegación.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la falta de internacionalización en el título "About the team," lo que implica que no existe una opción para cambiar el idioma al inglés en esta sección de la página web o la aplicación
+
+La falta de internacionalización no cumple con las necesidades de usuarios multilingües y no ofrece flexibilidad en la navegación, lo que puede resultar en una experiencia de usuario menos efectiva y satisfactoria en términos de accesibilidad a la información en diferentes idiomas.
+
+
+Recomendación:
+
+Para abordar el problema de falta de internacionalización en el título "About the team," se recomienda incorporar una opción de cambio de idioma al inglés en esta sección y, en general, en toda la página. Esto permitirá a los usuarios acceder a la información en su idioma preferido y mejorar la flexibilidad de uso
+
+<br>
+
+**WEB APPLICATION:**
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/Principio violada(o)**|
+| :-: | :-: | :-: | :-: |
+|1|Espaciado inadecuado entre el nombre del servicio y el logotipo de la aplicación|1|Usability- Estética y diseño minimalista|
+|2|Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario|3|<p>Usability - Flexibilidad y eficiencia de uso /</p><p>Usability – Prevenir errores</p>|
+|3|El botón “Invitar usaurios” no es interactivo, es decir, no es capaz de generar el enlace de invitación correspondiente.|2|Usability- Consistencia y estándares|
+|4|El usuario es redireccionado al formulario de inicio de sesión al salir de cualquier sección principal del dashboard.|3|Usability – Control y Libertad del usuario|
+|5|Ausencia de un componente que permita regresar al dashboard y poder seleccionar otra funcionalidad estando dentro de una de las secciones principales del dashboard.|3|Usability – Control y Libertad del usuario|
+|6|Incapacidad de la aplicación para exportar un historial de registro de ingresos y egresos|4|Usability – Flexibilidad y eficiencia de uso|
+|7|Percepción imprecisa, dentro del header de la aplicación, respecto al componente de perfil de usuario|1|Usability- Estética y diseño minimalista/ Consistencia y estándares|
+|8|Inexistencia de la funcionalidad “recuperar contraseña” dentro del formulario de inicio de sesión.|3|Usability-Prevención de errores|
+|9|Ausencia de la funcionalidad del filtrado de búsqueda relacionado a “Buscar Usuarios”|2|Usability: Visibilidad del estado del sistema|
+|10|Incapacidad para modificar o eliminar la información previamente registrada.|4|Usability-Prevención de errores|
+|11|Sección “Educación Financiera” sobresaliente dentro de la vista de perfil de empresa|1|Usability- Estética y diseño minimalista|
+
+<br>
+
+**Problema #01:**  Espaciado inadecuado entre el nombre del servicio y el logotipo de la aplicación
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability- Estética y diseño minimalista
+
+La heurística de "Estética y diseño minimalista" se ve afectada por el espaciado inadecuado, ya que puede crear una apariencia visual desordenada y poco organizada, lo que dificulta la comprensión y la estética general de la página.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con el espaciado inadecuado entre el nombre del servicio y el logotipo de la aplicación. El espacio insuficiente o desigual entre estos elementos afecta la presentación visual de la información y crea una apariencia desordenada, lo que puede dificultar la identificación y comprensión de ambos elementos. Este problema puede afectar negativamente la estética general de la aplicación y dificultar la interacción del usuario con estos componentes.
+
+![WhatsApp Image 2024-10-31 at 9 46 35 AM](https://github.com/user-attachments/assets/3888ee6c-d0c4-4311-bad8-d83529cdaa35)
+
+**Recomendación:**
+
+Para resolver el problema, se recomienda ajustar el espaciado de manera que sea adecuado y consistente. Esto mejorará la presentación general y la estética a través d un diseño limpio. 
+
+<br>
+
+**Problema #02:**  Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario
+
+**Escala de severidad:** 03
+
+Principio violado:
+
+Usability - Flexibilidad y eficiencia de uso: La falta de funcionalidades para modificar perfiles o eliminar cuentas afecta la flexibilidad y eficiencia de uso, ya que los usuarios no pueden realizar estas acciones de manera efectiva, lo que puede dificultar la gestión de sus perfiles y cuentas.
+
+Usability - Prevenir errores: La heurística "Prevenir errores" implica proporcionar a los usuarios la capacidad de corregir errores o deshacer acciones. La ausencia de opciones para modificar perfiles o eliminar cuentas limita la capacidad de los usuarios para corregir o deshacer cambios en sus perfiles, lo que puede resultar en problemas de usabilidad y satisfacción del usuario.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la falta de funcionalidades disponibles en la aplicación que permitan a los usuarios modificar o personalizar sus perfiles de usuario, así como la eliminación de sus cuentas. Esta carencia afecta la flexibilidad y la eficiencia de uso, ya que los usuarios no tienen la capacidad de gestionar sus perfiles de manera efectiva y no cuentan con opciones para corregir errores o deshacer acciones. Además, la aplicación no cumple con la heurística de "Flexibilidad y eficiencia de uso", ya que no proporciona estas funciones esenciales.
+
+![WhatsApp Image 2024-10-31 at 9 46 43 AM](https://github.com/user-attachments/assets/34c02b75-ab10-4b06-9c17-29850443262f)
+
+**Recomendación:**
+
+Para solucionar el problema, se recomienda incorporar estas funcionalidades clave de manera eficiente y accesible en la interfaz. De igual forma, es esencial que se incluyan medidas de protección de datos y confirmación para la eliminación de cuentas, evitando así eliminaciones accidentales.
+
+<br>
+
+**Problema #03:**  El botón “Invitar Usuarios” no es interactivo, es decir, no es capaz de generar el enlace de invitación correspondiente.
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability – Consistencia y Estándares
+
+La heurística "Consistencia y estándares" se ve comprometida, ya que los usuarios pueden esperar que un botón con esta etiqueta realice una acción específica (generar un enlace de invitación) según las convenciones y estándares comunes en aplicaciones similares.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la falta de interactividad en el botón "Invitar Usuarios" de la aplicación. Este botón no es capaz de generar el enlace de invitación correspondiente, lo que significa que no cumple con su función esperada. Esta carencia de interactividad en el botón puede resultar en una experiencia frustrante y no satisfactoria. 
+
+![WhatsApp Image 2024-10-31 at 9 47 02 AM](https://github.com/user-attachments/assets/c614213d-af77-4aee-b762-5462613cd724)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda que este botón sea programado de manera que sea capaz de generar el enlace de invitación correspondiente cuando se hace clic en él. Además, es fundamental proporcionar retroalimentación visual inmediata, como mostrar el enlace de invitación generado o un mensaje de confirmación, para indicar que la acción se ha completado con éxito.
+
+<br>
+
+**Problema #04:**  El usuario es redireccionado al formulario de inicio de sesión al salir de cualquier sección principal del dashboard.
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Control y libertad del usuario
+
+La falta de control y libertad del usuario es evidente en este problema, ya que el usuario se ve forzado a regresar al formulario de inicio de sesión al salir de cualquier sección principal del dashboard, sin la opción de elegir continuar en la aplicación o regresar a una sección anterior.
+
+![WhatsApp Image 2024-10-31 at 9 47 20 AM](https://github.com/user-attachments/assets/9db1fe6a-8cc6-4733-96f7-d9d7e7ca6907)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda brindar a los usuarios un mayor control y libertad sobre su navegación. Esto implica ofrecer una opción clara y fácil de entender que permita a los usuarios decidir si desean regresar al formulario de inicio de sesión o continuar en la aplicación después de salir de una sección principal. Ello se puede realizar a través de la inserción de un botón “return”. La realización de pruebas de usuario será esencial para validar estas mejoras y garantizar que los usuarios puedan tomar decisiones informadas sobre su navegación.
+
+<br>
+
+**Problema #05:**  Ausencia de un componente que permita regresar al dashboard y poder seleccionar otra funcionalidad estando dentro de una de las secciones principales del dashboard.
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Control y libertad del usuario
+
+La ausencia de un componente que permita a los usuarios regresar al dashboard y seleccionar otra funcionalidad limita su control y libertad en la navegación. Los usuarios pueden sentirse atrapados en una sección sin una forma clara de volver al dashboard.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con la ausencia de un componente que permita a los usuarios regresar al dashboard y seleccionar otra funcionalidad mientras están dentro de una de las secciones principales del dashboard de la aplicación. Esta carencia limita la libertad y el control del usuario en su navegación, lo que puede resultar en una experiencia frustrante y poco eficiente.
+
+![WhatsApp Image 2024-10-31 at 9 47 27 AM](https://github.com/user-attachments/assets/69031ee3-bb28-48d6-9b48-cf3c2190dcbd)
+
+**Recomendación:**
+
+Para abordar este problema, se recomienda incorporar un componente de navegación claramente visible en todas las secciones principales del dashboard. Este componente, como un botón de regreso al dashboard, proporcionará a los usuarios una forma eficiente de cambiar entre diferentes funcionalidades,
+
+<br>
+
+**Problema #06:**  Incapacidad de la aplicación para exportar un historial de registro de ingresos y egresos
+
+**Escala de severidad:** 04
+
+**Principio violado:** Usability – Flexibilidad y eficiencia de uso
+
+La incapacidad de exportar el historial afecta la "Flexibilidad y eficiencia de uso". Los usuarios pueden requerir estos datos para diferentes propósitos, y la falta de funcionalidad para exportarlos ralentiza la eficiencia de uso.
+
+**Descripción del problema:**
+
+El problema identificado radica en la incapacidad de la aplicación para exportar un historial de registro de ingresos y egresos. Los usuarios no tienen la opción de extraer esta información de la aplicación en un formato accesible o descargable. Esto limita su capacidad para utilizar y compartir los datos registrados de manera eficiente
+
+![WhatsApp Image 2024-10-31 at 9 47 37 AM](https://github.com/user-attachments/assets/5846256c-b325-46fe-8479-b61d81530822)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda incorporar una función de exportación que permita a los usuarios descargar esta información en un formato a elección del usuario. Esta función debe ser claramente visible y accesible en la interfaz de usuario, facilitando a los usuarios la exportación eficiente de sus datos.
+
+<br>
+
+**Problema #07:**  Percepción imprecisa, dentro del header de la aplicación, respecto al componente de perfil de usuario y empresa
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability – Consistencia y estándares/ Estética y diseño minimalista
+
+La confusión sobre qué componente despliega el perfil del usuario sugiere una violación de la heurística de "Diseño y coherencia estética". Los usuarios podrían esperar que los componentes sigan un diseño y una ubicación coherentes que indiquen claramente cuál es cuál
+
+![WhatsApp Image 2024-10-31 at 9 46 24 AM](https://github.com/user-attachments/assets/ace75a85-8c89-4c2e-858a-a9638a43c54d)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda incorporar elementos visuales claros que permitan a los usuarios identificar con precisión cada perfil. Esto podría incluir el uso de íconos distintos, colores diferenciados o etiquetas claras para cada perfil. En ese sentido, segmentar el header en “Mi perfil”.
+
+<br>
+
+**Problema #08:** Inexistencia de la funcionalidad “recuperar contraseña” dentro del formulario de inicio de sesión.
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Prevención de errores
+
+La heurística "Prevención de errores" se ve afectada, ya que la falta de una funcionalidad de recuperación de contraseña puede aumentar la probabilidad de errores, como bloqueos de cuentas debido a contraseñas olvidadas.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con la inexistencia de la funcionalidad "recuperar contraseña" dentro del formulario de inicio de sesión. Los usuarios que olviden su contraseña no tienen una forma clara de restablecerla, lo que puede resultar en bloqueos de cuentas y una experiencia frustrante.
+
+![WhatsApp Image 2024-10-31 at 9 47 37 AM](https://github.com/user-attachments/assets/5846256c-b325-46fe-8479-b61d81530822)
+
+**Recomendación:**
+
+Para abordar la inexistencia de la funcionalidad "recuperar contraseña" en el formulario de inicio de sesión, se recomienda incorporar una función claramente visible, como un enlace o botón de "¿Olvidaste tu contraseña?". Esta función guiará a los usuarios a través del proceso de recuperación de contraseña de manera eficiente y prevendrá bloqueos de cuentas debido a contraseñas olvidadas.
+
+<br>
+
+**Problema #09:** Ausencia de la funcionalidad del filtrado de búsqueda relacionado a “Buscar Usuarios”
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability – Visibilidad del estado del sistema
+
+La ausencia de funcionalidad de filtrado de búsqueda afecta esta heurística, ya que no proporciona a los usuarios una retroalimentación clara sobre el estado del sistema después de ingresar un nombre de usuario y hacer clic en el botón de búsqueda. La falta de respuesta o resultados visibles hace que los usuarios no tengan información sobre el estado de su búsqueda.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la ausencia de la funcionalidad de filtrado de búsqueda relacionada con "Buscar Usuarios" en la aplicación. A pesar de contar con un botón de búsqueda y una caja de texto donde los usuarios pueden ingresar el nombre del usuario que desean buscar, la funcionalidad de búsqueda no está habilitada o no funciona correctamente.
+
+![WhatsApp Image 2024-10-31 at 9 46 35 AM](https://github.com/user-attachments/assets/3888ee6c-d0c4-4311-bad8-d83529cdaa35)
+
+**Recomendación:**
+
+Para abordar la ausencia de funcionalidad en la búsqueda, se recomienda habilitar y asegurarse de que la función de búsqueda funcione de manera efectiva. Cuando los usuarios ingresen el nombre y hagan clic en el botón de búsqueda, la aplicación debe proporcionar resultados relevantes o un mensaje informativo si no se encuentran resultados.
+
+<br>
+
+**Problema #10:** Incapacidad para modificar o eliminar la información previamente registrada.
+
+**Escala de severidad:** 04
+
+**Principio violado:** Usability – Prevención de errores
+
+La incapacidad de modificar o eliminar información de ingresos y egresos previamente registrados afecta esta heurística, ya que los usuarios pueden cometer errores al ingresar información incorrecta o desear corregir datos erróneos. Además, la falta de una función de edición o eliminación puede llevar a una experiencia frustrante y la pérdida de datos valiosos.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la incapacidad de modificar o eliminar la información previamente registrados en la aplicación. Los usuarios no tienen la opción de corregir errores, actualizar datos obsoletos o eliminar registros no deseados, lo que puede resultar en información inexacta y desactualizada en la aplicación. Esta limitación afecta la usabilidad y la capacidad de los usuarios para mantener registros precisos y completos de la información financiera cotidiana.
+
+![WhatsApp Image 2024-10-31 at 9 46 43 AM](https://github.com/user-attachments/assets/34c02b75-ab10-4b06-9c17-29850443262f)
+
+
+<div id='5.4.'><h5> 5.4. Video About-the-Product.</h5></div>
+
+<div id='6.'><h5> 6. Conclusiones</h5></div>
+
+<div id='6.1'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
+- En conclusion, se han implementado mejoras significativas en la experiencia del usuario, como la creación de la página de perfil y la inclusión de componentes de toolbar. Estas adiciones no solo enriquecen la interfaz, sino que también facilitan la navegación y la interacción de los usuarios con la aplicación.
+
+- La adición del componente de inicio de sesión y su actualización refuerzan la seguridad y la usabilidad de la aplicación. Estas mejoras son cruciales para fomentar la confianza del usuario y garantizar una experiencia fluida desde el primer acceso a la aplicación.
+
+- La realización de múltiples merges de pull requests indica un fuerte enfoque en la colaboración y la integración continua entre los miembros del equipo.
+<div id='6.2'><h5> 6.2 Video About-the-Team</h5></div>
+
+**Bibliografia**
+
+**Anexos**  
+
+=======
 Finalmente lo implementamos con el comando "firebase deploy"
 
 
@@ -2506,6 +3352,7 @@ Para englobar distintas áreas, mientras se esté proyectando o el mismo usuario
 
 **Anexos**  
 
+
 Repositorio del Frontend: https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd
 
 Repositorio de la Landing Page:https://github.com/Upecinos-AI-OpenSource/Saifu-LandingPage
@@ -2513,3 +3360,4 @@ Repositorio de la Landing Page:https://github.com/Upecinos-AI-OpenSource/Saifu-L
 Repositorio del Informe:https://github.com/Upecinos-AI-OpenSource/Saifu-project-report 
 
 Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRAMES%7CMOCKUPS----SAIFU?node-id=266-8838&t=CAUoERl93g5WrZ3d-1  
+
