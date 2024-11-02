@@ -2460,8 +2460,37 @@ Se adjunta el enlace del back end desplegado:
 <div id='5.2.3.8.'><h5>5.2.3.8.Team Collaboration Insights during Sprint</h5></div>
 
 <div id='5.3'><h5>5.3. Validation Interviews</h5></div>
-
+Para englobar distintas áreas, mientras se esté proyectando o el mismo usuario esté probando la aplicación, se harán tanto generales, sobre navegación y user flow y experiencia.
 <div id='5.3.1'><h5>5.3.1. Diseño de Entrevistas</h5></div>
+<strong>Primera Impresión:</strong>
+<ul>
+ <li>¿Cuál es tu primera impresión al ver esta landing page?</li>
+ <li>¿Qué sientes que es el propósito de esta página/aplicación?</li>
+ <li>¿Hay algo en la página que te llame especialmente la atención o te parezca fuera de lugar?</li>
+</ul>
+<strong>Preguntas sobre Navegación y User Flow:</strong>
+<ul>
+ <li><strong>(Cuando el usuario intenta realizar una acción específica)</strong></li> 
+ <li>¿Cómo fue tu experiencia al realizar esa tarea?</li>
+ <li>¿Fue fácil o hubo algo que te complicó?</li>
+ <li>¿Hubo algún momento en el que te sintieras perdido o no supieras qué hacer?</li>
+</ul>
+<strong>Preguntas sobre Claridad y Comprensión:</strong>
+<ul>
+ <li>¿La información en la página te parece clara y fácil de entender?</li>
+ <li>¿Hay algo que no entendiste o que consideras que debería explicarse mejor?</li>
+</ul>
+<strong>Interacción y Experiencia de Usuario:</strong>
+<ul>
+ <li><strong>(Cuando el usuario intenta realizar una acción específica con algún elemento de la página)</strong></li> 
+ <li>Cuando interactuaste con este elemento, ¿la respuesta de la aplicación fue la que esperabas?</li>
+</ul>
+<strong>Evaluación General:</strong>
+<ul>
+ <li>Del 1 al 10, ¿cómo calificarías tu experiencia usando la landing page y la aplicación?</li>
+ <li>¿Qué es lo que más te gustó y lo que menos te gustó de la aplicación?</li>
+ <li>¿Hay algo que cambiarías o agregarías para que tu experiencia fuera mejor?</li>
+</ul>
 
 <div id='5.3.1'><h5>5.3.2. Registro de Entrevistas</h5></div>
 
