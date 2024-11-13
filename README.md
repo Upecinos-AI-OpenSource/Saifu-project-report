@@ -1890,6 +1890,265 @@ Enlace para acceder a la landing page: https://upecinos-ai-opensource.github.io/
 |Reyes Valenzuela, Renato German|Implementación de la sección features|
 |Comettant Rubiños, Jessica Elizabeth|Implementación de la sección header,about-us y homepage|
 
+## 5.2 Landing Page, Services & Applications Implementation
+
+<div id='5.2.1'><h4> 5.2.1. Sprint 1</h4></div>
+
+<table>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="7">Sprint 1</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">WorkItem / Task</th>
+        </tr>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Hours)</th>
+            <th>Assigned To</th>
+            <th>Status(To-do/In-Process/To-Review/Done)</th>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Información y Ventajas Clave en Landing Page</td>
+            <td>UT01</td>
+            <td>Editar cajas de texto</td>
+            <td>Permitir al usuario interactuar con las cajas de texto</td>
+            <td>1</td>
+            <td>Luis Cisneros</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Ejemplos de Ahorro y Gestión de Ingresos </td>
+            <td>UT02</td>
+            <td>Agregar información sobre finanzas</td>
+            <td>Añadir las funcionalidades principales de Saifu</td>
+            <td>1</td>
+            <td>Renato Reyes</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Testimonios de Usuarios</td>
+            <td>UT03</td>
+            <td>Insertar comentarios positivos sobre la aplicación</td>
+            <td>Añadir la funcionalidad de desplegar y contraer para las opciones de pregunta</td>
+            <td>2</td>
+            <td>Marco Congora</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Interfaz Simple y Atractiva</td>
+            <td>UT04</td>
+            <td>Desarrollo de header y footer de la aplicación</td>
+            <td>Diseñar la aplicación</td>
+            <td>Implementación de about-us y homepage</td>
+            <td>1</td>
+            <td>Jessica Comettant</td>
+            <td>Done</td>
+        </tr>
+    </table>
+
+<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
+
+Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle a cada uno de los miembros del grupo una tarea que debía cumplirla hasta cierta fecha para mayor organización
+
+<table>
+  
+  <tr>
+    <th colspan="2" style="text-align: center;">Sprint Planning</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Date</td>
+    <td>22/8/2024</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Time</td>
+    <td>05:00 P.M</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Point</td>
+    <td>Reunión por Google Meet</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Prepared By</td>
+    <td>Renato German Reyes Valenzuela,</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Assistants</td>
+    <td>
+      <ul>
+        <li>Comettant Rubiños, Jessica Elizabeth</li>
+        <li>Reyes Valenzuela, Renato German</li>
+        <li>Cisneros Salas,Luis Angel</li>
+        <li>Góngora Sánchez,Marco Antonio</li>
+        <li>Rojas Ccama, Carlos Andres</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" style="text-align: center;">Sprint Goal</th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">Implementar una landing page sobre Saifu a su vez completando el informe de acuerdo a lo que se nos solicita</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Sprint n Velocity</td>
+    <td>10 días</td>
+  </tr>
+</table>
+
+<div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
+
+
+En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retrasó el proceso de creación llevándolo a tener en su mayoria el aspecto visual de la landing page.
+
+<table>
+        <thead>
+            <tr>
+                <th>US ID</th>
+                <th>US Title</th>
+                <th>Description</th>
+                <th>Estimation (Hours)</th>
+                <th>Assigned To</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> 01 </td>
+                <td>Diseñar layout de la landing page</td>
+                <td>Crear un diseño inicial para la página de inicio del sitio web de alquiler de autos</td>
+                <td>4</td>
+                <td>Reyes Valenzuela, Renato German </td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 02 </td>
+                <td>Crear sección de navegación</td>
+                <td>Implementar una barra de navegación para facilitar la exploración de la landing page</td>
+                <td>3</td>
+                <td>Comettant Rubiños, Jessica Elizabeth </td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 03 </td>
+                <td>Agregar imágenes y contenido</td>
+                <td>Incluir imágenes y texto relevante para mejorar la apariencia de la landing page</td>
+                <td>5</td>
+                <td>Cisneros Salas,Luis Angel </td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 04 </td>
+                <td>Implementar llamada a la acción</td>
+                <td>Agregar un botón o enlace que invite a los usuarios a realizar una acción específica como redirigir al usuario a la aplicación web</td>
+                <td>2</td>
+                <td>Góngora Sánchez,Marco Antonio </td>
+              <td>To-Do</td>
+          </tr>
+          <tr>
+                <td> 04 </td>
+                <td>Implementacion de participantes</td>
+                <td>Agregar una seccion de los participantes en el landing</td>
+                <td>2</td>
+                <td>Rojas Ccama, Carlos Andres </td>
+              <td>To-Do</td>
+          </tr>
+      </tbody>
+  </table>
+
+![Trello Sprint 1](assets/trello-upecionosAi.JPG)
+
+Link del Trello: https://trello.com/invite/b/66db1e3982afd3f358db5117/ATTI1911fa5f5853d1403d644d087bb9b44f079EC395/upecinos-ai-open
+
+
+<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
+
+
+|Repository|Branch| Commit ID |
+|----|----|----|
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 0dc928745858b4e0a5c06575b075d499817c3598 | Update Development Evidence for Sprint Review |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 0b912d22277b657e55782a3291d3ae21fad4abf8 | Update Sprint Planning 1 |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | fa57166af02dfd923e453902ddd55f53173d3a73 | Add Sprint Backlog 1 |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 0f12e60759ad08ff27faa11303219daf64e75573 | Update Spring Planning 1 |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | ade5da8678b864b888d18920f5bcec49d6fe09b7 | Add Sprint Planning 1 |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 01462f7ebc8d772902899fe68fcfd1453323aba9 | Update Project Report.md |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 57c74ad8872cffeca02c5c84a83660b264332d6e | Update README.md |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 06db01d225cee7b35f40fa9f1ba914d06aa4fa3d | Update Project Report.md |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 05ed8f34bb96d60407520ba644cfd2c23f2e22f0 | Add Architecture Component Diagram |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 935f937eca37489893bb8728e842bdd1be8b0843 | Add files via upload |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 9976d27f0e882082994c99a5fe44a904e4bc1265 | Update Domain Driven Software Architecture |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | dd854ac9f68067adb16904fcbe1d205c8fbe4422 | Update Content Diagrams |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 1fdc819e3d64f9c5cc2986e06b699f19bf052886 | Merge branch 'main' of https://github.com/Upecinos-AI-OpenSource/Saifu-project-report |
+|https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 1aa470c5709a52b7b2a6291dce88a203b39fdc40 | Merge pull request #2 from AppWeb-Grupo3/patch-1 |
+
+<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div>
+
+Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios que planeamos desarrollar.
+
+<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review.</h5></div>
+
+En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones sobre información de la aplicación para los usuarios
+1. Sección Beneficios
+
+    En la sección planes, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
+![Features -mock](https://github.com/user-attachments/assets/56523959-8b74-4ae9-8bda-d0c8feb9eb03)
+
+
+2. Sección Saber más
+
+    En la sección contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos, o en su defecto, ingresar a los medio de comunicación de la empresa.
+
+![About us -mock](https://github.com/user-attachments/assets/e389b99f-bdf9-4120-a9a2-ca24017e8799)
+
+3. Sección planes
+
+    En la sección FAQ los usuarios pueden visualizar una serie de preguntas usuales y la respuesta de la misma. 
+
+![Pricing plan -mock](https://github.com/user-attachments/assets/f5f42b6c-42f1-48cb-82fe-7b7a9d444ea3)
+
+3. Sección Ayuda
+![Help center -mock](https://github.com/user-attachments/assets/b11d7ac8-66d8-4eab-94a7-a76ea6404e21)
+
+4. Sección Contactanos
+![Contact us -mock](https://github.com/user-attachments/assets/392dfcc0-3cf2-415e-8b5b-ae868fee96da)
+
+5. Sección FAQs
+![FAQs -moc](https://github.com/user-attachments/assets/b596f169-4470-44d5-a2f1-5dd70ea34cd3)
+
+
+<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
+
+Webstorm: Se optó por utilizar Webstorm como el Entorno Integrado de Desarrollo (IDE) principal para el desarrollo del landing page. Webstorm ofrece una amplia gama de características y funcionalidades que facilitan la escritura de código, la depuración y la gestión de proyectos.
+
+JavaScript:Se hizo uso de JavaScript, concretamente TypeScript, para dotar de interactividad y lógica a los diversos componentes del landing page.
+
+GitHub:Se decidió alojar el repositorio del landing page en GitHub, una plataforma de desarrollo colaborativo basada en Git. GitHub ofrece una serie de ventajas significativas, como la capacidad de colaborar de manera efectiva en equipo.
+
+<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+
+Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. Teniendo ciertos errores y bugs que seran solucionados en posteriores entregas.
+
+Enlace para acceder a la landing page: https://upecinos-ai-opensource.github.io/Saifu-LandingPage/features.html
+
+<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
+
+|Alumno|Actividad|
+|-|-|
+|Góngora Sánchez,Marco Antonio|Implementación de la sección footer y Plans|
+|Cisneros Salas,Luis Angel|Implementación de la sección FAQ|
+|Seminario Garvín, Andres Rojas|Implementación de la sección contact-us|
+|Reyes Valenzuela, Renato German|Implementación de la sección features|
+|Comettant Rubiños, Jessica Elizabeth|Implementación de la sección header,about-us y homepage|
+
 <div id='5.2.2'><h4> 5.2.2. Sprint 2</h4></div>
 - A continuacion se presenta el sprint 2 para la implementacion del frontend
 
@@ -2170,7 +2429,422 @@ Esta es la prueba en la consola del proyecto:
 
 Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente enlace: 
 
-<div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint.</h5></di
+<div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint.</h5>
+
+
+<div id='5.2.3.'><h4> 5.2.3. Sprint 3</h4></div>
+En el Sprint 3, que se llevó a cabo el 11 de octubre de 2024 a las 10:00 PM en una reunión virtual por Meet, se desplegó la Landing Page y se comenzó la planificación del front-end de la aplicación. Durante la retrospectiva, se propuso agregar la opción de cambiar de idioma en la Landing Page y realizar ajustes menores en el front-end. Además, se inició el desarrollo del back-end en Java, priorizando los elementos centrales del producto.
+
+El objetivo del Sprint es realizar correcciones en el front-end para facilitar la implementación del back-end. También se iniciará el desarrollo del back-end y se asegurará que los endpoints funcionen y sean visibles en Swagger. La velocidad del Sprint se estima en una semana, con un total de 20 puntos de historia.
+
+<div id='5.2.3.1.'><h5>5.2.3.1. Sprint Planning 3</h5></div>
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>3</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2024-10-11</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">10:00 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por Meet</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Reyes Valenzuela, Renato German
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Comettant Rubiños, Jessica Elizabeth<br>Reyes Valenzuela, Renato German<br>Cisneros Salas,Luis Angel<br>Góngora Sánchez,Marco Antonio<br>Rojas Ccama, Carlos Andres</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 - 2 – 1 Review Summary</td>
+    <td align="center">Se desplegó la Landing Page y se empezó la planificación del Front-End de la aplicación.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 -2 – 1 Retrospective Summary</td>
+    <td align="center">Se propuso incorporar la opción de cambiar de idioma en la Landing Page y realizar ajustes menores en el front-end. Además, se inició el desarrollo del back-end de la aplicación en Java, priorizando los aspectos centrales del producto</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 Goal</td>
+    <td align="center">Se debe realizar correcciones para el front-end para facilitar la implementación del back-end. Además, se debe iniciar el desarrollo del back-end y asegurar que los endpoints correspondientes funcionen y sean visibles en Swagger.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">1 semana</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">20</td>
+  </tr>
+</table><br>
+<div id='5.2.3.2.'><h5>5.2.3.2. Sprint Backlog 3</h5></div>
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">TS01</td>
+    <td align="center">Añadir un perfil con el uso del RESTful API</td>
+    <td align="center">WI01</td>
+    <td align="center">Crear endpoint para la creacion de un perfil</td>
+    <td align="center">Implementación de un método POST para el ingreso de datos</td>
+    <td align="center">5</td>
+    <td align="center">-</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS02</td>
+    <td align="center">Visualizar un perfil con el uso del RESTful API</td>
+    <td align="center">WI02</td>
+    <td align="center">Crear endpoint para la vizualizacion de un perfil</td>
+    <td align="center">Implementación de un método GET para la obtencion de datos</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS03</td>
+    <td align="center">Añadir un ... con el uso del RESTful API</td>
+    <td align="center">WI03</td>
+    <td align="center">Crear endpoint para la creacion de un ....</td>
+    <td align="center">Implementación de un método POST para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS04</td>
+    <td align="center">Editar un ... con el uso del RESTful API</td>
+    <td align="center">WI04</td>
+    <td align="center">Crear endpoint para la edicion de un ...</td>
+    <td align="center">Implementación de un método PUT para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS05</td>
+    <td align="center">Eliminar un ... con el uso del RESTful API</td>
+    <td align="center">WI05</td>
+    <td align="center">Crear endpoint para la eliminacion de un ... </td>
+    <td align="center">Implementación de un método DELETE para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS06</td>
+    <td align="center">Añadir person con el uso del RESTful API</td>
+    <td align="center">WI01</td>
+    <td align="center">Crear endpoint para la creacion de un person</td>
+    <td align="center">Implementación de un método POST para el ingreso de datos</td>
+    <td align="center">5</td>
+    <td align="center">Carlos Rojas</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS07</td>
+    <td align="center">Visualizar el endpoint person con el uso del RESTful API</td>
+    <td align="center">WI02</td>
+    <td align="center">Crear endpoint para la vizualizacion de un persona</td>
+    <td align="center">Implementación de un método GET para la obtencion de datos</td>
+    <td align="center">4</td>
+    <td align="center">Carlos Rojas</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS05</td>
+    <td align="center">Eliminar una persona con el uso del RESTful API</td>
+    <td align="center">WI05</td>
+    <td align="center">Crear endpoint para la eliminacion de un persona </td>
+    <td align="center">Implementación de un método DELETE para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">Carlos Rojas</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS05</td>
+    <td align="center">Eliminar una persona con el uso del RESTful API</td>
+    <td align="center">WI05</td>
+    <td align="center">Crear endpoint para la eliminacion de un persona </td>
+    <td align="center">Implementación de un método DELETE para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">Carlos Rojas</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS02</td>
+    <td align="center">Eliminacion de una persona con el uso del RESTful API con el id</td>
+    <td align="center">WI02</td>
+    <td align="center">Eliminar endpoint para la vizualizacion de una persona</td>
+    <td align="center">Implementación de un método GET para la obtencion de datos</td>
+    <td align="center">4</td>
+    <td align="center">Carlos Rojas</td>
+    <td align="center">In process</td>
+  </tr>
+</table>
+     
+<div id='5.2.3.3.'><h5>5.2.3.3. Development Evidence for Sprint Review</h5></div>
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
+    <td align="center">feature/userContext</td>
+    <td align="center">8e3d170c49f229132cf1e73436a724e9255a6721</td>
+    <td align="center">feat(userContext): add bounded userContext</td>
+    <td align="center">add bounded userContext</td>
+  <td align="center">27/10/2024</td>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">2/10/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">30/10/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">31/10/2024</td>
+</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">05/10/2024</td>
+  </tr>
+
+</table>
+
+<div id='5.2.3.4.'><h5>5.2.3.4. Testing Suite Evidence for Sprint Review</h5></div>
+Para este sprint se contempló la realización funcionalidades referente al testing de los endpoints de nuestra API, por lo que se mostrarra todos los endpoints
+
+Sin embargo, la comprobación de los endpoints se realizó mediante la herramienta de Swagger:
+<div id='5.2.3.5.'><h5>5.2.3.5. Execution Evidence for Sprint Review</h5></div>
+Para esta entrega se ha logrado implementar y desplegar la segunda version del Landing Page, se implemento el metodo el cambio de ingles a español y primera version del backend.
+
+- Landing Page
+
+
+- Backend
+
+<div id='5.2.3.6.'><h5>5.2.3.6. Services Documentation Evidence for Sprint Review</h5></div>
+En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente: https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git
+Se adjunta el enlace del back end desplegado: 
+
+||||
+| :- | :- | :- |
+|Entity|EndPoint URL|Swagger|
+|Person|/api/v1/Person|!![foto_person_](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e8696d2a627b9d146cacb479c03450aa2ab72911/assets/person.png)|
+|User Consult|//api/v1/user_consults|![user_conults](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/08b11fabfb0898f80d914458283e224007fcf399/assets/userconsult.png)|
+
+<div id='5.2.3.7.'><h5>5.2.3.7. Software Deployment Evidence for Sprint Review</h5></div>
+
+
+<div id='5.2.3.8.'><h5>5.2.3.8. Team Collaboration Insights during Sprint</h5></div>
+
+<div id='5.2.4.'><h5>5.2.4. Sprint 4</h5></div>
+<div id='5.2.4.1.'><h5>5.2.4.1. Sprint Planning 4</h5></div>
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>4</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2024-00-00</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">00:00 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por Meet</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Reyes Valenzuela, Renato German
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Comettant Rubiños, Jessica Elizabeth<br>Reyes Valenzuela, Renato German<br>Cisneros Salas,Luis Angel<br>Góngora Sánchez,Marco Antonio<br>Rojas Ccama, Carlos Andres</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 4 - 3 - 2 – 1 Review Summary</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 4 - 3 - 2 – 1 Retrospective Summary</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 4 Goal</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">0 semana</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">00</td>
+  </tr>
+</table><br>
+
+<div id='5.2.4.2.'><h5>5.2.4.2. Sprint Backlog 4</h5></div>
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>4</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+<div id='5.2.4.3.'><h5>5.2.4.3. Development Evidence for Sprint Review</h5></div>
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+<div id='5.2.4.4.'><h5>5.2.4.4. Testing Suite Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.5.'><h5>5.2.4.5. Execution Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.6.'><h5>5.2.4.6. Services Documentation Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.7.'><h5>5.2.4.7. Software Deployment Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.8.'><h5>5.2.4.8. Team Collaboration Insights during Sprint</h5></div>
+
+<div id='5.3.'><h5>5.3. Validation Interviews</h5></div>
+Para englobar distintas áreas, mientras se esté proyectando o el mismo usuario esté probando la aplicación, se harán tanto generales, sobre navegación y user flow y experiencia.
+<div id='5.3.1.'><h5>5.3.1. Diseño de Entrevistas</h5></div>
+<strong>Primera Impresión:</strong>
+<ul>
+ <li>¿Cuál es tu primera impresión al ver esta landing page?</li>
+ <li>¿Qué sientes que es el propósito de esta página/aplicación?</li>
+ <li>¿Hay algo en la página que te llame especialmente la atención o te parezca fuera de lugar?</li>
+</ul>
+<strong>Preguntas sobre Navegación y User Flow:</strong>
+<ul>
+ <li><strong>(Cuando el usuario intenta realizar una acción específica)</strong></li> 
+ <li>¿Cómo fue tu experiencia al realizar esa tarea?</li>
+ <li>¿Fue fácil o hubo algo que te complicó?</li>
+ <li>¿Hubo algún momento en el que te sintieras perdido o no supieras qué hacer?</li>
+</ul>
+<strong>Preguntas sobre Claridad y Comprensión:</strong>
+<ul>
+ <li>¿La información en la página te parece clara y fácil de entender?</li>
+ <li>¿Hay algo que no entendiste o que consideras que debería explicarse mejor?</li>
+</ul>
+<strong>Interacción y Experiencia de Usuario:</strong>
+<ul>
+ <li><strong>(Cuando el usuario intenta realizar una acción específica con algún elemento de la página)</strong></li> 
+ <li>Cuando interactuaste con este elemento, ¿la respuesta de la aplicación fue la que esperabas?</li>
+</ul>
+<strong>Evaluación General:</strong>
+<ul>
+ <li>Del 1 al 10, ¿cómo calificarías tu experiencia usando la landing page y la aplicación?</li>
+ <li>¿Qué es lo que más te gustó y lo que menos te gustó de la aplicación?</li>
+ <li>¿Hay algo que cambiarías o agregarías para que tu experiencia fuera mejor?</li>
+</ul>
+
+<div id='5.3.2.'><h5>5.3.2. Registro de Entrevistas</h5></div>
 
 <div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
 
@@ -2251,282 +2925,8 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 |11|La iconografía e imágenes correspondientes a la sección “About the team” y “Benefits” sobresalen del margen de las tarjetas|2|Usability: Estética y diseño minimalista|
 |12|La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail.|1|Usability: Visibilidad del estado del sistema|
 |13|El título “About the team” no muestra internacionalización (cambio de idioma al inglés)|1|Usability: Flexibilidad y eficiencia de uso|
-=======
-
-<div id='5.2.2'><h4> 5.2.2. Sprint 2</h4></div>
-- A continuacion se presenta el sprint 2 para la implementacion del frontend
-
-<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
-Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
-
-<table>
-  <tr>
-    <td align="center"><strong>Sprint #</strong></td>
-    <td align="center"><strong>2</strong></td>
-  </tr>
-  <tr>
-  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Date</td>
-    <td align="center">2024-04-20</td>
-  </tr>
-  <tr>
-    <td align="center">Time</td>
-    <td align="center">11:30 PM</td>
-  </tr>
-  <tr>
-    <td align="center">Location</td>
-    <td align="center">Reunión virtual por meet</td>
-  </tr>
-  <tr>
-    <td align="center">Prepared By</td>
-    <td align="center">Renato German Reyes Valenzuela,</td>
-  </tr>
-  <tr>
-    <td align="center">Attendees (to planning meeting)</td>
-    <td align="center">Comettant Rubiños, Jessica Elizabeth<br>Reyes Valenzuela, Renato German<br>Cisneros Salas,Luis Angel<br>Góngora Sánchez,Marco Antonio<br>Rojas Ccama, Carlos Andres</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 2 – 1 Review Summary</td>
-    <td align="center">Se desplegó la Landing Page y se empezó la planificación del Front-End de la aplicación.</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 2 – 1 Retrospective Summary</td>
-    <td align="center">Se implemento la Landing Page y se Inició el proceso de la creación del Front-End de Saifu. Priorizamos la creación de los componentes que definen a la aplicación</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 2 Goal</td>
-    <td align="center">Se debe completar las vistas del Frontend en Webstorm y completar el Sprint 2</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint n Velocity</td>
-    <td align="center">15 días</td>
-  </tr>
-  <tr>
-    <td align="center">Sum of Story Points</td>
-    <td align="center">15 días</td>
-  </tr>
-</table>
-
-<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
-
-<table>
-  <tr>
-      <td align="center"><strong>Sprint</strong></td>
-      <td colspan="7" align="center"><strong>2</strong></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><strong>User Story</strong></td>
-      <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>ID</strong></td>
-      <td align="center"><strong>Title</strong></td>
-      <td align="center"><strong>ID</strong></td>
-      <td align="center"><strong>Title</strong></td>
-      <td align="center"><strong>Description</strong></td>
-      <td align="center"><strong>Estimation (Hours)</strong></td>
-      <td align="center"><strong>Assigned To</strong></td>
-      <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
-    </tr>
-    <tr>
-      <td align="center">US-001</td>
-      <td align="center">Login User</td>
-      <td align="center">WI01</td>
-      <td align="center">Login (Jefes de hogar del nivel económico D y E) y Jóvenes en inicios de independencia</td>
-      <td align="center">Crear un login para los Jefes de hogar del nivel económico D y E y Jóvenes en inicios de independencia</td>
-      <td align="center">6</td>
-      <td align="center">Carlos Andres Rojas Ccama</td>
-      <td align="center">Done</td>
-    </tr>
-    <tr>
-      <td align="center">US-002</td>
-      <td align="center">RegisterUser</td>
-      <td align="center">WI02</td>
-      <td align="center">Signup (Jefes de hogar del nivel económico D y E)</td>
-      <td align="center">Crear un registro para los Jefes de hogar del nivel económico D y E y Jóvenes en inicios de independencia</td>
-      <td align="center">4</td>
-      <td align="center">Carlos Andres Rojas Ccama</td>
-      <td align="center">Done</td>
-    </tr>
-    <tr>
-      <td align="center">US-010</td>
-      <td align="center">Gestion de Ingresos</td>
-      <td align="center">TS-007</td>
-      <td align="center">Mostrar Ejemplos de Gestión de Ingresos</td>
-      <td align="center">Agregar ejemplos prácticos de cómo la aplicación categoriza los ingresos y gastos del usuario para facilitar la gestión financiera.</td>
-      <td align="center">4</td>
-      <td align="center">Developer 4</td>
-      <td align="center">In-Process</td>
-    </tr>
-    <tr>
-      <td align="center">US-010</td>
-      <td align="center">Registro de Ingresos y Egresos</td>
-      <td align="center">TS-009</td>
-      <td align="center">Registro de Ingresos y Egresos</td>
-      <td align="center">Crear la pantalla dentro de la aplicación para que los usuarios registren sus ingresos y egresos mensuales.</td>
-      <td align="center">6</td>
-      <td align="center">Developer 3</td>
-      <td align="center">In-Process</td>
-    </tr>
-    <tr>
-      <td align="center">US12</td>
-      <td align="center">Visualización del Balance Mensual</td>
-      <td align="center">TS-010</td>
-      <td align="center">Visualización del Balance Mensual</td>
-      <td align="center">Implementar una sección que muestre el balance mensual con un resumen de ingresos, egresos y balance final.</td>
-      <td align="center">5</td>
-      <td align="center">Developer 3</td>
-      <td align="center">To-do</td>
-    </tr>
-    <tr>
-      <td align="center">US-011</td>
-      <td align="center">Balance Económico Actualizado</td>
-      <td align="center">TS-011</td>
-      <td align="center">Visualización del Balance Actualizado</td>
-      <td align="center">Crear una pantalla que muestre el balance económico actualizado de forma gráfica, incluyendo alertas si los gastos superan los ingresos.</td>
-      <td align="center">5</td>
-      <td align="center">Developer 2</td>
-      <td align="center">To-do</td>
-    </tr>
-    <tr>
-      <td align="center">US-013</td>
-      <td align="center">Alertas de Exceso de Egresos</td>
-      <td align="center">TS-012</td>
-      <td align="center">Configuración de Alertas de Exceso de Egresos</td>
-      <td align="center">Permitir que el usuario configure alertas para cuando sus egresos superen sus ingresos. Mostrará sugerencias de ajuste presupuestario al superar el umbral.</td>
-      <td align="center">4</td>
-      <td align="center">Developer 4</td>
-      <td align="center">To-do</td>
-    </tr>
-    <tr>
-      <td align="center">US-023</td>
-      <td align="center">Edición de Perfil</td>
-      <td align="center">TS-013</td>
-      <td align="center">Edición del Perfil de Usuario (API RESTful)</td>
-      <td align="center">Implementar endpoint PUT para editar el perfil del usuario, actualizando datos como nombre, dirección y teléfono. Devuelve status 200 o error 400.</td>
-      <td align="center">6</td>
-      <td align="center">Developer 1</td>
-      <td align="center">In-Process</td>
-    </tr>
-   <tr>
-    <td align="center">US00</td>
-    <td align="center">TS-00</td>
-    <td align="center">WI09</td>
-    <td align="center">Actualización del Informe</td>
-    <td align="center">Actualización del Informe</td>
-    <td align="center">5</td>
-    <td align="center">Todo el grupo</td>
-    <td align="center">Done</td>
-  </tr>
-</table>
-
-<div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
-
-<table>
-  <tr>
-    <td align="center"><strong>Repository</strong></td>
-    <td align="center"><strong>Branch</strong></td>
-    <td align="center"><strong>Commit ID</strong></td>
-    <td align="center"><strong>Commit Message</strong></td>
-    <td align="center"><strong>Commit Message Body</strong></td>
-    <td align="center"><strong>Commited on (Date)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
-    <td align="center">feature/main</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">24/04/2024</td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
-    <td align="center">feature/main</td>
-    <td align="center"></td>
-    <td align="center">Creación página de perfil</td>
-    <td align="center">Creado el componente profile-owner & profile-tenants</td>
-    <td align="center">22/04/2024</td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
-    <td align="center">feature/main</td>
-    <td align="center"></td>
-    <td align="center">Inclusión de toolbars</td>
-    <td align="center"></td>
-    <td align="center">22/04/2024</td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
-    <td align="center">feature/main</td>
-    <td align="center"></td>
-    <td align="center">Merge pull request</td>
-    <td align="center">Merge pull request
-</td>
-    <td align="center">20/04/2024</td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
-    <td align="center">feature/main</td>
-    <td align="center"></td>
-    <td align="center">Merge remote-tracking branch</td>
-    <td align="center"></td>
-  <td align="center">22/04/2024</td>
-  <tr>
-    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
-    <td align="center">feature/iam</td>
-    <td align="center"></td>
-    <td align="center">Add Login component & signup</td>
-    <td align="center">Add Login component & signup</td>
-  <td align="center">21/04/2024</td>
-  <tr>
-    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd.git</td>
-    <td align="center">feature/main</td>
-    <td align="center"></td>
-    <td align="center">Merge pull request #15</td>
-    <td align="center">Merge pull request #15</td>
-  <td align="center">20/04/2024</td>
-</table>
-
-<div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review.</h5></div>
-En esta parte del trabajo aún no se desarrolla el backend, debido a eso no se pueden realizar Unit Test. Además, no se han agreagado nuevas user stories a las que realizarles Acepptan's Test's.
-
-<div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review.</h5></div>
-- Ejecucion del frontend
-
-<div id='5.2.2.6.'><h5> 5.2.2.6. Services Documentation Evidence for Sprint Review.</h5></div>
-
-Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
-
-*Webstorm (IDE DE DESARROLLO):* Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend.
-
-*Angular (Frameworks):* Utilizamos angular como Framework de trabajo.
-
-*JavaScript:* Typescript se ha implementado para agregar interactividad y logica a los componentes de la plataforma.
-
-*GitHub:* Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
-
-<div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review.</h5></div>
-Para estra entrega se logró desplegar el front end de la aplicación en firebase. Para lograrlo este fue el proceso:
-
-Primero creamos un proyecto en firebase y le asignamos un nombre.
-
-
-Una vez creado el proyecto nos dirigimos al apartado de hosting.
-
-
-Seguimos las instrucciones de firebase para desplegar la aplicación.
-
-
-Ahora nos autenticamos con nuestra cuenta de google e inicializamos el proyecto
-
 
 <br>
-
 
 **PROBLEMA #01:** La sección de “About the Team”, aparte de no integrar información pertinente, está ubicada por encima del producto:
 
@@ -2988,51 +3388,21 @@ El problema identificado se refiere a la incapacidad de modificar o eliminar la 
 
 ![WhatsApp Image 2024-10-31 at 9 46 43 AM](https://github.com/user-attachments/assets/34c02b75-ab10-4b06-9c17-29850443262f)
 
+<div id='5.4.'><h5>5.4. Video About-the-Product</h5></div>
 
-<div id='5.4.'><h5> 5.4. Video About-the-Product.</h5></div>
-
-<div id='6.'><h5> 6. Conclusiones</h5></div>
-
-<div id='6.1'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
-- En conclusion, se han implementado mejoras significativas en la experiencia del usuario, como la creación de la página de perfil y la inclusión de componentes de toolbar. Estas adiciones no solo enriquecen la interfaz, sino que también facilitan la navegación y la interacción de los usuarios con la aplicación.
-
-- La adición del componente de inicio de sesión y su actualización refuerzan la seguridad y la usabilidad de la aplicación. Estas mejoras son cruciales para fomentar la confianza del usuario y garantizar una experiencia fluida desde el primer acceso a la aplicación.
-
-- La realización de múltiples merges de pull requests indica un fuerte enfoque en la colaboración y la integración continua entre los miembros del equipo.
-<div id='6.2'><h5> 6.2 Video About-the-Team</h5></div>
-
-**Bibliografia**
-
-**Anexos**  
-
-=======
-Finalmente lo implementamos con el comando "firebase deploy"
-
-
-Esta es la prueba en la consola del proyecto:
-
-
-Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente enlace: 
-
-<div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint.</h5></div>
-
-
-<div id='5.4.'><h5> 5.4. Video About-the-Product.</h5></div>
-
-<div id='6.'><h5> 6. Conclusiones</h5></div>
-
-<div id='6.1'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
+<div id='6.'><h5>6. Conclusiones.</h5></div>
+<div id='6.1.'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
 - En conclusion, se han implementado mejoras significativas en la experiencia del usuario, como la creación de la página de perfil y la inclusión de componentes de toolbar. Estas adiciones no solo enriquecen la interfaz, sino que también facilitan la navegación y la interacción de los usuarios con la aplicación.
 
 - La adición del componente de inicio de sesión y su actualización refuerzan la seguridad y la usabilidad de la aplicación. Estas mejoras son cruciales para fomentar la confianza del usuario y garantizar una experiencia fluida desde el primer acceso a la aplicación.
 
 - La realización de múltiples merges de pull requests indica un fuerte enfoque en la colaboración y la integración continua entre los miembros del equipo.
 
-<div id='6.2'><h5> 6.2 Video About-the-Team</h5></div>
+<div id='6.2.'><h5> 6.2. Video About-the-Team</h5></div>
 
-**Bibliografia**
+<div id='7.'><h5>7. Bibliografía.</h5></div>
 
-**Anexos**  
+<div id='8.'><h5>8. Anexos.</h5></div>
 
 Repositorio del Frontend: https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd
 
@@ -3040,324 +3410,5 @@ Repositorio de la Landing Page:https://github.com/Upecinos-AI-OpenSource/Saifu-L
 
 Repositorio del Informe:https://github.com/Upecinos-AI-OpenSource/Saifu-project-report 
 
-Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRAMES%7CMOCKUPS----SAIFU?node-id=266-8838&t=CAUoERl93g5WrZ3d-1  
-
-
-<div id='5.2.3'><h4> 5.2.3. Sprint 3</h4></div>
-En el Sprint 3, que se llevó a cabo el 11 de octubre de 2024 a las 10:00 PM en una reunión virtual por Meet, se desplegó la Landing Page y se comenzó la planificación del front-end de la aplicación. Durante la retrospectiva, se propuso agregar la opción de cambiar de idioma en la Landing Page y realizar ajustes menores en el front-end. Además, se inició el desarrollo del back-end en Java, priorizando los elementos centrales del producto.
-
-El objetivo del Sprint es realizar correcciones en el front-end para facilitar la implementación del back-end. También se iniciará el desarrollo del back-end y se asegurará que los endpoints funcionen y sean visibles en Swagger. La velocidad del Sprint se estima en una semana, con un total de 20 puntos de historia.
-
-<div id='5.2.3.1.'><h5>5.2.3.1.Sprint Planning 3</h5></div>
-
-<table>
-  <tr>
-    <td align="center"><strong>Sprint #</strong></td>
-    <td align="center"><strong>3</strong></td>
-  </tr>
-  <tr>
-  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Date</td>
-    <td align="center">2024-10-11</td>
-  </tr>
-  <tr>
-    <td align="center">Time</td>
-    <td align="center">10:00 PM</td>
-  </tr>
-  <tr>
-    <td align="center">Location</td>
-    <td align="center">Reunión virtual por Meet</td>
-  </tr>
-  <tr>
-    <td align="center">Prepared By</td>
-    <td align="center">Reyes Valenzuela, Renato German
-  </tr>
-  <tr>
-    <td align="center">Attendees (to planning meeting)</td>
-    <td align="center">Comettant Rubiños, Jessica Elizabeth<br>Reyes Valenzuela, Renato German<br>Cisneros Salas,Luis Angel<br>Góngora Sánchez,Marco Antonio<br>Rojas Ccama, Carlos Andres</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 3 - 2 – 1 Review Summary</td>
-    <td align="center">Se desplegó la Landing Page y se empezó la planificación del Front-End de la aplicación.</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 3 -2 – 1 Retrospective Summary</td>
-    <td align="center">Se propuso incorporar la opción de cambiar de idioma en la Landing Page y realizar ajustes menores en el front-end. Además, se inició el desarrollo del back-end de la aplicación en Java, priorizando los aspectos centrales del producto</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 3 Goal</td>
-    <td align="center">Se debe realizar correcciones para el front-end para facilitar la implementación del back-end. Además, se debe iniciar el desarrollo del back-end y asegurar que los endpoints correspondientes funcionen y sean visibles en Swagger.</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint n Velocity</td>
-    <td align="center">1 semana</td>
-  </tr>
-  <tr>
-    <td align="center">Sum of Story Points</td>
-    <td align="center">20</td>
-  </tr>
-</table><br>
-<div id='5.2.3.2.'><h5>5.2.3.2.Sprint Backlog 3</h5></div>
-
-<table>
-  <tr>
-    <td align="center"><strong>Sprint</td>
-    <td colspan="7" align="center"><strong>3</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>User Story</strong></td>
-    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>ID</strong></td>
-    <td align="center"><strong>Title</strong></td>
-    <td align="center"><strong>ID</strong></td>
-    <td align="center"><strong>Title</strong></td>
-    <td align="center"><strong>Description</strong></td>
-    <td align="center"><strong>Estimation (Hours)</strong></td>
-    <td align="center"><strong>Assigned To</strong></td>
-    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">TS01</td>
-    <td align="center">Añadir un perfil con el uso del RESTful API</td>
-    <td align="center">WI01</td>
-    <td align="center">Crear endpoint para la creacion de un perfil</td>
-    <td align="center">Implementación de un método POST para el ingreso de datos</td>
-    <td align="center">5</td>
-    <td align="center">-</td>
-    <td align="center">In process</td>
-  </tr>
-  <tr>
-    <td align="center">TS02</td>
-    <td align="center">Visualizar un perfil con el uso del RESTful API</td>
-    <td align="center">WI02</td>
-    <td align="center">Crear endpoint para la vizualizacion de un perfil</td>
-    <td align="center">Implementación de un método GET para la obtencion de datos</td>
-    <td align="center">4</td>
-    <td align="center">-</td>
-    <td align="center">In process</td>
-  </tr>
-  <tr>
-    <td align="center">TS03</td>
-    <td align="center">Añadir un ... con el uso del RESTful API</td>
-    <td align="center">WI03</td>
-    <td align="center">Crear endpoint para la creacion de un ....</td>
-    <td align="center">Implementación de un método POST para el ingreso de datos</td>
-    <td align="center">4</td>
-    <td align="center">-</td>
-    <td align="center">In process</td>
-  </tr>
-  <tr>
-    <td align="center">TS04</td>
-    <td align="center">Editar un ... con el uso del RESTful API</td>
-    <td align="center">WI04</td>
-    <td align="center">Crear endpoint para la edicion de un ...</td>
-    <td align="center">Implementación de un método PUT para el ingreso de datos</td>
-    <td align="center">4</td>
-    <td align="center">-</td>
-    <td align="center">In process</td>
-  </tr>
-  <tr>
-    <td align="center">TS05</td>
-    <td align="center">Eliminar un ... con el uso del RESTful API</td>
-    <td align="center">WI05</td>
-    <td align="center">Crear endpoint para la eliminacion de un ... </td>
-    <td align="center">Implementación de un método DELETE para el ingreso de datos</td>
-    <td align="center">4</td>
-    <td align="center">-</td>
-    <td align="center">In process</td>
-  </tr>
-  <tr>
-    <td align="center">TS06</td>
-    <td align="center">Añadir person con el uso del RESTful API</td>
-    <td align="center">WI01</td>
-    <td align="center">Crear endpoint para la creacion de un person</td>
-    <td align="center">Implementación de un método POST para el ingreso de datos</td>
-    <td align="center">5</td>
-    <td align="center">Carlos Rojas</td>
-    <td align="center">In process</td>
-  </tr>
-  <tr>
-    <td align="center">TS07</td>
-    <td align="center">Visualizar el endpoint person con el uso del RESTful API</td>
-    <td align="center">WI02</td>
-    <td align="center">Crear endpoint para la vizualizacion de un persona</td>
-    <td align="center">Implementación de un método GET para la obtencion de datos</td>
-    <td align="center">4</td>
-    <td align="center">Carlos Rojas</td>
-    <td align="center">In process</td>
-  </tr>
-  <tr>
-    <td align="center">TS05</td>
-    <td align="center">Eliminar una persona con el uso del RESTful API</td>
-    <td align="center">WI05</td>
-    <td align="center">Crear endpoint para la eliminacion de un persona </td>
-    <td align="center">Implementación de un método DELETE para el ingreso de datos</td>
-    <td align="center">4</td>
-    <td align="center">Carlos Rojas</td>
-    <td align="center">In process</td>
-  </tr>
-  <tr>
-    <td align="center">TS05</td>
-    <td align="center">Eliminar una persona con el uso del RESTful API</td>
-    <td align="center">WI05</td>
-    <td align="center">Crear endpoint para la eliminacion de un persona </td>
-    <td align="center">Implementación de un método DELETE para el ingreso de datos</td>
-    <td align="center">4</td>
-    <td align="center">Carlos Rojas</td>
-    <td align="center">In process</td>
-  </tr>
-  <tr>
-    <td align="center">TS02</td>
-    <td align="center">Eliminacion de una persona con el uso del RESTful API con el id</td>
-    <td align="center">WI02</td>
-    <td align="center">Eliminar endpoint para la vizualizacion de una persona</td>
-    <td align="center">Implementación de un método GET para la obtencion de datos</td>
-    <td align="center">4</td>
-    <td align="center">Carlos Rojas</td>
-    <td align="center">In process</td>
-  </tr>
-</table>
-     
-<div id='5.2.3.3.'><h5>5.2.3.3.Development Evidence for Sprint Review</h5></div>
-<table>
-  <tr>
-    <td align="center"><strong>Repository</strong></td>
-    <td align="center"><strong>Branch</strong></td>
-    <td align="center"><strong>Commit ID</strong></td>
-    <td align="center"><strong>Commit Message</strong></td>
-    <td align="center"><strong>Commit Message Body</strong></td>
-    <td align="center"><strong>Commited on (Date)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
-    <td align="center">feature/userContext</td>
-    <td align="center">8e3d170c49f229132cf1e73436a724e9255a6721</td>
-    <td align="center">feat(userContext): add bounded userContext</td>
-    <td align="center">add bounded userContext</td>
-  <td align="center">27/10/2024</td>
-  <tr>
-    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
-    <td align="center">feature/main</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">2/10/2024</td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
-    <td align="center">feature/main</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">30/10/2024</td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
-    <td align="center">feature/main</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">31/10/2024</td>
-</td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git</td>
-    <td align="center">feature/main</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">05/10/2024</td>
-  </tr>
-
-</table>
-
-<div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review</h5></div>
-Para este sprint se contempló la realización funcionalidades referente al testing de los endpoints de nuestra API, por lo que se mostrarra todos los endpoints
-
-Sin embargo, la comprobación de los endpoints se realizó mediante la herramienta de Swagger:
-<div id='5.2.3.5.'><h5>5.2.3.5.Execution Evidence for Sprint Review</h5></div>
-Para esta entrega se ha logrado implementar y desplegar la segunda version del Landing Page, se implemento el metodo el cambio de ingles a español y primera version del backend.
-
-- Landing Page
-
-
-- Backend
-
-<div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review</h5></div>
-En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente: https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git
-Se adjunta el enlace del back end desplegado: 
-
-||||
-| :- | :- | :- |
-|Entity|EndPoint URL|Swagger|
-|Person|/api/v1/Person|!![foto_person_](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e8696d2a627b9d146cacb479c03450aa2ab72911/assets/person.png)|
-|User Consult|//api/v1/user_consults|![user_conults](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/08b11fabfb0898f80d914458283e224007fcf399/assets/userconsult.png)|
-
-<div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review</h5></div>
-
-
-<div id='5.2.3.8.'><h5>5.2.3.8.Team Collaboration Insights during Sprint</h5></div>
-
-<div id='5.3'><h5>5.3. Validation Interviews</h5></div>
-Para englobar distintas áreas, mientras se esté proyectando o el mismo usuario esté probando la aplicación, se harán tanto generales, sobre navegación y user flow y experiencia.
-<div id='5.3.1'><h5>5.3.1. Diseño de Entrevistas</h5></div>
-<strong>Primera Impresión:</strong>
-<ul>
- <li>¿Cuál es tu primera impresión al ver esta landing page?</li>
- <li>¿Qué sientes que es el propósito de esta página/aplicación?</li>
- <li>¿Hay algo en la página que te llame especialmente la atención o te parezca fuera de lugar?</li>
-</ul>
-<strong>Preguntas sobre Navegación y User Flow:</strong>
-<ul>
- <li><strong>(Cuando el usuario intenta realizar una acción específica)</strong></li> 
- <li>¿Cómo fue tu experiencia al realizar esa tarea?</li>
- <li>¿Fue fácil o hubo algo que te complicó?</li>
- <li>¿Hubo algún momento en el que te sintieras perdido o no supieras qué hacer?</li>
-</ul>
-<strong>Preguntas sobre Claridad y Comprensión:</strong>
-<ul>
- <li>¿La información en la página te parece clara y fácil de entender?</li>
- <li>¿Hay algo que no entendiste o que consideras que debería explicarse mejor?</li>
-</ul>
-<strong>Interacción y Experiencia de Usuario:</strong>
-<ul>
- <li><strong>(Cuando el usuario intenta realizar una acción específica con algún elemento de la página)</strong></li> 
- <li>Cuando interactuaste con este elemento, ¿la respuesta de la aplicación fue la que esperabas?</li>
-</ul>
-<strong>Evaluación General:</strong>
-<ul>
- <li>Del 1 al 10, ¿cómo calificarías tu experiencia usando la landing page y la aplicación?</li>
- <li>¿Qué es lo que más te gustó y lo que menos te gustó de la aplicación?</li>
- <li>¿Hay algo que cambiarías o agregarías para que tu experiencia fuera mejor?</li>
-</ul>
-
-<div id='5.3.1'><h5>5.3.2. Registro de Entrevistas</h5></div>
-
-<div id='5.3.2'><h5>6.1 Conclusiones y recomendaciones.</h5></div>
-
-<div id='5.3.3'><h5>5.3.3. Evaluaciones según heurísticas</h5></div>
-
-<div id='5.4'><h5>5.4. Video About-the-Product</h5></div>
-
-**Conclusiones**
-
-**Bibliografia**
-
-**Anexos**  
-
-
-Repositorio del Frontend: https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd
-
-Repositorio de la Landing Page:https://github.com/Upecinos-AI-OpenSource/Saifu-LandingPage
-
-Repositorio del Informe:https://github.com/Upecinos-AI-OpenSource/Saifu-project-report 
-
-Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRAMES%7CMOCKUPS----SAIFU?node-id=266-8838&t=CAUoERl93g5WrZ3d-1  
+Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRA
 
