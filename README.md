@@ -2064,6 +2064,8 @@ En el primer sprint backlog, el equipo tuvo la intención de comenzar y completa
           </tr>
       </tbody>
   </table>
+  
+### Evidencia Deployment:
 
 ![Trello Sprint 1](assets/trello-upecionosAi.JPG)
 
@@ -2089,6 +2091,9 @@ Link del Trello: https://trello.com/invite/b/66db1e3982afd3f358db5117/ATTI1911fa
 |https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | dd854ac9f68067adb16904fcbe1d205c8fbe4422 | Update Content Diagrams |
 |https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 1fdc819e3d64f9c5cc2986e06b699f19bf052886 | Merge branch 'main' of https://github.com/Upecinos-AI-OpenSource/Saifu-project-report |
 |https://github.com/Upecinos-AI-OpenSource/Saifu-project-report | 1aa470c5709a52b7b2a6291dce88a203b39fdc40 | Merge pull request #2 from AppWeb-Grupo3/patch-1 |
+
+![Deployment Backend Evidence](assets/DeploymentEvidenceBackend.JPG)
+
 
 <div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div>
 
