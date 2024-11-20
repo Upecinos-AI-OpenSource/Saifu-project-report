@@ -2754,7 +2754,8 @@ Se adjunta el enlace del back end desplegado:
   </tr>
 </table><br>
 
-<div id='5.2.4.2.'><h5>5.2.4.2. Sprint Backlog 4</h5></div>
+#### Sprint Backlog 4
+
 <table>
   <tr>
     <td align="center"><strong>Sprint</td>
@@ -2775,18 +2776,60 @@ Se adjunta el enlace del back end desplegado:
     <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
   </tr>
   <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">WI01</td>
+    <td align="center">TS01</td>
+    <td align="center">WI01</td>
+    <td align="center">Conectar el Frontend con el Backend</td>
+    <td align="center">	Conectar el Frontend con el Backend</td>
+    <td align="center">6</td>
+    <td align="center">Jessica Comettant, Renato German Reyes Valenzuela,Luis Angel Cisneros Salas, Marco Antonio Góngora Sanchez, Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">WI02</td>
+    <td align="center">TS02</td>
+    <td align="center">WI02</td>
+    <td align="center">Relizar los testeos</td>
+    <td align="center">Relizar el conjunto de testing a nuestro proyecto para asegurar la calidad del software</td>
+    <td align="center">3</td>
+    <td align="center">Jessica Comettant, Renato German Reyes Valenzuela,Luis Angel Cisneros Salas, Marco Antonio Góngora Sanchez, Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">WI03</td>
+    <td align="center">TS03</td>
+    <td align="center">WI03</td>
+    <td align="center">Correcciones al Backend</td>
+    <td align="center">Correcciones al Backend</td>
+    <td align="center">3</td>
+    <td align="center">Jessica Comettant, Renato German Reyes Valenzuela,Luis Angel Cisneros Salas, Marco Antonio Góngora Sanchez, Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">WI04</td>
+    <td align="center">TS04</td>
+    <td align="center">WI04</td>
+    <td align="center">Controllers principales terminados</td>
+    <td align="center">Controllers principales terminados</td>
+    <td align="center">4</td>
+    <td align="center">Jessica Comettant, Renato German Reyes Valenzuela,Luis Angel Cisneros Salas, Marco Antonio Góngora Sanchez, Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">WI05</td>
+    <td align="center">TS05</td>
+    <td align="center">WI05</td>
+    <td align="center">Security</td>
+    <td align="center">Security</td>
+    <td align="center">4</td>
+    <td align="center">Jessica Comettant, Renato German Reyes Valenzuela,Luis Angel Cisneros Salas, Marco Antonio Góngora Sanchez, Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
   </tr>
 </table>
 
-<div id='5.2.4.3.'><h5>5.2.4.3. Development Evidence for Sprint Review</h5></div>
+
+#### Development Evidence for Sprint 4 Review
+
 <table>
   <tr>
     <td align="center"><strong>Repository</strong></td>
@@ -2797,22 +2840,126 @@ Se adjunta el enlace del back end desplegado:
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center"></td>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd</td>
+    <td align="center">feature/finantialData</td>
+    <td align="center">e0087d3f8ee5c49500706b2f8879a89c8165b9eb</td>
+    <td align="center">feat: added description in data</td>
+    <td align="center">feat: added description in data</td>
+    <td align="center">30/11/2024</td>
   </tr>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd</td>
+    <td align="center">feature/finantialEducation  </td>
+    <td align="center">520177f55b86249cd28f65997fc2a82c71b7b8e6</td>
+    <td align="center">feat: added finantial education</td>
+    <td align="center">feat: added finantial education</td>
+  <td align="center">02/11/2024</td>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd</td>
+    <td align="center">feature/iam</td>
+    <td align="center">77668ab7cecba8cfa78e07be38a584901001105f</td>
+    <td align="center">feat: added bounded context iam</td>
+    <td align="center">feat: added bounded context iam</td>
+  <td align="center">19/11/2024</td>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd</td>
+    <td align="center">feature/inflationReport</td>
+    <td align="center">96125430a0c7f54aa16d4a31a4f75c5b79f7c87d</td>
+    <td align="center">feat:add InflationReport</td>
+    <td align="center">feat:add InflationReport</td>
+    <td align="center">08/11/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd</td>
+    <td align="center">feature/profile  </td>
+    <td align="center">a72f1b0a0d012c7c2c4643f2cdd479f6d2bcbbc5</td>
+    <td align="center">feat(profile): add bounded profile</td>
+    <td align="center">feat(profile): add bounded profile</td>
+  <td align="center">02/11/2024</td>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd</td>
+    <td align="center">feature/userContext</td>
+    <td align="center">deee47d0bf55a0dcb29726c9d57a920e752a8cda</td>
+    <td align="center">feat:added bounded context user Context</td>
+    <td align="center">feat:added bounded context user Context</td>
+  <td align="center">05/11/2024</td>
+  <tr>
+    <td align="center">https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd</td>
+    <td align="center">feature/userInflation</td>
+    <td align="center">4e821a76ee72245de325817b644998c5657b5cf2</td>
+    <td align="center">feat:added bounded context user inflation</td>
+    <td align="center">feat:added bounded context user inflation</td>
+  <td align="center">09/11/2024</td>
+  
 </table>
+
 
 <div id='5.2.4.4.'><h5>5.2.4.4. Testing Suite Evidence for Sprint Review</h5></div>
 
 <div id='5.2.4.5.'><h5>5.2.4.5. Execution Evidence for Sprint Review</h5></div>
 
+- Durante el Sprint Review, se evalúan las evidencias de ejecución para verificar que todas las funcionalidades planificadas y las tareas del sprint se hayan completado conforme a los criterios establecidos. En este caso, tanto el frontend como el backend han sido desplegados, con sus correspondientes endpoints y funcionalidades listos para su uso. Por lo tanto, se registrarán como Execution Evidence.
+
+Execution Evidence Backend
+
+||||
+| :- | :- | :- |
+|Entity|EndPoint URL|Swagger|
+|Person|/api/v1/Person|!![foto_person](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e8696d2a627b9d146cacb479c03450aa2ab72911/assets/person.png)|
+|User Consult|/api/v1/user_consults|![user_conults](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/08b11fabfb0898f80d914458283e224007fcf399/assets/userconsult.png)|
+|Users|/api/v1/users|![users](assets/Users.png)|
+|Families|/api/v1/families|![families](assets/Families.png)|
+|Plans|/api/v1/plans|![plans](assets/Plans.png)|
+|Inflation Report|/api/reports|![reports](assets/Inflation_Report.png)|
+|Finantial Education|/api/finantial-education|![Education](assets/Finatial_Education.png)|
+|Finantial Data|/api/finantial-data|![data](assets/Finatial_Data.png)|
+|User Inflation|/api/users/{userId}/reports/{reportId}|![inflation](assets/User_Inflation.png)|
+|Consulta Asesoria|/api/v1/consultas-asesoria|![asesoria](assets/Consulta_Asesoria.png)|
+|Roles|/api/v1/roles|![roles](aassets/role.png)|
+|Authentication|/api/v1/authentication/sign-up  /api/v1/authentication/sign-in|![auth](assets/authentication.png)|
+
+Execution Evidence Frontend
+Login
+
+![login](assets/login.png)
+
+Registro
+
+![registro](assets/registro.png)
+
+Registro  de datos
+
+![registro](assets/registro_datos.png)
+
+Registro de transacciones
+
+![registro](assets/registro_transacciones.png)
+
+Servicio al cliente 
+
+![registro](assets/servicio_cliente.png)
+
+Suscripcion
+
+![registro](assets/suscripcion.png)
+
+Notificaciones
+![registro](assets/notificaciones.png)
+
+Perfiles
+
+![registro](assets/perfiles.png)
+
+
 <div id='5.2.4.6.'><h5>5.2.4.6. Services Documentation Evidence for Sprint Review</h5></div>
 
 <div id='5.2.4.7.'><h5>5.2.4.7. Software Deployment Evidence for Sprint Review</h5></div>
+
+- Despliegue exitoso del backend del proyecto
+
+Esta es la primera versión presentada durante el Sprint Review, donde se ha validado el funcionamiento de las funcionalidades implementadas hasta la fecha.
+
+Primera version del sprint review del backend desplegado, Link del backend: http://172.211.129.172:8080/swagger-ui/index.html#/ 
 
 <div id='5.2.4.8.'><h5>5.2.4.8. Team Collaboration Insights during Sprint</h5></div>
 
