@@ -2739,7 +2739,7 @@ Se adjunta el enlace del back end desplegado:
   </tr>
   <tr>
     <td align="center">Sprint n Velocity</td>
-    <td align="center">2 semana</td>
+    <td align="center">2 semanas</td>
   </tr>
   <tr>
     <td align="center">Sum of Story Points</td>
