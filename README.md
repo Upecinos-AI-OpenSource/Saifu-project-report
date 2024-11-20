@@ -2724,26 +2724,26 @@ Se adjunta el enlace del back end desplegado:
   </tr>
   <tr>
     <td align="center">Sprint 4 - 3 - 2 – 1 Review Summary</td>
-    <td align="center"></td>
+    <td align="center">Aunque el desarrollo avanzó según lo esperado, algunos endpoints de autenticación tuvieron pequeños retrasos</td>
   </tr>
   <tr>
     <td align="center">Sprint 4 - 3 - 2 – 1 Retrospective Summary</td>
-    <td align="center"></td>
+    <td align="center">Mejorar la documentación de las APIs antes de cada sprint y establecer criterios más claros para las pruebas de validación de datos</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
   </tr>
   <tr>
     <td align="center">Sprint 4 Goal</td>
-    <td align="center"></td>
+    <td align="center">Se debe realizar correcciones Backend, conectar el backend con el Fronted, implementar temas de seguridad y testeos.</td>
   </tr>
   <tr>
     <td align="center">Sprint n Velocity</td>
-    <td align="center">0 semana</td>
+    <td align="center">2 semana</td>
   </tr>
   <tr>
     <td align="center">Sum of Story Points</td>
-    <td align="center">00</td>
+    <td align="center">5</td>
   </tr>
 </table><br>
 
@@ -3573,6 +3573,11 @@ El problema identificado se refiere a la incapacidad de modificar o eliminar la 
 
 <div id='6.'><h5>6. Conclusiones.</h5></div>
 <div id='6.1.'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
+
+- En conclusion, La plataforma proporciona un conjunto completo de endpoints que permiten a los usuarios gestionar de manera eficiente sus finanzas, tanto a nivel personal como familiar. Desde el registro de ingresos y egresos hasta la creación de planes financieros
+
+- Tambien, los usuarios tendran acceso a materiales que les permiten mejorar sus conocimientos sobre finanzas, optimizar sus presupuestos y alcanzar sus metas de ahorro. 
+
 - En conclusion, se han implementado mejoras significativas en la experiencia del usuario, como la creación de la página de perfil y la inclusión de componentes de toolbar. Estas adiciones no solo enriquecen la interfaz, sino que también facilitan la navegación y la interacción de los usuarios con la aplicación.
 
 - La adición del componente de inicio de sesión y su actualización refuerzan la seguridad y la usabilidad de la aplicación. Estas mejoras son cruciales para fomentar la confianza del usuario y garantizar una experiencia fluida desde el primer acceso a la aplicación.
@@ -3582,6 +3587,10 @@ El problema identificado se refiere a la incapacidad de modificar o eliminar la 
 <div id='6.2.'><h5> 6.2. Video About-the-Team</h5></div>
 
 <div id='7.'><h5>7. Bibliografía.</h5></div>
+
+- Ultimas Noticias (20204). Educación financiera para jóvenes adultos: consejos prácticos. Recuperado de: https://www.elespectador.com/contenido-patrocinado/educacion-financiera-para-jovenes-adultos-consejos-practicos/ 
+
+- El Comercio. (2024). Ahorro inteligente: Educación financiera como aliado para hacer crecer tu dinero. Recuperado de: https://elcomercio.pe/publirreportaje/caja-cusco/ahorro-inteligente-educacion-financiera-como-aliado-para-hacer-crecer-tu-dinero-noticia/
 
 <div id='8.'><h5>8. Anexos.</h5></div>
 
