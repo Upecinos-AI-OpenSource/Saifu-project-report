@@ -2915,7 +2915,7 @@ Execution Evidence Backend
 |Finantial Data|/api/finantial-data|![data](assets/Finatial_Data.png)|
 |User Inflation|/api/users/{userId}/reports/{reportId}|![inflation](assets/User_Inflation.png)|
 |Consulta Asesoria|/api/v1/consultas-asesoria|![asesoria](assets/Consulta_Asesoria.png)|
-|Roles|/api/v1/roles|![roles](aassets/role.png)|
+|Roles|/api/v1/roles|![roles](assets/role.png)|
 |Authentication|/api/v1/authentication/sign-up  /api/v1/authentication/sign-in|![auth](assets/authentication.png)|
 
 Execution Evidence Frontend
