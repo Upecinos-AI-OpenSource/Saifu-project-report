@@ -2896,6 +2896,22 @@ Se adjunta el enlace del back end desplegado:
 
 <div id='5.2.4.4.'><h5>5.2.4.4. Testing Suite Evidence for Sprint Review</h5></div>
 
+- A continuación, se presenta una breve descripción de los endpoints que forman parte de la plataforma financiera, que permiten a los usuarios gestionar sus datos, acceder a reportes y realizar configuraciones relacionadas con su economía personal y familiar.
+
+**Acceptance Tests - Test en el gherkin del backend**
+
+
+|Endpoints|Test Gherkin del Backend|
+| :- | :- |
+|<p>![image](assets/authentication.png)</p><p>![image](assets/role.png)</p><p>![image](assets/Users.png)</p>|![image](assets/auth\_gherkin.png)|
+|![image](assets/Finatial\_Data.png)|![image](assets/financial-data\_gherkin.png)|
+|![image](assets/Plans.png)|![image](assets/plans\_gherkin.png)|
+|![image](assets/Inflation\_Report.png)|![image](assets/reporte\_inflacion\_gherkin.png)|
+|![image](assets/userconsult.png)|![image](assets/user\_consults\_gherkin.png)|
+|![image](assets/User\_Inflation.png)|![image](assets/user\_inflation\_gherkin.png)|
+|![image](assets/Families.png)|![image](assets/families\_gherkin.png)|
+|![image](assets/Finatial\_Education.png)|![image](assets/finantial-education\_\_gherkin.png)|
+
 <div id='5.2.4.5.'><h5>5.2.4.5. Execution Evidence for Sprint Review</h5></div>
 
 - Durante el Sprint Review, se evalúan las evidencias de ejecución para verificar que todas las funcionalidades planificadas y las tareas del sprint se hayan completado conforme a los criterios establecidos. En este caso, tanto el frontend como el backend han sido desplegados, con sus correspondientes endpoints y funcionalidades listos para su uso. Por lo tanto, se registrarán como Execution Evidence.
