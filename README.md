@@ -2979,6 +2979,26 @@ Primera version del sprint review del backend desplegado, Link del backend: http
 
 <div id='5.2.4.8.'><h5>5.2.4.8. Team Collaboration Insights during Sprint</h5></div>
 
+- Para este sprint se mejoraron las vistas en todas las pestañas del front-end, backe-end y el informe. A continuación se presentará los insights del grupo.
+
+Enlace del repositorio: https://github.com/Upecinos-AI-OpenSource/Saifu-project-report
+
+![image](assets/insight.png)
+
+![image](assets/insight_backend2.png)
+
+![image](assets/insight2.png)
+
+
+Enlace del repositorio: https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd
+
+![image](assets/insight_backend2.png)
+
+
+![image](assets/insight_backend.png)
+
+Enlace del repositorio: https://github.com/ConstruTech-UPC/BuildSphere-front-end 
+
 <div id='5.3.'><h5>5.3. Validation Interviews</h5></div>
 Para englobar distintas áreas, mientras se esté proyectando o el mismo usuario esté probando la aplicación, se harán tanto generales, sobre navegación y user flow y experiencia.
 <div id='5.3.1.'><h5>5.3.1. Diseño de Entrevistas</h5></div>
@@ -3572,11 +3592,13 @@ El problema identificado se refiere a la incapacidad de modificar o eliminar la 
 
 <div id='8.'><h5>8. Anexos.</h5></div>
 
+Repositorio del Backend: https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd
+
 Repositorio del Frontend: https://github.com/Upecinos-AI-OpenSource/Saifu-FrontEnd
 
-Repositorio de la Landing Page:https://github.com/Upecinos-AI-OpenSource/Saifu-LandingPage
+Repositorio de la Landing Page: https://github.com/Upecinos-AI-OpenSource/Saifu-LandingPage
 
-Repositorio del Informe:https://github.com/Upecinos-AI-OpenSource/Saifu-project-report 
+Repositorio del Informe: https://github.com/Upecinos-AI-OpenSource/Saifu-project-report 
 
 Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRA
 
