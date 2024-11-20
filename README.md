@@ -3582,15 +3582,19 @@ Enlace del video subido a Stream:
 <div id='6.'><h5>6. Conclusiones.</h5></div>
 <div id='6.1.'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
 
-- En conclusion, La plataforma proporciona un conjunto completo de endpoints que permiten a los usuarios gestionar de manera eficiente sus finanzas, tanto a nivel personal como familiar. Desde el registro de ingresos y egresos hasta la creación de planes financieros
+1. **El proyecto Saifu aborda un problema crítico en Perú** al enfocarse en mejorar la educación financiera y promover una gestión responsable de los recursos económicos entre los sectores más vulnerables.
 
-- Tambien, los usuarios tendran acceso a materiales que les permiten mejorar sus conocimientos sobre finanzas, optimizar sus presupuestos y alcanzar sus metas de ahorro. 
+2. **La segmentación del mercado fue precisa y efectiva**, identificando a los jefes de hogar de los niveles económicos D y E, así como a los jóvenes adultos, como los principales usuarios de la plataforma.
 
-- En conclusion, se han implementado mejoras significativas en la experiencia del usuario, como la creación de la página de perfil y la inclusión de componentes de toolbar. Estas adiciones no solo enriquecen la interfaz, sino que también facilitan la navegación y la interacción de los usuarios con la aplicación.
+3. **La integración tecnológica del proyecto es innovadora**, incluyendo herramientas como el registro de ingresos y egresos, proyecciones macroeconómicas y análisis financiero, que diferencian a Saifu de otras soluciones existentes.
 
-- La adición del componente de inicio de sesión y su actualización refuerzan la seguridad y la usabilidad de la aplicación. Estas mejoras son cruciales para fomentar la confianza del usuario y garantizar una experiencia fluida desde el primer acceso a la aplicación.
+4. **El equipo demostró un uso eficiente de metodologías ágiles**, como GitFlow, para estructurar el desarrollo del proyecto y garantizar la colaboración efectiva entre los integrantes.
 
-- La realización de múltiples merges de pull requests indica un fuerte enfoque en la colaboración y la integración continua entre los miembros del equipo.
+5. **La plataforma tiene el potencial de generar un impacto social positivo**, al fomentar el hábito del ahorro, reducir el endeudamiento y promover la estabilidad económica en las familias peruanas.
+
+6. **Existen desafíos importantes en la implementación**, como la resistencia a adoptar nuevas tecnologías y la falta de interés inicial en la educación financiera, que requieren estrategias adicionales para ser superados.
+
+7. **El proyecto se alinea con los objetivos de desarrollo sostenible**, contribuyendo a la mejora de la calidad de vida, el bienestar económico y la reducción de la pobreza en los sectores más necesitados.
 
 <div id='6.2.'><h5> 6.2. Video About-the-Team</h5></div>
 A continuación, se presenta el video About the team, donde se presenta el aporte y cualidades de los integrantes del equipo de desarrollo:
