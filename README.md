@@ -1867,6 +1867,86 @@ JavaScript:Se hizo uso de JavaScript, concretamente TypeScript, para dotar de in
 
 GitHub:Se decidió alojar el repositorio del landing page en GitHub, una plataforma de desarrollo colaborativo basada en Git. GitHub ofrece una serie de ventajas significativas, como la capacidad de colaborar de manera efectiva en equipo.
 
+# Documentación de Endpoints
+
+## Roles
+| **Endpoint**         | **Acción HTTP** | **Descripción**                       |
+|-----------------------|-----------------|---------------------------------------|
+| `/ap/v1/roles`       | GET             | Recuperar todos los roles disponibles.|
+
+## Personas
+| **Endpoint**                  | **Acción HTTP** | **Descripción**                          |
+|-------------------------------|-----------------|------------------------------------------|
+| `/api/v1/persons`             | GET             | Obtener todas las personas.              |
+| `/api/v1/persons`             | POST            | Crear una nueva persona.                 |
+| `/api/v1/persons/{personId}`  | GET             | Obtener los datos de una persona específica.|
+
+## Autenticación
+| **Endpoint**                      | **Acción HTTP** | **Descripción**                     |
+|-----------------------------------|-----------------|-------------------------------------|
+| `/api/v1/authentication/sign-up` | POST            | Registro de nuevos usuarios.        |
+| `/api/v1/authentication/sign-in` | POST            | Inicio de sesión.                   |
+
+## Consultas de Usuarios
+| **Endpoint**                                    | **Acción HTTP** | **Descripción**                         |
+|------------------------------------------------|-----------------|-----------------------------------------|
+| `/api/v1/user_consults`                        | GET             | Lista todas las consultas de usuarios.  |
+| `/api/v1/user_consults`                        | POST            | Crear una nueva consulta.               |
+| `/api/v1/user_consults/{userId}/{consultId}`   | GET             | Obtener una consulta específica.        |
+| `/api/v1/user_consults/{userId}/{consultId}`   | DELETE          | Eliminar una consulta específica.       |
+
+## Usuarios
+| **Endpoint**              | **Acción HTTP** | **Descripción**              |
+|---------------------------|-----------------|------------------------------|
+| `/api/v1/users`           | GET             | Obtener todos los usuarios.  |
+| `/api/v1/users/{userId}`  | GET             | Obtener un usuario por su ID.|
+
+## Reportes de Inflación
+| **Endpoint**             | **Acción HTTP** | **Descripción**                    |
+|--------------------------|-----------------|------------------------------------|
+| `/api/reports/{id}`      | GET             | Obtener un reporte por ID.         |
+| `/api/reports/{id}`      | PUT             | Actualizar un reporte por ID.      |
+| `/api/reports/{id}`      | DELETE          | Eliminar un reporte por ID.        |
+| `/api/reports`           | GET             | Obtener todos los reportes.        |
+| `/api/reports`           | POST            | Crear un nuevo reporte.            |
+
+## Educación Financiera
+| **Endpoint**                        | **Acción HTTP** | **Descripción**                    |
+|-------------------------------------|-----------------|------------------------------------|
+| `/api/finantial-education/{id}`     | GET             | Obtener un recurso por ID.         |
+| `/api/finantial-education/{id}`     | PUT             | Actualizar un recurso por ID.      |
+| `/api/finantial-education/{id}`     | DELETE          | Eliminar un recurso por ID.        |
+| `/api/finantial-education`          | GET             | Obtener todos los recursos.        |
+| `/api/finantial-education`          | POST            | Crear un nuevo recurso.            |
+
+## Datos Financieros
+| **Endpoint**                 | **Acción HTTP** | **Descripción**                    |
+|------------------------------|-----------------|------------------------------------|
+| `/api/finantial-data/{id}`   | GET             | Obtener datos por ID.              |
+| `/api/finantial-data/{id}`   | PUT             | Actualizar datos por ID.           |
+| `/api/finantial-data/{id}`   | DELETE          | Eliminar datos por ID.             |
+| `/api/finantial-data`        | GET             | Obtener todos los datos.           |
+| `/api/finantial-data`        | POST            | Crear nuevos datos.                |
+
+## Transacciones de Usuarios
+| **Endpoint**                                  | **Acción HTTP** | **Descripción**                         |
+|-----------------------------------------------|-----------------|-----------------------------------------|
+| `/api/v1/user-transactions`                   | POST            | Crear una nueva transacción.            |
+| `/api/v1/user-transactions/{userId}`          | GET             | Obtener transacciones por ID de usuario.|
+
+## Relación Usuario-Reporte de Inflación
+| **Endpoint**                                    | **Acción HTTP** | **Descripción**                         |
+|-------------------------------------------------|-----------------|-----------------------------------------|
+| `/api/users/{userId}/reports/{reportId}`       | POST            | Relacionar un usuario con un reporte.   |
+| `/api/users/{userId}/reports/{reportId}`       | DELETE          | Eliminar relación usuario-reporte.      |
+
+## Consultas y Asesorías
+| **Endpoint**                  | **Acción HTTP** | **Descripción**                     |
+|-------------------------------|-----------------|-------------------------------------|
+| `/api/v1/consultas-asesoria`  | GET             | Obtener todas las consultas.        |
+| `/api/v1/consultas-asesoria/{id}` | GET         | Obtener una consulta específica.    |
+
+
 <div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
 
 Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. Teniendo ciertos errores y bugs que seran solucionados en posteriores entregas.
