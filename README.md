@@ -701,13 +701,6 @@ ___
 |Distrito|San Juan de Miraflores|
 |Screenshot|![](assets/Entrevista_2-S2.jpg)|
 |Timing: 0:00-4:38 |URL:https://drive.google.com/file/d/1y22qqGlsQCkAOAjaprv_jddntPExWOcj/view?usp=sharing
-|Entevistado 3|Viviana Caballero|
-|-|-|
-|Edad|30 años|
-|Distrito|Lince|
-|Screenshot|![](assets/entrevista_jovenes.png)|
-|Timing: 0:00-4:38 |URL:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114657_upc_edu_pe/EdUtJn-OdNlIm5OA_JadsTkBEclGSraLWXgEfc3SuQ_9WQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aILG0x
-<div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas.</h4></div>
 
 ##### Análisis del segmento jefes de hogar de los sectores económicos D y E
 
