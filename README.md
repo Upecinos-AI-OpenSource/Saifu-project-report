@@ -3571,6 +3571,14 @@ El problema identificado se refiere a la incapacidad de modificar o eliminar la 
 
 <div id='5.4.'><h5>5.4. Video About-the-Product</h5></div>
 
+A continuación, se presenta el video About the product, el cual evidencia el propósito, beneficios y principales características de la aplicación, adicionalmente, incluye testimonios de parte de los principales usuarios donde se valida la calidad del software elaborado.
+
+Enlace para visualizar el video About the product:
+
+Enlace del video subido a YouTube: 
+
+Enlace del video subido a Stream:
+
 <div id='6.'><h5>6. Conclusiones.</h5></div>
 <div id='6.1.'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
 
@@ -3585,6 +3593,13 @@ El problema identificado se refiere a la incapacidad de modificar o eliminar la 
 - La realización de múltiples merges de pull requests indica un fuerte enfoque en la colaboración y la integración continua entre los miembros del equipo.
 
 <div id='6.2.'><h5> 6.2. Video About-the-Team</h5></div>
+A continuación, se presenta el video About the team, donde se presenta el aporte y cualidades de los integrantes del equipo de desarrollo:
+
+Enlace para visualizar el video About the team:
+
+Enlace del video subido a YouTube: 
+
+Enlace del video subido a Stream:
 
 <div id='7.'><h5>7. Bibliografía.</h5></div>
 
