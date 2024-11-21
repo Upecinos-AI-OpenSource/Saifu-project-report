@@ -3145,6 +3145,17 @@ A continuación, se muestra la documentación exhaustiva de los servicios y endp
 | `/api/v1/consultas-asesoria`              | GET             | Obtener todas las consultas.                    |
 | `/api/v1/consultas-asesoria/{id}`         | GET             | Obtener una consulta específica.                |
 
+### Web Services
+![image (1)](https://github.com/user-attachments/assets/20479866-2751-48c7-8720-2889ffa305ad)
+![image (2)](https://github.com/user-attachments/assets/e1a0abbd-242a-4cad-b380-07aefa383573)
+![image (9)](https://github.com/user-attachments/assets/80fe8994-f503-4643-bbf8-608ec37f3fdf)
+![image (10)](https://github.com/user-attachments/assets/363cb2e4-166a-4fdb-bc91-2cf2a981b466)
+![image (3)](https://github.com/user-attachments/assets/e4ca9a05-56ed-442f-911c-be69f4dc2234)
+![image (4)](https://github.com/user-attachments/assets/849933f6-aee1-48fe-8727-23d9e3cf8d65)
+![image (5)](https://github.com/user-attachments/assets/c1b90ba8-9f53-45c2-9b63-e207c45e87e8)
+![image (6)](https://github.com/user-attachments/assets/f37d80ee-52bc-42f6-afa2-5a9e4d5ebe32)
+![image (7)](https://github.com/user-attachments/assets/c8297871-2a27-4b00-937b-3ff04f0a30dd)
+![image (8)](https://github.com/user-attachments/assets/98a87ee5-ff1e-4f40-a352-5c8ea60d2dc5)
 
 <div id='5.2.4.7.'><h5>5.2.4.7. Software Deployment Evidence for Sprint Review</h5></div>
 
