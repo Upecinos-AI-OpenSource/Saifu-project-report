@@ -3159,11 +3159,30 @@ A continuación, se muestra la documentación exhaustiva de los servicios y endp
 
 <div id='5.2.4.7.'><h5>5.2.4.7. Software Deployment Evidence for Sprint Review</h5></div>
 
-- Despliegue exitoso del backend del proyecto
+Para la entrega del cuarto sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa. Asimismo, se desplego el back-end totalmente concluido.
 
-Esta es la primera versión presentada durante el Sprint Review, donde se ha validado el funcionamiento de las funcionalidades implementadas hasta la fecha.
+Landing page:
 
-Primera version del sprint review del backend desplegado, Link del backend: http://172.211.129.172:8080/swagger-ui/index.html#/ 
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+Enlace de despliegue del landing page: https://upecinos-ai-opensource.github.io/Saifu-LandingPage/index.html
+
+![landing](https://github.com/user-attachments/assets/59f87f4e-9139-4e18-9318-9cb1583c5fcb)
+
+ 
+Web Application front-end:
+
+Al netlify estar conectado a github, al realizar un merge en la rama principal ("master") netlify detecta los cambios y realiza un nuevo deploy con los cambios.
+
+Enlace de despliegue: http://48.209.16.151 
+
+Web Services back-end:
+
+Enlace de despligue del web service: http://172.211.129.172:8080/swagger-ui/index.html#/ 
+
+![backend](https://github.com/user-attachments/assets/5d5e7e9f-eb15-4fb5-b9cd-ba016e99e479)
+![backend01](https://github.com/user-attachments/assets/224362b3-4aad-4b27-928a-5014f3e64cc3)
+
 
 <div id='5.2.4.8.'><h5>5.2.4.8. Team Collaboration Insights during Sprint</h5></div>
 
