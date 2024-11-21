@@ -2683,10 +2683,93 @@ Se adjunta el enlace del back end desplegado:
 |User Consult|//api/v1/user_consults|![user_conults](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/08b11fabfb0898f80d914458283e224007fcf399/assets/userconsult.png)|
 
 <div id='5.2.3.7.'><h5>5.2.3.7. Software Deployment Evidence for Sprint Review</h5></div>
+# Documentación de Endpoints
 
+## Roles
+| **Endpoint**         | **Acción HTTP** | **Descripción**                       |
+|-----------------------|-----------------|---------------------------------------|
+| `/ap/v1/roles`       | GET             | Recuperar todos los roles disponibles.|
+
+## Personas
+| **Endpoint**                  | **Acción HTTP** | **Descripción**                          |
+|-------------------------------|-----------------|------------------------------------------|
+| `/api/v1/persons`             | GET             | Obtener todas las personas.              |
+| `/api/v1/persons`             | POST            | Crear una nueva persona.                 |
+| `/api/v1/persons/{personId}`  | GET             | Obtener los datos de una persona específica.|
+
+
+## Consultas de Usuarios
+| **Endpoint**                                    | **Acción HTTP** | **Descripción**                         |
+|------------------------------------------------|-----------------|-----------------------------------------|
+| `/api/v1/user_consults`                        | GET             | Lista todas las consultas de usuarios.  |
+| `/api/v1/user_consults`                        | POST            | Crear una nueva consulta.               |
+| `/api/v1/user_consults/{userId}/{consultId}`   | GET             | Obtener una consulta específica.        |
+| `/api/v1/user_consults/{userId}/{consultId}`   | DELETE          | Eliminar una consulta específica.       |
+
+## Usuarios
+| **Endpoint**              | **Acción HTTP** | **Descripción**              |
+|---------------------------|-----------------|------------------------------|
+| `/api/v1/users`           | GET             | Obtener todos los usuarios.  |
+| `/api/v1/users/{userId}`  | GET             | Obtener un usuario por su ID.|
+
+
+## Reportes de Inflación
+| **Endpoint**             | **Acción HTTP** | **Descripción**                    |
+|--------------------------|-----------------|------------------------------------|
+| `/api/reports/{id}`      | GET             | Obtener un reporte por ID.         |
+| `/api/reports/{id}`      | PUT             | Actualizar un reporte por ID.      |
+| `/api/reports/{id}`      | DELETE          | Eliminar un reporte por ID.        |
+| `/api/reports`           | GET             | Obtener todos los reportes.        |
+| `/api/reports`           | POST            | Crear un nuevo reporte.            |
+
+## Educación Financiera
+| **Endpoint**                        | **Acción HTTP** | **Descripción**                    |
+|-------------------------------------|-----------------|------------------------------------|
+| `/api/finantial-education/{id}`     | GET             | Obtener un recurso por ID.         |
+| `/api/finantial-education/{id}`     | PUT             | Actualizar un recurso por ID.      |
+| `/api/finantial-education/{id}`     | DELETE          | Eliminar un recurso por ID.        |
+| `/api/finantial-education`          | GET             | Obtener todos los recursos.        |
+| `/api/finantial-education`          | POST            | Crear un nuevo recurso.            |
+
+## Datos Financieros
+| **Endpoint**                 | **Acción HTTP** | **Descripción**                    |
+|------------------------------|-----------------|------------------------------------|
+| `/api/finantial-data/{id}`   | GET             | Obtener datos por ID.              |
+| `/api/finantial-data/{id}`   | PUT             | Actualizar datos por ID.           |
+| `/api/finantial-data/{id}`   | DELETE          | Eliminar datos por ID.             |
+| `/api/finantial-data`        | GET             | Obtener todos los datos.           |
+| `/api/finantial-data`        | POST            | Crear nuevos datos.                |
+
+## Transacciones de Usuarios
+| **Endpoint**                                  | **Acción HTTP** | **Descripción**                         |
+|-----------------------------------------------|-----------------|-----------------------------------------|
+| `/api/v1/user-transactions`                   | POST            | Crear una nueva transacción.            |
+| `/api/v1/user-transactions/{userId}`          | GET             | Obtener transacciones por ID de usuario.|
+
+## Relación Usuario-Reporte de Inflación
+| **Endpoint**                                    | **Acción HTTP** | **Descripción**                         |
+|-------------------------------------------------|-----------------|-----------------------------------------|
+| `/api/users/{userId}/reports/{reportId}`       | POST            | Relacionar un usuario con un reporte.   |
+| `/api/users/{userId}/reports/{reportId}`       | DELETE          | Eliminar relación usuario-reporte.      |
+
+## Consultas y Asesorías
+| **Endpoint**                  | **Acción HTTP** | **Descripción**                     |
+|-------------------------------|-----------------|-------------------------------------|
+| `/api/v1/consultas-asesoria`  | GET             | Obtener todas las consultas.        |
+| `/api/v1/consultas-asesoria/{id}` | GET         | Obtener una consulta específica.    |
 
 <div id='5.2.3.8.'><h5>5.2.3.8. Team Collaboration Insights during Sprint</h5></div>
 
+- Para este sprint se mejoraron las vistas en todas las pestañas del front-end, backe-end y el informe. A continuación se presentará los insights del grupo.
+
+Enlace del repositorio: https://github.com/Upecinos-AI-OpenSource/Saifu-project-report
+
+![image](assets/insight.png)
+
+![image](assets/insight_backend2.png)
+
+![image](assets/insight2.png)
+  
 <div id='5.2.4.'><h5>5.2.4. Sprint 4</h5></div>
 <div id='5.2.4.1.'><h5>5.2.4.1. Sprint Planning 4</h5></div>
 <table>
