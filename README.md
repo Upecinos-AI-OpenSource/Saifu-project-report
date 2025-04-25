@@ -245,6 +245,9 @@ Como visión nos proyectamos a ver el resultado de la aplicación beneficiando e
 |Mi nombre es Carlos Rojas, estudio la carrera de Ingeniería de Software. Mi carrera consiste en crear softwares inteligentes y sistemas informáticos usando un lenguaje de programación con lógica. Me considero una persona responsable y colaborativo como ayudar a las personas y dar ideas, especialmente en grupos. En este trabajo en equipo se requiere dar una buena comunicación, por ello, siempre daré mi opinión. | ![Foto Carlos andres](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/6da34639091457f8ab2f3b29ddd253a817cdfd49/assets/Andres_Rojas.png)
 
 <div id='12'><h3> 1.2. Solution Profile.</h3></div>
+
+La propuesta de solución se centra en una aplicación móvil y web que permite a las personas mejorar la gestión de sus finanzas personales mediante el registro constante de gastos e ingresos, el análisis automatizado de estos datos y el acceso a contenido educativo. A través del uso de inteligencia artificial, la plataforma podrá personalizar recomendaciones financieras que ayuden al usuario a ahorrar, organizar sus recursos y tomar mejores decisiones económicas. Esta solución busca ser una guía financiera sencilla, confiable y accesible para quienes más lo necesitan.
+
 <div id='121'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
 
 ###### What (Qué)
